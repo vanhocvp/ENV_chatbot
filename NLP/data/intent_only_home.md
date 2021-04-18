@@ -1,0 +1,819 @@
+## intent:intent_only_home
+- quanh đây đều có điện mỗi nhà mình không có điện
+- xung quanh đều không mất điện chỉ nhà mày hông có điện
+- xung quanh đây đều không mất điện chỉ nhà cô hông có điện
+- xung quanh đều có điện chỉ có nhà anh bị mất
+- quanh các khu đây đều không mất điện chỉ nhà mình chẳng có điện
+- quanh nhà đều có điện mỗi nhà chị không có điện
+- quanh nhà đều có điện chỉ nhà anh mất điện
+- xung quanh đây đều có điện độc mỗi nhà cô chẳng có điện
+- quanh đây đều không mất điện chỉ nhà mình hông có điện
+- xung quanh đây đều không mất điện độc mỗi nhà mình chẳng có điện
+- quanh các khu đây đều có điện chỉ có nhà chú chẳng có điện
+- các khu đều có điện mỗi nhà cô hông có điện
+- các khu đều không mất điện chỉ nhà chị mất điện
+- các khu đều có điện mỗi nhà cô mất điện
+- quanh các khu đây đều không mất điện chỉ có nhà mình mất điện
+- quanh nhà đều không mất điện độc mỗi nhà em hông có điện
+- xung quanh đều có điện chỉ có nhà chị mất điện
+- quanh đây đều có điện chỉ nhà em mất điện
+- quanh đây đều không mất điện chỉ có nhà anh mất điện
+- quanh nhà đều không mất điện chỉ nhà anh chẳng có điện
+- quanh nhà đều không mất điện chỉ nhà em mất điện
+- các khu đều không mất điện mỗi nhà anh bị mất
+- quanh các khu đây đều không mất điện chỉ nhà mày không có điện
+- quanh các khu đây đều có điện mỗi nhà chú bị mất
+- xung quanh đây đều không mất điện chỉ nhà chị mất điện
+- quanh các khu đây đều không mất điện mỗi nhà cô mất điện
+- các khu đều có điện độc mỗi nhà mình hông có điện
+- quanh đây đều có điện mỗi nhà chị mất điện
+- xung quanh đây đều không mất điện chỉ có nhà mình không có điện
+- xung quanh đây đều không mất điện chỉ nhà em chẳng có điện
+- quanh đây đều có điện chỉ có nhà anh mất điện
+- xung quanh đây đều có điện chỉ nhà em không có điện
+- xung quanh đây đều có điện độc mỗi nhà chú hông có điện
+- quanh đây đều không mất điện độc mỗi nhà anh bị mất
+- các khu đều không mất điện độc mỗi nhà mình không có điện
+- quanh nhà đều có điện chỉ nhà em không có điện
+- quanh nhà đều không mất điện mỗi nhà mình hông có điện
+- quanh đây đều không mất điện mỗi nhà mình mất điện
+- quanh nhà đều có điện chỉ có nhà chú hông có điện
+- quanh đây đều không mất điện chỉ nhà chú chẳng có điện
+- quanh đây đều có điện mỗi nhà mày hông có điện
+- quanh nhà đều không mất điện mỗi nhà em chẳng có điện
+- xung quanh đây đều không mất điện độc mỗi nhà mình không có điện
+- xung quanh đây đều có điện chỉ nhà mày bị mất
+- quanh nhà đều không mất điện mỗi nhà anh không có điện
+- xung quanh đây đều không mất điện mỗi nhà chú mất điện
+- quanh đây đều không mất điện chỉ có nhà cô mất điện
+- xung quanh đây đều không mất điện độc mỗi nhà chị không có điện
+- quanh đây đều không mất điện chỉ nhà chú bị mất
+- các khu đều không mất điện mỗi nhà em chẳng có điện
+- xung quanh đây đều có điện chỉ có nhà chị hông có điện
+- xung quanh đây đều không mất điện mỗi nhà em không có điện
+- các khu đều không mất điện chỉ nhà cô hông có điện
+- quanh nhà đều có điện độc mỗi nhà anh chẳng có điện
+- quanh các khu đây đều có điện độc mỗi nhà anh không có điện
+- quanh đây đều không mất điện chỉ nhà anh không có điện
+- các khu đều không mất điện độc mỗi nhà em hông có điện
+- xung quanh đây đều không mất điện chỉ có nhà chị bị mất
+- xung quanh đây đều không mất điện chỉ nhà mình bị mất
+- xung quanh đây đều có điện độc mỗi nhà mình chẳng có điện
+- quanh đây đều có điện chỉ nhà chú không có điện
+- quanh đây đều không mất điện độc mỗi nhà anh không có điện
+- các khu đều có điện độc mỗi nhà em mất điện
+- quanh các khu đây đều có điện độc mỗi nhà mày mất điện
+- xung quanh đều không mất điện độc mỗi nhà mình không có điện
+- các khu đều không mất điện chỉ có nhà mình bị mất
+- xung quanh đây đều không mất điện mỗi nhà chú chẳng có điện
+- xung quanh đây đều có điện mỗi nhà anh không có điện
+- quanh nhà đều có điện độc mỗi nhà mày hông có điện
+- các khu đều có điện độc mỗi nhà anh chẳng có điện
+- các khu đều không mất điện chỉ có nhà mình chẳng có điện
+- xung quanh đều không mất điện độc mỗi nhà em không có điện
+- xung quanh đây đều có điện chỉ nhà mình chẳng có điện
+- quanh các khu đây đều có điện mỗi nhà chú chẳng có điện
+- các khu đều không mất điện độc mỗi nhà mình hông có điện
+- các khu đều có điện độc mỗi nhà chú không có điện
+- xung quanh đều không mất điện mỗi nhà anh chẳng có điện
+- xung quanh đây đều có điện độc mỗi nhà em không có điện
+- xung quanh đều không mất điện chỉ nhà anh mất điện
+- quanh đây đều không mất điện chỉ có nhà chị không có điện
+- quanh nhà đều không mất điện chỉ có nhà cô mất điện
+- các khu đều không mất điện chỉ có nhà chị bị mất
+- quanh đây đều không mất điện độc mỗi nhà mình mất điện
+- các khu đều không mất điện chỉ nhà mình hông có điện
+- xung quanh đây đều có điện chỉ nhà mày mất điện
+- các khu đều có điện chỉ nhà chị không có điện
+- quanh đây đều có điện mỗi nhà em không có điện
+- quanh đây đều có điện độc mỗi nhà mình chẳng có điện
+- các khu đều có điện chỉ nhà chú bị mất
+- quanh nhà đều có điện độc mỗi nhà chú không có điện
+- các khu đều không mất điện chỉ có nhà anh chẳng có điện
+- xung quanh đều có điện độc mỗi nhà chị không có điện
+- quanh đây đều có điện chỉ có nhà mày bị mất
+- các khu đều không mất điện chỉ nhà chị hông có điện
+- quanh các khu đây đều có điện chỉ nhà mình bị mất
+- quanh đây đều có điện chỉ nhà mình không có điện
+- quanh đây đều có điện chỉ nhà mày bị mất
+- quanh các khu đây đều không mất điện chỉ có nhà cô mất điện
+- xung quanh đều không mất điện mỗi nhà em bị mất
+- xung quanh đều có điện chỉ nhà cô mất điện
+- hình như xung quanh đều có điện chỉ nhà cô mất điện
+- dường như quanh các khu đây đều có điện mỗi nhà em chẳng có điện
+- có vẻ xung quanh đều không mất điện chỉ có nhà cô hông có điện
+- có vẻ như xung quanh đều có điện mỗi nhà cô không có điện
+- dường như quanh nhà đều có điện độc mỗi nhà em bị mất
+- hình như quanh các khu đây đều có điện chỉ nhà mày chẳng có điện
+- có vẻ như xung quanh đều có điện chỉ có nhà chú không có điện
+- dường như xung quanh đây đều có điện chỉ nhà chị mất điện
+- có vẻ quanh đây đều có điện chỉ có nhà em không có điện
+- có vẻ quanh nhà đều có điện độc mỗi nhà cô chẳng có điện
+- có vẻ xung quanh đều không mất điện mỗi nhà mày chẳng có điện
+- có vẻ như xung quanh đều không mất điện chỉ có nhà anh bị mất
+- dường như quanh nhà đều có điện mỗi nhà mình hông có điện
+- có vẻ như xung quanh đều có điện mỗi nhà chị chẳng có điện
+- có vẻ xung quanh đều không mất điện độc mỗi nhà chú hông có điện
+- dường như quanh đây đều không mất điện mỗi nhà mình không có điện
+- có vẻ các khu đều có điện mỗi nhà anh bị mất
+- có vẻ các khu đều không mất điện mỗi nhà chị mất điện
+- có vẻ các khu đều không mất điện độc mỗi nhà chị hông có điện
+- hình như quanh đây đều có điện chỉ có nhà chị không có điện
+- dường như các khu đều có điện chỉ nhà cô hông có điện
+- có vẻ các khu đều không mất điện chỉ nhà anh bị mất
+- có vẻ như xung quanh đều không mất điện chỉ nhà mày mất điện
+- dường như các khu đều không mất điện chỉ có nhà chị bị mất
+- có vẻ như các khu đều không mất điện mỗi nhà anh chẳng có điện
+- có vẻ như xung quanh đây đều có điện chỉ nhà chú mất điện
+- hình như quanh các khu đây đều không mất điện chỉ nhà mình bị mất
+- dường như các khu đều không mất điện độc mỗi nhà chú chẳng có điện
+- có vẻ như quanh các khu đây đều có điện chỉ có nhà mày không có điện
+- có vẻ quanh đây đều có điện chỉ nhà mày hông có điện
+- hình như quanh đây đều không mất điện chỉ có nhà anh hông có điện
+- có vẻ quanh nhà đều có điện độc mỗi nhà mình hông có điện
+- có vẻ quanh đây đều có điện độc mỗi nhà chị không có điện
+- có vẻ xung quanh đều không mất điện mỗi nhà em chẳng có điện
+- có vẻ xung quanh đây đều không mất điện mỗi nhà mình chẳng có điện
+- có vẻ như các khu đều có điện độc mỗi nhà chị mất điện
+- hình như quanh các khu đây đều có điện mỗi nhà cô chẳng có điện
+- có vẻ như quanh các khu đây đều có điện độc mỗi nhà em mất điện
+- hình như xung quanh đều có điện chỉ có nhà mày bị mất
+- có vẻ như quanh đây đều có điện chỉ nhà anh hông có điện
+- hình như các khu đều không mất điện độc mỗi nhà mình chẳng có điện
+- dường như xung quanh đều không mất điện chỉ có nhà em chẳng có điện
+- dường như các khu đều không mất điện chỉ nhà chú không có điện
+- dường như quanh nhà đều không mất điện mỗi nhà mình chẳng có điện
+- dường như xung quanh đây đều không mất điện chỉ nhà chị bị mất
+- có vẻ quanh các khu đây đều không mất điện mỗi nhà chị hông có điện
+- có vẻ xung quanh đây đều không mất điện chỉ có nhà em không có điện
+- có vẻ các khu đều không mất điện chỉ có nhà mình hông có điện
+- có vẻ các khu đều có điện độc mỗi nhà chú bị mất
+- hình như quanh nhà đều không mất điện chỉ có nhà anh không có điện
+- dường như xung quanh đều chẳng có điện nha em
+- dường như xung quanh đều chẳng có điện nha chú
+- có vẻ quanh các khu đây đều mất toàn ngõ nha anh
+- có vẻ xung quanh đây đều mất điện nhé mày
+- dường như quanh đây đều mất toàn ngõ nhớ anh
+- có vẻ như xung quanh đều không có điện nhớ mình
+- hình như xung quanh đều mất toàn ngõ nha chị
+- có vẻ như quanh các khu đây đều mất điện toàn khu nha anh
+- dường như quanh các khu đây đều mất điện nha mình
+- hình như quanh các khu đây đều không có điện nhớ anh
+- có vẻ quanh đây đều mất điện toàn khu nhớ chị
+- dường như các khu đều mất toàn ngõ nhá cô
+- có vẻ quanh đây đều chẳng có điện nhé chú
+- hình như xung quanh đều mất điện cả nhớ em
+- có vẻ như xung quanh đều mất điện nha cô
+- hình như xung quanh đều mất toàn ngõ nha em
+- hình như xung quanh đây đều mất điện toàn khu nhá chú
+- có vẻ như các khu đều không có điện nhá chú
+- có vẻ như quanh đây đều mất toàn ngõ nhớ cô
+- dường như xung quanh đều chẳng có điện nha cô
+- dường như xung quanh đây đều chẳng có điện nhớ chị
+- dường như quanh nhà đều chẳng có điện nhá mình
+- có vẻ xung quanh đây đều chẳng có điện mình
+- hình như các khu đều không có điện nhớ cô
+- hình như các khu đều mất điện cả nhớ chú
+- dường như các khu đều chẳng có điện nhớ anh
+- dường như quanh nhà đều mất toàn ngõ nha anh
+- dường như quanh đây đều mất điện toàn khu chú
+- hình như quanh các khu đây đều không có điện nha em
+- có vẻ như quanh đây đều mất toàn ngõ nhớ mình
+- hình như xung quanh đây đều không có điện mình
+- có vẻ xung quanh đây đều mất điện toàn khu nha mày
+- có vẻ quanh đây đều mất điện toàn khu nha chị
+- dường như xung quanh đều mất toàn ngõ nhá cô
+- dường như xung quanh đều mất toàn ngõ nhớ em
+- dường như quanh nhà đều không có điện nhớ chị
+- có vẻ như xung quanh đều mất điện cả nhá mình
+- có vẻ quanh nhà đều chẳng có điện chị
+- hình như xung quanh đây đều mất toàn ngõ nhé mày
+- dường như quanh các khu đây đều mất toàn ngõ nhá anh
+- có vẻ như các khu đều mất điện cả nhé cô
+- có vẻ như các khu đều mất điện nha cô
+- có vẻ như các khu đều mất điện cả nha em
+- có vẻ như xung quanh đây đều chẳng có điện cô
+- có vẻ như xung quanh đây đều chẳng có điện nhé em
+- có vẻ như xung quanh đây đều mất điện cả nha cô
+- có vẻ như các khu đều mất điện mình
+- hình như quanh đây đều mất điện nhớ chú
+- có vẻ quanh nhà đều chẳng có điện nha cô
+- hình như xung quanh đều mất toàn ngõ nhớ mình
+- chỉ mình nhà chú bác ơi
+- mỗi mình nhà tao tao ạ
+- mỗi mình nhà chú tôi ơi
+- mỗi mình nhà em cô ạ
+- mỗi mình nhà anh tôi ơi
+- chỉ mình nhà tao cô ơi
+- chỉ mình nhà bác cô ơi
+- mỗi mình nhà bác chú ơi
+- chỉ mình nhà tao chú ạ
+- chỉ mình nhà cô tao ơi
+- độc mình nhà tao em ơi
+- chỉ mình nhà em anh ơi
+- mỗi mình nhà bác tao ơi
+- độc mình nhà tao chú ơi
+- mỗi mình nhà cô tao ơi
+- mỗi mình nhà anh chú ơi
+- chỉ mình nhà cô cô ơi
+- chỉ mình nhà tao tôi ạ
+- chỉ mình nhà anh chị ạ
+- mỗi mình nhà bác bác ơi
+- mỗi mình nhà chú anh ạ
+- mỗi mình nhà em chị ạ
+- chỉ mình nhà cô anh ạ
+- độc mình nhà chú anh ạ
+- chỉ mình nhà chị chị ơi
+- độc mình nhà tôi bác ạ
+- chỉ mình nhà chú tao ơi
+- mỗi mình nhà tao chú ạ
+- chỉ mình nhà tôi tao ạ
+- mỗi mình nhà tôi chị ơi
+- độc mình nhà cô em ơi
+- độc mình nhà anh tôi ơi
+- chỉ mình nhà em cô ơi
+- độc mình nhà em bác ơi
+- chỉ mình nhà chị anh ơi
+- chỉ mình nhà tôi em ạ
+- mỗi mình nhà tôi bác ạ
+- mỗi mình nhà chú tao ạ
+- độc mình nhà tao bác ơi
+- chỉ mình nhà cô tôi ơi
+- mỗi mình
+- độc mình
+- chỉ mình
+- chỉ có gia đình cô
+- chỉ gia đình em
+- mỗi nhà tôi
+- mỗi nhà chú
+- chỉ gia đình cháu
+- chỉ có gia đình cháu
+- chỉ gia đình mình
+- chỉ có nhà chú
+- chỉ nhà chị
+- chỉ nhà cháu
+- chỉ nhà em
+- chỉ có nhà em
+- chỉ gia đình cô
+- mỗi nhà chị
+- mỗi nhà anh
+- mỗi gia đình anh
+- chỉ có gia đình mình
+- chỉ có nhà anh
+- chỉ có gia đình chú
+- chỉ gia đình chú
+- mỗi nhà cháu
+- chỉ có nhà mình
+- chỉ gia đình tôi
+- chỉ có nhà cháu
+- mỗi nhà tao
+- chỉ có gia đình em
+- chỉ nhà cô
+- chỉ nhà mình
+- mỗi nhà em
+- một mình
+- chỉ có nhà tôi
+- độc mỗi gia đình anh
+- độc mỗi gia đình mình
+- độc mỗi nhà tao
+- độc mỗi nhà cô
+- độc mỗi gia đình tôi
+- độc mỗi gia đình em
+- độc mỗi nhà tôi
+- độc mỗi gia đình tao
+- độc mỗi gia đình chú
+- độc mỗi nhà chị
+- không chỉ mất mỗi nhà chú
+- không độc mất mỗi nhà chú
+- không chỉ mất mỗi nhà cô
+- không mất mỗi nhà anh
+- không độc mất mỗi nhà tôi
+- không độc mất mỗi nhà anh
+- không mất mỗi nhà cô
+- không chỉ mất mỗi nhà em
+- không chỉ mất mỗi nhà tôi
+- không chỉ mất mỗi nhà anh
+- không chỉ mất mỗi nhà mình
+- không mất mỗi nhà chị
+- không mất mỗi nhà chú
+- không độc mất mỗi nhà chị
+- không độc mất mỗi nhà em
+- không mất mỗi nhà tôi
+- không mất mỗi nhà mình
+- không chỉ mất mỗi nhà chị
+- không độc mất mỗi nhà cô
+- không độc mất mỗi nhà mình
+- toàn bộ khu vực có điện mà độc mình không có điện chị ơi
+- toàn khu vẫn có điện mà chỉ mình mất điện cô
+- toàn ngách vẫn còn điện mà độc mình bị mất chị ơi
+- toàn khu có điện mà độc mình bị cắt anh
+- cả huyện có đèn sáng mà mỗi mình không có điện chị ạ
+- tất cả huyện vẫn còn điện mà độc mình mất điện mày
+- toàn bộ huyện có đèn sáng mà mỗi mình mất điện em
+- toàn bộ ngõ có điện mà mỗi mình chẳng có điện cô
+- cả ngõ vẫn có điện mà mỗi mình mất điện mày
+- tất cả ngách có điện mà mỗi mình chẳng có điện em
+- tất cả huyện có điện mà mỗi mình bị cắt anh
+- toàn khu có điện mà mỗi mình chẳng có điện anh
+- toàn khu vực vẫn có điện mà mỗi mình mất điện cô ơi
+- cả ngõ vẫn còn điện mà độc mình mất điện cô
+- cả ngõ vẫn còn điện mà độc mình bị cắt em ơi
+- tất cả ngõ vẫn còn điện mà độc mình chẳng có điện cô ơi
+- toàn bộ ngách vẫn còn điện mà chỉ mình bị mất chị
+- cả ngách vẫn còn điện mà độc mình không có điện mày
+- toàn ngõ vẫn còn điện mà chỉ mình chẳng có điện anh ơi
+- toàn khu vực vẫn còn điện mà độc mình bị cắt mày
+- tất cả huyện có đèn sáng mà chỉ mình bị cắt chị
+- toàn bộ khu có điện mà mỗi mình mất điện chị ạ
+- toàn bộ khu vực vẫn còn điện mà mỗi mình mất điện em
+- cả khu vực vẫn còn điện mà độc mình bị mất chị
+- toàn bộ ngõ có đèn sáng mà mỗi mình chẳng có điện cô
+- toàn huyện vẫn có điện mà độc mình không có điện chú ơi
+- cả huyện vẫn có điện mà chỉ mình mất điện cháu
+- toàn ngõ vẫn còn điện mà độc mình không có điện cô
+- toàn bộ khu có đèn sáng mà độc mình không có điện chị ạ
+- cả khu vực vẫn còn điện mà mỗi mình bị cắt bạn
+- cả ngõ có đèn sáng mà mỗi mình không có điện anh
+- tất cả khu vẫn có điện mà chỉ mình bị mất em
+- tất cả ngách vẫn còn điện mà mỗi mình bị mất cô
+- toàn khu vực vẫn có điện mà mỗi mình chẳng có điện anh
+- toàn bộ ngách có đèn sáng mà mỗi mình bị cắt anh ạ
+- cả huyện có đèn sáng mà chỉ mình chẳng có điện chú
+- toàn bộ ngõ có điện mà chỉ mình chẳng có điện cô
+- toàn khu vực có đèn sáng mà độc mình chẳng có điện chú ơi
+- cả huyện vẫn còn điện mà mỗi mình mất điện em
+- tất cả ngách có điện mà chỉ mình mất điện mày ơi
+- tất cả ngách vẫn có điện mà mỗi mình bị mất em ạ
+- toàn khu vực có điện mà chỉ mình bị mất chị
+- cả khu vực có đèn sáng mà độc mình bị mất em
+- cả ngõ vẫn còn điện mà chỉ mình chẳng có điện chú
+- cả khu có điện mà mỗi mình mất điện chú
+- toàn ngách có đèn sáng mà độc mình chẳng có điện em ạ
+- toàn khu vẫn còn điện mà độc mình mất điện bạn ạ
+- tất cả khu có điện mà độc mình bị mất bạn
+- toàn ngách có đèn sáng mà chỉ mình chẳng có điện em
+- toàn bộ ngõ vẫn còn điện mà chỉ mình mất điện mày ơi
+- toàn bộ ngõ có điện mà chỉ mình không có điện chị
+- tất cả ngách có điện mà độc mình bị mất chú
+- toàn bộ ngách vẫn còn điện mà chỉ mình bị cắt anh
+- toàn khu vực có đèn sáng mà mỗi mình bị mất chị ơi
+- toàn khu vẫn có điện mà mỗi mình bị mất anh ơi
+- tất cả huyện vẫn có điện mà độc mình chẳng có điện chị
+- tất cả khu có điện mà chỉ mình chẳng có điện cháu
+- cả huyện vẫn còn điện mà chỉ mình mất điện anh ơi
+- toàn khu có điện mà chỉ mình không có điện cô
+- toàn bộ khu vực vẫn có điện mà chỉ mình không có điện em
+- toàn bộ ngõ có điện mà độc mình bị mất bạn
+- cả ngõ có đèn sáng mà mỗi mình mất điện chú
+- tất cả khu có đèn sáng mà độc mình mất điện em
+- toàn bộ ngách vẫn có điện mà chỉ mình mất điện chị
+- toàn bộ khu vực vẫn còn điện mà chỉ mình bị mất mày
+- toàn bộ ngõ vẫn còn điện mà độc mình không có điện cháu
+- toàn khu vẫn có điện mà mỗi mình không có điện chị
+- toàn bộ khu vực vẫn còn điện mà độc mình không có điện chú
+- toàn bộ khu vực có đèn sáng mà mỗi mình mất điện cô
+- cả huyện vẫn có điện mà chỉ mình bị cắt cô
+- toàn khu vực vẫn còn điện mà độc mình bị mất chú
+- cả ngõ có đèn sáng mà độc mình không có điện chị
+- toàn bộ ngách có điện mà độc mình chẳng có điện mày ơi
+- tất cả huyện vẫn có điện mà chỉ mình bị mất em
+- toàn bộ khu vực vẫn còn điện mà mỗi mình bị cắt chú
+- tất cả huyện vẫn có điện mà chỉ mình không có điện em
+- cả khu vực vẫn còn điện mà chỉ mình bị cắt cô
+- toàn bộ khu có đèn sáng mà chỉ mình mất điện bạn
+- toàn khu vực vẫn có điện mà chỉ mình chẳng có điện chú
+- toàn bộ ngõ vẫn còn điện mà mỗi mình chẳng có điện anh
+- toàn bộ khu vẫn có điện mà độc mình không có điện anh
+- toàn bộ ngách có đèn sáng mà mỗi mình bị cắt mày
+- toàn ngách vẫn còn điện mà độc mình bị cắt anh
+- toàn bộ ngách vẫn còn điện mà độc mình bị cắt em ạ
+- cả ngách vẫn có điện mà chỉ mình không có điện chú
+- toàn bộ khu có đèn sáng mà độc mình không có điện em ạ
+- cả khu vực có điện mà mỗi mình bị cắt cô ạ
+- toàn khu vực có đèn sáng mà chỉ mình bị cắt cháu
+- cả ngõ vẫn còn điện mà độc mình chẳng có điện cô ơi
+- toàn bộ ngách vẫn có điện mà độc mình không có điện em ơi
+- toàn bộ ngõ có đèn sáng mà độc mình bị mất cô
+- tất cả khu có điện mà độc mình không có điện chị
+- toàn bộ khu vực vẫn có điện mà chỉ mình bị mất mày ơi
+- tất cả ngõ có đèn sáng mà mỗi mình bị cắt chị
+- tất cả huyện có đèn sáng mà chỉ mình mất điện mày
+- tất cả khu vực có đèn sáng mà độc mình bị cắt mày ơi
+- tất cả khu vực có điện mà mỗi mình bị cắt mày
+- tất cả ngách có điện mà chỉ mình mất điện cô
+- cả ngõ vẫn còn điện mà mỗi mình bị cắt em
+- tất cả khu có điện mà độc mình bị mất chú
+- nhà bên có điện độc mình không có điện chị
+- khu bên vẫn có điện mỗi mình bị cắt mày
+- khu vực bên vẫn có điện độc mình bị mất cháu
+- nhà bên cạnh có đèn sáng chỉ mình không có điện anh
+- hàng xóm vẫn có điện chỉ mình không có điện mày
+- khu bên có điện chỉ mình không có điện cháu
+- khu vực bên có đèn sáng chỉ mình mất điện anh
+- hàng xóm có điện chỉ mình chẳng có điện bạn
+- nhà bên có điện chỉ mình bị mất bạn
+- khu bên vẫn có điện độc mình bị mất chị
+- nhà bên vẫn có điện chỉ mình chẳng có điện mày
+- nhà bên cạnh vẫn còn điện độc mình chẳng có điện em
+- hàng xóm vẫn còn điện độc mình bị mất mày
+- khu vực bên vẫn có điện độc mình bị cắt chú
+- khu bên vẫn có điện mỗi mình bị mất chị
+- khu vực bên có đèn sáng mỗi mình bị mất em
+- hàng xóm có đèn sáng mỗi mình mất điện chị
+- nhà bên có điện mỗi mình mất điện cháu
+- bên khu khác có đèn sáng chỉ mình không có điện chú
+- nhà bên cạnh có điện chỉ mình chẳng có điện bạn
+- khu vực bên có điện độc mình bị mất cháu
+- khu bên vẫn còn điện độc mình không có điện cháu
+- khu bên vẫn còn điện mỗi mình không có điện bạn
+- nhà bên cạnh có đèn sáng chỉ mình không có điện em
+- nhà bên có đèn sáng độc mình bị cắt anh
+- ngoài đường có đèn sáng chỉ mình mất điện anh
+- hàng xóm có đèn sáng mỗi mình bị mất cô
+- bên khu khác có đèn sáng mỗi mình chẳng có điện bạn
+- hàng xóm vẫn còn điện chỉ mình chẳng có điện chị
+- nhà bên cạnh có đèn sáng mỗi mình bị cắt mày
+- hàng xóm vẫn còn điện độc mình bị mất bạn
+- khu bên vẫn còn điện mỗi mình bị cắt mày
+- khu bên có điện chỉ mình mất điện bạn
+- nhà bên cạnh có đèn sáng độc mình mất điện chị
+- khu vực bên có điện chỉ mình bị mất bạn
+- nhà bên cạnh có điện mỗi mình bị mất chú
+- khu bên có đèn sáng chỉ mình chẳng có điện cô
+- khu bên có điện mỗi mình bị cắt cháu
+- bên khu khác vẫn còn điện mỗi mình không có điện mày
+- hàng xóm vẫn còn điện chỉ mình không có điện bạn
+- khu bên vẫn có điện mỗi mình chẳng có điện em
+- bên khu khác có điện mỗi mình bị cắt cô
+- bên khu khác có điện mỗi mình bị mất cô
+- nhà bên vẫn còn điện mỗi mình mất điện mày
+- ngoài đường vẫn có điện độc mình bị mất em
+- khu vực bên vẫn có điện mỗi mình bị cắt mày
+- nhà bên có đèn sáng mỗi mình bị cắt chú
+- ngoài đường vẫn có điện chỉ mình không có điện em
+- hàng xóm có đèn sáng mỗi mình bị mất mày
+- ngoài đường có đèn sáng mỗi mình mất điện mày
+- khu bên vẫn có điện mỗi mình bị mất bạn
+- nhà bên vẫn còn điện mỗi mình bị mất chú
+- ngoài đường có điện chỉ mình bị cắt chị
+- nhà bên vẫn có điện mỗi mình không có điện em
+- khu bên vẫn còn điện độc mình bị cắt em
+- khu bên có điện mỗi mình bị cắt anh
+- bên khu khác có đèn sáng chỉ mình không có điện cô
+- khu bên có đèn sáng mỗi mình bị cắt chị
+- nhà bên cạnh có đèn sáng độc mình không có điện anh
+- khu bên vẫn có điện độc mình không có điện chú
+- nhà bên cạnh vẫn có điện chỉ mình mất điện cô
+- khu vực bên vẫn còn điện độc mình không có điện anh
+- khu bên vẫn còn điện mỗi mình mất điện cô
+- khu bên có đèn sáng chỉ mình chẳng có điện cháu
+- nhà bên vẫn còn điện chỉ mình bị mất cô
+- khu vực bên có đèn sáng mỗi mình không có điện chú
+- khu bên vẫn có điện độc mình không có điện mày
+- hàng xóm vẫn có điện độc mình chẳng có điện em
+- hàng xóm có điện độc mình bị mất chú
+- hàng xóm có điện chỉ mình bị cắt chị
+- hàng xóm có điện chỉ mình không có điện anh
+- nhà bên vẫn có điện chỉ mình bị cắt anh
+- hàng xóm vẫn còn điện mỗi mình mất điện cô
+- ngoài đường có đèn sáng mỗi mình bị cắt chị
+- bên khu khác có đèn sáng chỉ mình bị mất cô
+- bên khu khác vẫn có điện chỉ mình không có điện mày
+- khu vực bên có điện mỗi mình mất điện anh
+- khu vực bên vẫn có điện mỗi mình không có điện cô
+- ngoài đường vẫn có điện mỗi mình bị cắt anh
+- ngoài đường có điện mỗi mình bị cắt chú
+- nhà bên có điện mỗi mình không có điện cháu
+- bên khu khác vẫn có điện độc mình chẳng có điện cô
+- ngoài đường có điện độc mình mất điện chú
+- khu vực bên vẫn còn điện độc mình bị mất bạn
+- bên khu khác vẫn còn điện mỗi mình bị cắt cháu
+- nhà bên cạnh vẫn còn điện mỗi mình chẳng có điện em
+- khu vực bên có điện độc mình bị mất bạn
+- khu vực bên vẫn có điện chỉ mình mất điện em
+- nhà bên cạnh vẫn còn điện mỗi mình mất điện mày
+- nhà bên vẫn còn điện độc mình mất điện chú
+- nhà bên vẫn còn điện mỗi mình mất điện chị
+- bên khu khác có đèn sáng mỗi mình chẳng có điện anh
+- ngoài đường vẫn có điện chỉ mình chẳng có điện chị
+- khu bên vẫn có điện chỉ mình mất điện bạn
+- ngoài đường vẫn còn điện độc mình mất điện chị
+- khu vực bên có điện độc mình bị cắt em
+- khu vực bên có điện chỉ mình bị mất anh
+- khu vực bên có điện mỗi mình không có điện chị
+- ngoài đường vẫn có điện mỗi mình mất điện cháu
+- bên khu khác có đèn sáng độc mình bị mất mày
+- em nhín thấy khu vực bên vẫn có điện mỗi mình bị cắt
+- cô thấy hàng xóm vẫn còn điện mỗi mình mất điện
+- em nhín thấy khu vực bên vẫn còn điện mỗi mình chẳng có điện
+- mình thấy nhà bên vẫn có điện chỉ mình chẳng có điện
+- em nhìn hàng xóm vẫn còn điện chỉ mình bị cắt
+- cô thấy ngoài đường vẫn có điện chỉ mình chẳng có điện
+- mình nhìn nhà bên có đèn sáng độc mình bị cắt
+- anh nhín thấy bên khu khác vẫn có điện mỗi mình không có điện
+- em nhìn hàng xóm có điện mỗi mình bị mất
+- chị nhìn khu bên vẫn còn điện chỉ mình mất điện
+- chú nhìn hàng xóm vẫn còn điện mỗi mình không có điện
+- cô nhín thấy hàng xóm vẫn có điện độc mình mất điện
+- chú nhín thấy nhà bên vẫn có điện mỗi mình bị mất
+- mình nhìn bên khu khác vẫn có điện độc mình mất điện
+- cô nhín thấy khu vực bên có điện chỉ mình mất điện
+- anh nhìn nhà bên cạnh vẫn có điện mỗi mình bị cắt
+- em nhín thấy nhà bên có đèn sáng chỉ mình chẳng có điện
+- anh thấy nhà bên cạnh vẫn còn điện độc mình bị mất
+- thím nhín thấy khu bên có đèn sáng độc mình bị mất
+- em nhín thấy ngoài đường có đèn sáng mỗi mình không có điện
+- em nhìn hàng xóm có điện mỗi mình chẳng có điện
+- mình nhín thấy ngoài đường có điện độc mình chẳng có điện
+- chú nhín thấy hàng xóm có điện độc mình bị mất
+- cô nhìn nhà bên cạnh vẫn còn điện chỉ mình bị mất
+- anh nhìn nhà bên cạnh có đèn sáng mỗi mình mất điện
+- mình nhìn bên khu khác vẫn còn điện mỗi mình không có điện
+- anh thấy nhà bên vẫn còn điện mỗi mình chẳng có điện
+- anh nhín thấy khu bên vẫn có điện mỗi mình chẳng có điện
+- thím nhìn ngoài đường vẫn còn điện mỗi mình mất điện
+- thím nhín thấy khu bên có đèn sáng độc mình không có điện
+- thím thấy nhà bên cạnh vẫn còn điện độc mình không có điện
+- cô nhìn ngoài đường có điện chỉ mình mất điện
+- mình nhìn nhà bên cạnh vẫn còn điện mỗi mình mất điện
+- cô nhìn hàng xóm có đèn sáng chỉ mình chẳng có điện
+- thím nhìn hàng xóm có điện độc mình bị cắt
+- chị nhín thấy khu bên vẫn có điện độc mình mất điện
+- mình nhín thấy nhà bên cạnh có điện mỗi mình bị cắt
+- anh nhín thấy bên khu khác có đèn sáng mỗi mình chẳng có điện
+- thím nhín thấy bên khu khác vẫn có điện mỗi mình không có điện
+- chú thấy bên khu khác vẫn có điện chỉ mình bị cắt
+- em nhín thấy nhà bên cạnh có điện mỗi mình mất điện
+- mình nhín thấy ngoài đường có đèn sáng mỗi mình mất điện
+- chú nhìn hàng xóm có đèn sáng chỉ mình bị mất
+- anh nhín thấy khu vực bên vẫn có điện chỉ mình chẳng có điện
+- thím thấy hàng xóm vẫn còn điện mỗi mình bị mất
+- thím nhìn khu bên có đèn sáng độc mình bị mất
+- mình nhín thấy bên khu khác vẫn có điện chỉ mình không có điện
+- chị thấy khu bên có đèn sáng chỉ mình bị mất
+- chị nhín thấy khu vực bên có đèn sáng chỉ mình mất điện
+- cô thấy khu bên vẫn có điện mỗi mình bị mất
+- cô nhìn bên khu khác có điện mỗi gia đình cô mất điện
+- cô thấy khu bên vẫn có điện chỉ gia đình cô bị cắt
+- thím nhín thấy bên khu khác vẫn có điện độc nhà thím bị cắt
+- tôi nhín thấy ngoài đường vẫn còn điện độc gia đình tôi mất điện
+- chú nhìn khu vực bên vẫn có điện độc nhà chú chẳng có điện
+- thím nhín thấy ngoài đường có đèn sáng chỉ gia đình thím bị mất
+- mình nhìn hàng xóm vẫn có điện chỉ nhà mình bị mất
+- bạn thấy hàng xóm có điện chỉ gia đình bạn bị cắt
+- tôi nhìn nhà bên cạnh vẫn còn điện chỉ nhà tôi bị cắt
+- chú thấy hàng xóm vẫn có điện độc nhà chú không có điện
+- cô nhín thấy khu vực bên có điện mỗi nhà cô không có điện
+- cô nhín thấy hàng xóm vẫn có điện độc gia đình cô chẳng có điện
+- thím nhìn nhà bên cạnh có đèn sáng độc gia đình thím không có điện
+- bạn nhìn ngoài đường vẫn có điện mỗi nhà bạn mất điện
+- em nhìn khu bên có đèn sáng độc nhà em chẳng có điện
+- bạn nhín thấy nhà bên cạnh có đèn sáng mỗi nhà bạn bị cắt
+- anh nhìn ngoài đường có điện chỉ nhà anh mất điện
+- chị nhín thấy ngoài đường có điện mỗi nhà chị mất điện
+- thím thấy nhà bên cạnh vẫn còn điện chỉ nhà thím mất điện
+- chú thấy nhà bên cạnh có đèn sáng độc gia đình chú bị mất
+- chú nhín thấy nhà bên cạnh có đèn sáng mỗi nhà chú bị cắt
+- em thấy nhà bên cạnh vẫn còn điện chỉ gia đình em mất điện
+- tôi nhìn ngoài đường vẫn có điện độc gia đình tôi bị cắt
+- chị nhín thấy khu bên vẫn còn điện chỉ nhà chị bị cắt
+- tôi thấy bên khu khác có điện chỉ nhà tôi mất điện
+- em nhìn nhà bên cạnh có đèn sáng chỉ gia đình em bị cắt
+- bạn nhín thấy nhà bên cạnh có đèn sáng chỉ gia đình bạn bị cắt
+- cô nhìn ngoài đường có điện chỉ gia đình cô không có điện
+- thím nhìn khu vực bên vẫn còn điện độc gia đình thím không có điện
+- bạn nhìn khu bên vẫn còn điện độc nhà bạn không có điện
+- thím nhìn khu vực bên có đèn sáng mỗi gia đình thím bị cắt
+- tôi nhìn nhà bên cạnh có điện độc nhà tôi chẳng có điện
+- bạn nhìn nhà bên vẫn còn điện chỉ gia đình bạn bị mất
+- chú nhìn nhà bên vẫn có điện độc nhà chú bị mất
+- tôi nhín thấy hàng xóm có điện độc nhà tôi bị cắt
+- bạn nhìn nhà bên cạnh có đèn sáng mỗi gia đình bạn bị mất
+- tôi nhìn hàng xóm có điện mỗi nhà tôi mất điện
+- chị nhín thấy khu vực bên có điện độc gia đình chị mất điện
+- thím nhín thấy ngoài đường vẫn còn điện mỗi gia đình thím bị cắt
+- mình thấy ngoài đường vẫn có điện chỉ gia đình mình bị cắt
+- tôi thấy ngoài đường có đèn sáng chỉ gia đình tôi bị cắt
+- bạn thấy nhà bên cạnh có đèn sáng độc gia đình bạn bị cắt
+- tôi nhín thấy bên khu khác có điện mỗi nhà tôi mất điện
+- tôi thấy bên khu khác có đèn sáng độc nhà tôi bị cắt
+- chị nhìn nhà bên có đèn sáng chỉ nhà chị không có điện
+- chị thấy nhà bên cạnh vẫn có điện độc nhà chị không có điện
+- bạn nhìn khu vực bên có điện chỉ gia đình bạn chẳng có điện
+- chị thấy nhà bên cạnh vẫn còn điện mỗi gia đình chị mất điện
+- em nhín thấy nhà bên có đèn sáng mỗi nhà em không có điện
+- thím nhín thấy nhà bên cạnh có đèn sáng chỉ gia đình thím chẳng có điện
+<!-- update 11/12/2020 -->
+- chỉ nhà mình bị cắt anh ơi
+- độc nhà mình không có điện anh ạ
+- mỗi nhà mình chẳng có điện mày ơi
+- độc nhà mình mất điện mày ạ
+- chỉ nhà mình bị mất anh ạ
+- độc nhà mình mất mày ạ
+- mỗi nhà mình mất điện em ạ
+- chỉ nhà mình không có bác ạ
+- mỗi nhà mình không có điện chị ạ
+- chỉ nhà mình hổng có chú ạ
+- mỗi nhà mình không có cô ạ
+- mỗi nhà mình bị mất chú ạ
+- mỗi nhà mình hông có điện mày ơi
+- chỉ nhà mình chẳng có em ơi
+- độc nhà mình bị cắt mày ạ
+- mỗi nhà mình mất chị ơi
+- chỉ nhà mình hông có anh ơi
+- độc nhà mình chẳng có em ơi
+- độc nhà mình bị cắt điện mày ạ
+- mỗi nhà mình chẳng có điện chị ạ
+- chỉ nhà mình chẳng có cô ơi
+- mỗi nhà mình hổng có cô ạ
+- chỉ nhà mình mất điện cô ạ
+- mỗi nhà mình hổng có anh ạ
+- độc nhà mình bị mất điện chú ơi
+- độc nhà mình mất chị ơi
+- mỗi nhà mình hổng có bác ơi
+- độc nhà mình bị mất bác ơi
+- độc nhà mình mất điện em ạ
+- mỗi nhà mình mất điện bác ạ
+- độc nhà mình bị mất điện em ơi
+- độc nhà mình hông có em ạ
+- độc nhà mình bị mất điện chú ạ
+- độc nhà mình không có cô ơi
+- mỗi nhà mình không có điện chú ơi
+- chỉ nhà mình mất em ơi
+- chỉ nhà mình mất điện em ạ
+- độc nhà mình chẳng có mày ơi
+- chỉ nhà mình hông có điện mày ơi
+- độc nhà mình bị mất mày ơi
+- độc nhà mình hông có điện em ạ
+- chỉ nhà mình chẳng có mày ơi
+- mỗi nhà mình hổng có em ơi
+- chỉ nhà mình mất điện chị ạ
+- mỗi nhà mình bị cắt điện chú ạ
+- độc nhà mình mất điện cô ạ
+- chỉ nhà mình chẳng có anh ạ
+- chỉ nhà mình không có điện chú ạ
+- chỉ nhà mình bị mất em ơi
+- mỗi nhà mình mất mày ơi
+<!-- update 11/12/2020 -->
+- mỗi nhà mình mất bên cạnh chẳng mất điện anh
+- ừ độc nhà mình mất điện ngoài đường đang có điện em
+- ừ độc nhà mình bị cắt điện nhà hàng xóm chẳng mất điện chị
+- ừ chỉ nhà mình bị cắt ngoài đường hổng mất điện anh
+- mỗi nhà mình không có ngoài đường có điện em
+- ừ độc nhà mình mất điện ngoài đường hổng mất điện chú
+- ừ chỉ nhà mình chẳng có khu bên có điện anh
+- độc nhà mình mất điện ngoài đường hổng mất điện em
+- chỉ nhà mình mất điện ngoài đường hông mất điện chú
+- mỗi nhà mình mất điện nhà bên hổng mất điện chị
+- ừ độc nhà mình bị mất nhà kế bên hổng mất điện cô
+- độc nhà mình mất điện nhà hàng xóm không bị mất điện chị
+- mỗi nhà mình bị cắt điện nhà hàng xóm hiện có điện anh
+- ừ mỗi nhà mình mất điện ngoài đường vẫn có điện bạn
+- ừ chỉ nhà mình bị mất bên cạnh không bị mất điện bạn
+- ừ mỗi nhà mình không có điện khu bên hiện có điện cô
+- ừ chỉ nhà mình bị cắt điện khu bên hông mất điện em
+- mỗi nhà mình không có điện ngoài đường chẳng mất điện chú
+- ừ mỗi nhà mình bị mất điện nhà hàng xóm đang có điện cô
+- ừ mỗi nhà mình chẳng có nhà bên không mất điện bạn
+- chỉ nhà mình hông có nhà hàng xóm có điện cô
+- ừ mỗi nhà mình không có ngoài đường hổng mất điện chú
+- mỗi nhà mình bị cắt điện bên cạnh hông mất điện em
+- ừ độc nhà mình không có điện nhà kế bên có điện chú
+- ừ mỗi nhà mình chẳng có khu bên đang có điện chị
+- ừ mỗi nhà mình hông có nhà hàng xóm không bị cắt điện cô
+- ừ chỉ nhà mình mất ngoài đường vẫn có điện chị
+- độc nhà mình hông có nhà bên có điện cô
+- ừ chỉ nhà mình không có điện nhà bên hiện có điện chú
+- ừ độc nhà mình chẳng có điện khu bên vẫn có điện chị
+- ừ mỗi nhà mình mất điện khu bên đang có điện mày
+- ừ chỉ nhà mình bị mất nhà hàng xóm hổng mất điện cô
+- ừ độc nhà mình không có điện nhà bên hổng mất điện em
+- ừ chỉ nhà mình chẳng có khu bên có điện mày
+- độc nhà mình mất ngoài đường không bị mất điện bạn
+- ừ mỗi nhà mình không có điện khu bên không mất điện cô
+- chỉ nhà mình chẳng có nhà bên hiện có điện cô
+- chỉ nhà mình không có điện bên cạnh chẳng mất điện anh
+- ừ mỗi nhà mình chẳng có điện nhà bên hông mất điện cô
+- ừ mỗi nhà mình chẳng có điện bên cạnh vẫn có điện cô
+- mỗi nhà mình hông có điện khu bên không bị mất điện anh
+- mỗi nhà mình chẳng có ngoài đường hổng mất điện cô
+- mỗi nhà mình hông có điện nhà hàng xóm chẳng mất điện bạn
+- ừ chỉ nhà mình hổng có điện nhà bên vẫn có điện anh
+- độc nhà mình hông có ngoài đường đang có điện chú
+- chỉ nhà mình hổng có nhà hàng xóm vẫn có điện chị
+- độc nhà mình hổng có điện khu bên hổng mất điện chị
+- mỗi nhà mình không có điện khu bên đang có điện chú
+- ừ độc nhà mình chẳng có nhà hàng xóm không mất điện cô
+- mỗi nhà mình hổng có điện nhà kế bên hiện có điện chú
+- chỉ nhà mình bị cắt nhà kế bên đang có điện chú
+- độc nhà mình không có điện ngoài đường không bị mất điện bạn
+- mỗi nhà mình không có điện bên cạnh chẳng mất điện cô
+- mỗi nhà mình bị cắt ngoài đường không bị mất điện anh
+- chỉ nhà mình bị cắt nhà kế bên không bị mất điện mày
+- ừ độc nhà mình bị cắt nhà bên hổng mất điện chị
+- ừ chỉ nhà mình bị cắt điện khu bên không bị mất điện cô
+- mỗi nhà mình chẳng có ngoài đường hổng mất điện chị
+- mỗi nhà mình mất điện ngoài đường hông mất điện anh
+- độc nhà mình không có nhà bên đang có điện cô
+- ừ độc nhà mình chẳng có điện bên cạnh vẫn có điện chị
+- độc nhà mình bị mất điện nhà bên hổng mất điện chú
+- ừ mỗi nhà mình hông có ngoài đường hổng mất điện mày
+- chỉ nhà mình hông có khu bên chẳng mất điện anh
+- chỉ nhà mình bị mất điện nhà kế bên đang có điện bạn
+- ừ chỉ nhà mình bị cắt khu bên chẳng mất điện mày
+- ừ mỗi nhà mình mất điện ngoài đường không bị cắt điện chú
+- ừ độc nhà mình bị cắt điện nhà bên hiện có điện chị
+- ừ độc nhà mình bị mất điện bên cạnh đang có điện cô
+- mỗi nhà mình bị cắt điện nhà kế bên vẫn có điện anh
+- độc nhà mình bị mất khu bên hông mất điện chị
+- chỉ nhà mình mất nhà hàng xóm không bị cắt điện mày
+- độc nhà mình bị cắt khu bên vẫn có điện chú
+- độc nhà mình chẳng có nhà bên không bị cắt điện anh
+- ừ độc nhà mình không có điện khu bên chẳng mất điện chị
+- mỗi nhà mình chẳng có điện bên cạnh không bị mất điện bạn
+- mỗi nhà mình hông có nhà hàng xóm vẫn có điện chú
+- ừ chỉ nhà mình bị mất điện ngoài đường vẫn có điện mày
+- mỗi nhà mình hổng có điện khu bên không mất điện chú
+- mỗi nhà mình hông có nhà bên không bị cắt điện chị
+- chỉ nhà mình bị mất điện nhà hàng xóm hiện có điện mày
+- mỗi nhà mình mất điện nhà hàng xóm không bị cắt điện chị
+- ừ độc nhà mình mất ngoài đường không bị mất điện bạn
+- mỗi nhà mình hổng có điện khu bên hông mất điện anh
+- ừ chỉ nhà mình chẳng có điện nhà hàng xóm hiện có điện chị
+- ừ mỗi nhà mình không có nhà hàng xóm hông mất điện mày
+- mỗi nhà mình bị cắt nhà hàng xóm hổng mất điện cô
+- mỗi nhà mình hông có điện ngoài đường không bị cắt điện mày
+- ừ chỉ nhà mình mất điện ngoài đường đang có điện bạn
+- chỉ nhà mình mất nhà kế bên đang có điện anh
+- chỉ nhà mình mất nhà kế bên đang có điện bạn
+- ừ chỉ nhà mình không có điện khu bên không bị mất điện chị
+- mỗi nhà mình hông có nhà bên không bị mất điện anh
+- ừ chỉ nhà mình chẳng có điện nhà hàng xóm có điện mày
+- mỗi nhà mình hổng có điện nhà kế bên vẫn có điện mày
+- ừ mỗi nhà mình hông có điện khu bên chẳng mất điện chị
+- chỉ nhà mình bị cắt điện nhà kế bên không bị cắt điện chú
+- ừ mỗi nhà mình bị cắt nhà kế bên hổng mất điện mày
+- chỉ nhà mình bị cắt điện khu bên không mất điện bạn
+- ừ chỉ nhà mình hông có điện nhà bên không bị mất điện mày
+<!-- update 13/12/2020 -->
+- chú chỉ nhà anh thôi
+- anh chỉ nhà em thôi
+- mày chỉ nhà anh thôi
+- em chỉ nhà anh thôi
+- em chỉ nhà chú thôi
+- cô chỉ nhà em thôi
+- em chỉ nhà em thôi
+- anh chỉ nhà chú thôi
+- cô chỉ nhà mình thôi
+- em chỉ nhà chị thôi
+- chú chỉ nhà em thôi
+- mày chỉ nhà chị thôi
+- chú chỉ nhà chú thôi
+- em chỉ nhà mình thôi
+- chị chỉ nhà mình thôi
+- chị chỉ nhà chú thôi
+- cô chỉ nhà chị thôi
+- chị chỉ nhà tôi thôi
+- chị chỉ nhà chị thôi
+- anh chỉ nhà chị thôi
+- em chỉ nhà tôi thôi
+- mày chỉ nhà chú thôi
+- cô chỉ nhà tôi thôi
+- cô chỉ nhà anh thôi
+- chú chỉ nhà chị thôi
+- mày chỉ nhà tôi thôi
+- chú chỉ nhà mình thôi
+- anh chỉ nhà tôi thôi
+- mày chỉ nhà em thôi
+- anh chỉ nhà mình thôi
+<!-- update 13/12/2020 -->
+- nhà cô thôi nhà cô bị chập điện nên bị mất
+- nhà chị thôi nhà chị bị chập điện nên bị mất
+- nhà mình thôi nhà mình bị chập điện nên bị mất
+- nhà em thôi nhà em bị chập điện nên mất
+- nhà chú thôi nhà chú bị chập điện nên bị mất
+- nhà tôi thôi nhà tôi bị thế nào nên mất
+- nhà tôi thôi nhà tôi bị chập điện nên bị mất
+- nhà anh thôi nhà anh bị chập điện nên mất
+- nhà em thôi nhà em bị chập điện nên bị mất
+- nhà em thôi nhà em bị thế nào nên bị mất
+- nhà mình thôi nhà mình bị thế nào nên bị mất
+- nhà chị thôi nhà chị bị làm sao nên bị mất
+- nhà em thôi nhà em bị thế nào nên mất
+- nhà em thôi nhà em bị làm sao nên mất
+- nhà chị thôi nhà chị bị thế nào nên bị mất
+- nhà cô thôi nhà cô bị thế nào nên bị mất
+- nhà mình thôi nhà mình bị thế nào nên mất
+- nhà tôi thôi nhà tôi bị chập điện nên mất
+- nhà cô thôi nhà cô bị làm sao nên bị mất
+- nhà mình thôi nhà mình bị làm sao nên mất
+- nhà mình thôi nhà mình bị chập điện nên mất
+- nhà cô thôi nhà cô bị thế nào nên mất
+- nhà anh thôi nhà anh bị chập điện nên bị mất
+- nhà anh thôi nhà anh bị làm sao nên mất
+- nhà tôi thôi nhà tôi bị làm sao nên mất
+- nhà mình thôi nhà mình bị làm sao nên bị mất
+- nhà chú thôi nhà chú bị thế nào nên bị mất
+- nhà anh thôi nhà anh bị làm sao nên bị mất
+- nhà chú thôi nhà chú bị thế nào nên mất
+- nhà cô thôi nhà cô bị làm sao nên mất

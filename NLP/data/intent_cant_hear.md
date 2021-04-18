@@ -1,0 +1,688 @@
+## intent:intent_cant_hear
+- không nghe rõ
+- không nghe thấy gì
+- gì cơ
+- alo gì cơ
+- alo không nghe được
+- không nghe được
+- alo sao cơ
+- gì cơ không nghe được
+- hả
+- em mới nói gì ý nhỉ
+- vừa chị có việc không để ý em nói gì
+- alo em vừa nói gì đấy
+- em vừa nói gì vậy
+- sóng yếu nên vừa chị không nghe được em nói gì
+- không nghe được gì
+- em vừa nói gì đó
+- cái gì cơe
+- nói nhanh không nghe gì cả
+- chẳng nghe được gì
+- chả nghe được gì
+- chả thấy tín hiệu gì
+- sao không nghe được nhỉ
+- mất tín hiệu rồi không nghe thấy gì
+- chả biết em mới nói gì
+- chẳng nghe được em nói gì
+- tín hiệu kém không nghe nổi
+- sóng yếu không nghe được
+- em mới nói cái gì vậy
+- em hỏi gì ý nhỉ
+- em nói lại chứ anh vừa không nghe được gì
+- nói lại đi
+- vừa em hỏi gì đó
+- hỏi cái gì thế
+- sao em
+- gì cơ em
+- bao nhiêu cơ
+- bao nhiêu cơ em
+- bao nhiêu cơ anh
+- bao nhiêu cơ mày
+- anh không nghe rõ
+- chị không nghe rõ
+- mình không nghe rõ
+- em không nghe rõ
+- chú không nghe rõ
+- anh nói lại được không
+- chị nói lại được không
+- mình nói lại được không
+- em nói lại được không
+- chú nói lại được không
+- nghe không rõ gì cả anh
+- nghe không rõ gì cả chị
+- nghe không rõ gì cả mình
+- nghe không rõ gì cả em
+- nghe không rõ gì cả chú
+- là sao anh
+- là sao chị
+- là sao mình
+- là sao em
+- là như nào hả anh
+- là như nào hả chị
+- là như nào hả mình
+- là như nào hả em
+- nó là thế nào hả anh
+- nó là thế nào hả chị
+- nó là thế nào hả mình
+- nó là thế nào hả em
+- là sao anh
+- là sao chị
+- là sao mình
+- là sao em
+- là như nào hả anh
+- là như nào hả chị
+- là như nào hả mình
+- là như nào hả em
+- nó là thế nào hả anh
+- nó là thế nào hả chị
+- nó là thế nào hả mình
+- nó là thế nào hả em
+- không hiểu
+- không hiểu em nới gì
+- không hiểu lắm
+- không hiểu gì
+- anh chẳng nghe ra
+- chị chẳng nghe được
+- chị chẳng nghe thấy em ơi
+- bác chẳng nghe rõ
+- nhắc lại cho mình
+- nhắc lại cái coi
+- nhắc lại dùm
+- nhắc lại tao với
+- chả hiểu
+- chả biết nói gì
+- chả nghe ra gì
+- tao nghe chả hiểu
+- hả hả
+- sao em
+- gì em
+- sao cơ em
+- gì cơ em
+- hả gì cơ
+- alo sao cơ em
+- alo gì em ơi
+- sao em ơi
+- sao em
+- sao sao
+- sao hả em
+- gì cơ em
+- gì em ơi
+- sao em ơi
+- alo sao cơ em
+- anh không nghe được
+- chị không nghe được
+- gì cơ em
+- sao cơ em ơi
+- alo nghe không rõ
+- alo nghe không ra
+- alo alo
+- hả gì em
+- hả sao cơ em
+- sao sao cơ
+- sao cơ em
+- em bảo gì cơ
+- em nói gì vậy
+- em nói gì cơ
+- sao em ơi
+- sao bạn ơi
+- gì bạn ơi
+- gì cơ em
+- em nói gì cơ
+- bạn bảo gì cơ
+- bạn nói gì hả
+- anh không nghe rõ
+- chị không nghe rõ
+- mình không nghe rõ
+- em không nghe rõ
+- tao không nghe rõ
+- bạn không nghe rõ
+- anh không nghe thấy gì
+- chị không nghe thấy gì
+- mình không nghe thấy gì
+- em không nghe thấy gì
+- tao không nghe thấy gì
+- bạn không nghe thấy gì
+- gì cơ
+- alo gì cơ
+- alo anh không nghe được
+- alo chị không nghe được
+- alo mình không nghe được
+- alo em không nghe được
+- alo tao không nghe được
+- alo bạn không nghe được
+- anh không nghe được
+- chị không nghe được
+- mình không nghe được
+- em không nghe được
+- tao không nghe được
+- bạn không nghe được
+- anh không rõ lắm
+- chị không rõ lắm
+- mình không rõ lắm
+- em không rõ lắm
+- tao không rõ lắm
+- bạn không rõ lắm
+- alo sao cơ
+- gì cơ anh nghe chả rõ
+- gì cơ chị nghe chả rõ
+- gì cơ mình nghe chả rõ
+- gì cơ em nghe chả rõ
+- gì cơ tao nghe chả rõ
+- gì cơ bạn nghe chả rõ
+- gì cơ anh không rõ lắm
+- gì cơ chị không rõ lắm
+- gì cơ mình không rõ lắm
+- gì cơ em không rõ lắm
+- gì cơ tao không rõ lắm
+- gì cơ bạn không rõ lắm
+- hả
+- cái gì cơ
+- anh vừa nói cái gì nhỉ
+- chị vừa nói cái gì nhỉ
+- mình vừa nói cái gì nhỉ
+- em vừa nói cái gì nhỉ
+- tao vừa nói cái gì nhỉ
+- bạn vừa nói cái gì nhỉ
+- anh mới nói gì ý nhỉ
+- chị mới nói gì ý nhỉ
+- mình mới nói gì ý nhỉ
+- em mới nói gì ý nhỉ
+- tao mới nói gì ý nhỉ
+- bạn mới nói gì ý nhỉ
+- vừa anh có việc không để ý em nói gì
+- vừa chị có việc không để ý em nói gì
+- vừa mình có việc không để ý em nói gì
+- vừa em có việc không để ý em nói gì
+- vừa tao có việc không để ý em nói gì
+- vừa bạn có việc không để ý em nói gì
+- anh nói cái gì vậy
+- chị nói cái gì vậy
+- mình nói cái gì vậy
+- em nói cái gì vậy
+- tao nói cái gì vậy
+- bạn nói cái gì vậy
+- alo anh vừa nói gì đấy
+- alo chị vừa nói gì đấy
+- alo mình vừa nói gì đấy
+- alo em vừa nói gì đấy
+- alo tao vừa nói gì đấy
+- alo bạn vừa nói gì đấy
+- anh vừa nói gì vậy
+- chị vừa nói gì vậy
+- mình vừa nói gì vậy
+- em vừa nói gì vậy
+- tao vừa nói gì vậy
+- bạn vừa nói gì vậy
+- không nghe được gì anh ơi
+- không nghe được gì chị ơi
+- không nghe được gì mình ơi
+- không nghe được gì em ơi
+- không nghe được gì tao ơi
+- không nghe được gì bạn ơi
+- anh vừa nói gì đó
+- chị vừa nói gì đó
+- mình vừa nói gì đó
+- em vừa nói gì đó
+- tao vừa nói gì đó
+- bạn vừa nói gì đó
+- anh nói nhanh không nghe gì cả
+- chị nói nhanh không nghe gì cả
+- mình nói nhanh không nghe gì cả
+- em nói nhanh không nghe gì cả
+- tao nói nhanh không nghe gì cả
+- bạn nói nhanh không nghe gì cả
+- anh nói nhanh quá không nghe được gì cả
+- chị nói nhanh quá không nghe được gì cả
+- mình nói nhanh quá không nghe được gì cả
+- em nói nhanh quá không nghe được gì cả
+- tao nói nhanh quá không nghe được gì cả
+- bạn nói nhanh quá không nghe được gì cả
+- chẳng nghe được gì anh
+- chẳng nghe được gì chị
+- chẳng nghe được gì mình
+- chẳng nghe được gì em
+- chẳng nghe được gì tao
+- chẳng nghe được gì bạn
+- chả nghe được gì vậy anh
+- chả nghe được gì vậy chị
+- chả nghe được gì vậy mình
+- chả nghe được gì vậy em
+- chả nghe được gì vậy tao
+- chả nghe được gì vậy bạn
+- chả thấy tín hiệu gì thế anh
+- chả thấy tín hiệu gì thế chị
+- chả thấy tín hiệu gì thế mình
+- chả thấy tín hiệu gì thế em
+- chả thấy tín hiệu gì thế tao
+- chả thấy tín hiệu gì thế bạn
+- sao anh không nghe được nhỉ
+- sao chị không nghe được nhỉ
+- sao mình không nghe được nhỉ
+- sao em không nghe được nhỉ
+- sao tao không nghe được nhỉ
+- sao bạn không nghe được nhỉ
+- mất tín hiệu rồi anh không nghe được gì
+- mất tín hiệu rồi chị không nghe được gì
+- mất tín hiệu rồi mình không nghe được gì
+- mất tín hiệu rồi em không nghe được gì
+- mất tín hiệu rồi tao không nghe được gì
+- mất tín hiệu rồi bạn không nghe được gì
+- mất tín hiệu rồi anh không nghe được
+- mất tín hiệu rồi chị không nghe được
+- mất tín hiệu rồi mình không nghe được
+- mất tín hiệu rồi em không nghe được
+- mất tín hiệu rồi tao không nghe được
+- mất tín hiệu rồi bạn không nghe được
+- chả biết anh mới nói gì
+- chả biết chị mới nói gì
+- chả biết mình mới nói gì
+- chả biết em mới nói gì
+- chả biết tao mới nói gì
+- chả biết bạn mới nói gì
+- chẳng nghe được anh nói gì
+- chẳng nghe được chị nói gì
+- chẳng nghe được mình nói gì
+- chẳng nghe được em nói gì
+- chẳng nghe được tao nói gì
+- chẳng nghe được bạn nói gì
+- tín hiệu kém anh không nghe nổi
+- tín hiệu kém chị không nghe nổi
+- tín hiệu kém mình không nghe nổi
+- tín hiệu kém em không nghe nổi
+- tín hiệu kém tao không nghe nổi
+- tín hiệu kém bạn không nghe nổi
+- sóng yếu quá anh không nghe được
+- sóng yếu quá chị không nghe được
+- sóng yếu quá mình không nghe được
+- sóng yếu quá em không nghe được
+- sóng yếu quá tao không nghe được
+- sóng yếu quá bạn không nghe được
+- anh mới nói cái gì vậy
+- chị mới nói cái gì vậy
+- mình mới nói cái gì vậy
+- em mới nói cái gì vậy
+- tao mới nói cái gì vậy
+- bạn mới nói cái gì vậy
+- anh hỏi gì ý nhỉ
+- chị hỏi gì ý nhỉ
+- mình hỏi gì ý nhỉ
+- em hỏi gì ý nhỉ
+- tao hỏi gì ý nhỉ
+- bạn hỏi gì ý nhỉ
+- em nói lại chứ anh vừa không nghe được gì
+- em nói lại chứ chị vừa không nghe được gì
+- em nói lại chứ mình vừa không nghe được gì
+- em nói lại chứ em vừa không nghe được gì
+- em nói lại chứ tao vừa không nghe được gì
+- em nói lại chứ bạn vừa không nghe được gì
+- nói lại đi anh
+- nói lại đi chị
+- nói lại đi mình
+- nói lại đi em
+- nói lại đi tao
+- nói lại đi bạn
+- vừa anh hỏi gì đó
+- vừa chị hỏi gì đó
+- vừa mình hỏi gì đó
+- vừa em hỏi gì đó
+- vừa tao hỏi gì đó
+- vừa bạn hỏi gì đó
+- anh hỏi cái gì thế
+- chị hỏi cái gì thế
+- mình hỏi cái gì thế
+- em hỏi cái gì thế
+- tao hỏi cái gì thế
+- bạn hỏi cái gì thế
+- sao anh
+- sao chị
+- sao mình
+- sao em
+- sao tao
+- sao bạn
+- gì cơ anh
+- gì cơ chị
+- gì cơ mình
+- gì cơ em
+- gì cơ tao
+- gì cơ bạn
+- anh không nghe rõ
+- chị không nghe rõ
+- mình không nghe rõ
+- em không nghe rõ
+- tao không nghe rõ
+- bạn không nghe rõ
+- anh nói lại được không
+- chị nói lại được không
+- mình nói lại được không
+- em nói lại được không
+- tao nói lại được không
+- bạn nói lại được không
+- nghe không rõ gì cả anh
+- nghe không rõ gì cả chị
+- nghe không rõ gì cả mình
+- nghe không rõ gì cả em
+- nghe không rõ gì cả tao
+- nghe không rõ gì cả bạn
+- là sao anh
+- là sao chị
+- là sao mình
+- là sao em
+- là sao tao
+- là sao bạn
+- là sao hả anh
+- là sao hả chị
+- là sao hả mình
+- là sao hả em
+- là sao hả tao
+- là sao hả bạn
+- là như nào hả anh
+- là như nào hả chị
+- là như nào hả mình
+- là như nào hả em
+- là như nào hả tao
+- là như nào hả bạn
+- nó là thế nào hả anh
+- nó là thế nào hả chị
+- nó là thế nào hả mình
+- nó là thế nào hả em
+- nó là thế nào hả tao
+- nó là thế nào hả bạn
+- không hiểu
+- không hiểu anh nới gì
+- không hiểu chị nới gì
+- không hiểu mình nới gì
+- không hiểu em nới gì
+- không hiểu tao nới gì
+- không hiểu bạn nới gì
+- không hiểu lắm anh
+- không hiểu lắm chị
+- không hiểu lắm mình
+- không hiểu lắm em
+- không hiểu lắm tao
+- không hiểu lắm bạn
+- không hiểu gì luôn anh ơi
+- không hiểu gì luôn chị ơi
+- không hiểu gì luôn mình ơi
+- không hiểu gì luôn em ơi
+- không hiểu gì luôn tao ơi
+- không hiểu gì luôn bạn ơi
+- anh chẳng nghe ra
+- chị chẳng nghe ra
+- mình chẳng nghe ra
+- em chẳng nghe ra
+- tao chẳng nghe ra
+- bạn chẳng nghe ra
+- anh chẳng nghe được
+- chị chẳng nghe được
+- mình chẳng nghe được
+- em chẳng nghe được
+- tao chẳng nghe được
+- bạn chẳng nghe được
+- anh chẳng nghe thấy em ơi
+- chị chẳng nghe thấy em ơi
+- mình chẳng nghe thấy em ơi
+- em chẳng nghe thấy em ơi
+- tao chẳng nghe thấy em ơi
+- bạn chẳng nghe thấy em ơi
+- anh chẳng nghe rõ
+- chị chẳng nghe rõ
+- mình chẳng nghe rõ
+- em chẳng nghe rõ
+- tao chẳng nghe rõ
+- bạn chẳng nghe rõ
+- nhắc lại cho anh
+- nhắc lại cho chị
+- nhắc lại cho mình
+- nhắc lại cho em
+- nhắc lại cho tao
+- nhắc lại cho bạn
+- nhắc lại cái coi anh
+- nhắc lại cái coi chị
+- nhắc lại cái coi mình
+- nhắc lại cái coi em
+- nhắc lại cái coi tao
+- nhắc lại cái coi bạn
+- nhắc lại dùm anh
+- nhắc lại dùm chị
+- nhắc lại dùm mình
+- nhắc lại dùm em
+- nhắc lại dùm tao
+- nhắc lại dùm bạn
+- nhắc lại anh với
+- nhắc lại chị với
+- nhắc lại mình với
+- nhắc lại em với
+- nhắc lại tao với
+- nhắc lại bạn với
+- chả hiểu anh nói gì
+- chả hiểu chị nói gì
+- chả hiểu mình nói gì
+- chả hiểu em nói gì
+- chả hiểu tao nói gì
+- chả hiểu bạn nói gì
+- chả nghe ra gì anh ạ
+- chả nghe ra gì chị ạ
+- chả nghe ra gì mình ạ
+- chả nghe ra gì em ạ
+- chả nghe ra gì tao ạ
+- chả nghe ra gì bạn ạ
+- anh nghe chả hiểu
+- chị nghe chả hiểu
+- mình nghe chả hiểu
+- em nghe chả hiểu
+- tao nghe chả hiểu
+- bạn nghe chả hiểu
+- hả hả
+- sao anh
+- sao chị
+- sao mình
+- sao em
+- sao tao
+- sao bạn
+- gì thế anh
+- gì thế chị
+- gì thế mình
+- gì thế em
+- gì thế tao
+- gì thế bạn
+- sao cơ anh
+- sao cơ chị
+- sao cơ mình
+- sao cơ em
+- sao cơ tao
+- sao cơ bạn
+- gì cơ anh
+- gì cơ chị
+- gì cơ mình
+- gì cơ em
+- gì cơ tao
+- gì cơ bạn
+- hả gì cơ
+- alo sao cơ anh
+- alo sao cơ chị
+- alo sao cơ mình
+- alo sao cơ em
+- alo sao cơ tao
+- alo sao cơ bạn
+- alo gì anh ơi
+- alo gì chị ơi
+- alo gì mình ơi
+- alo gì em ơi
+- alo gì tao ơi
+- alo gì bạn ơi
+- sao anh ơi
+- sao chị ơi
+- sao mình ơi
+- sao em ơi
+- sao tao ơi
+- sao bạn ơi
+- sao hả anh
+- sao hả chị
+- sao hả mình
+- sao hả em
+- sao hả tao
+- sao hả bạn
+- gì cơ anh
+- gì cơ chị
+- gì cơ mình
+- gì cơ em
+- gì cơ tao
+- gì cơ bạn
+- alo alo
+- hả gì em
+- hả sao cơ anh
+- hả sao cơ chị
+- hả sao cơ mình
+- hả sao cơ em
+- hả sao cơ tao
+- hả sao cơ bạn
+- sao sao cơ
+- sao cơ em
+- anh bảo gì cơ
+- chị bảo gì cơ
+- mình bảo gì cơ
+- em bảo gì cơ
+- tao bảo gì cơ
+- bạn bảo gì cơ
+- anh nói gì vậy
+- chị nói gì vậy
+- mình nói gì vậy
+- em nói gì vậy
+- tao nói gì vậy
+- bạn nói gì vậy
+- anh nói gì cơ
+- chị nói gì cơ
+- mình nói gì cơ
+- em nói gì cơ
+- tao nói gì cơ
+- bạn nói gì cơ
+- anh bảo gì cơ
+- chị bảo gì cơ
+- mình bảo gì cơ
+- em bảo gì cơ
+- tao bảo gì cơ
+- bạn bảo gì cơ
+- anh nói gì hả
+- chị nói gì hả
+- mình nói gì hả
+- em nói gì hả
+- tao nói gì hả
+- bạn nói gì hả
+- nộp cái gì đấy anh
+- nộp cái gì đấy chị
+- nộp cái gì đấy mình
+- nộp cái gì đấy em
+- nộp cái gì đấy tao
+- nộp cái gì đấy bạn
+- hỗ trợ cái gì chị
+- hỗ trợ cái gì em
+- hỗ trợ cái gì anh
+- cái gì hả em
+- cái gì hả chị
+- cái gì hả anh
+- thế là sao vậy
+- thế là sao cơ ạ
+- nghĩa là sao vậy
+- nghĩa là thế nào vậy
+- thế là như nào cơ ạ
+- thế là như nào vậy
+- nghĩa là như nào cơ ạ
+- thế là thế nào vậy
+- nghĩa là thế nào cơ ạ
+- thế là như nào cơ
+<!-- add new 25/06/2020 -->
+- chị nói lại đi nghe không được
+- chị nhắc lại đi nghe không rõ
+- em nói lại câu trước
+- anh nói lại đi nghe không được
+- em nói lại đi
+- chị nhắc lại câu trước nghe không rõ
+- em nhắc lại câu trước
+- chị nhắc lại câu trước nghe không được
+- em đọc lại đi nghe không được
+- cậu nói lại giúp
+- cậu nói lại dùm cái
+- bạn đọc lại dùm
+- mày nhắc lại hộ cái
+- mày trình bày lại hộ
+- chị trình bày lại giúp
+- cậu nhắc lại dùm
+- bạn nhắc lại đi
+- mày nhắc lại dùm
+- cậu đọc lại giúp
+- chị đọc lại với
+- cậu nhắc lại giúp
+- mày nhắc lại cái
+- cậu nhắc lại hộ cái
+- cậu nói lại hộ cái
+- mày nói lại dùm cái
+- mày đọc lại dùm cái
+- cậu nhắc lại đi
+- mày đọc lại hộ cái
+- chị đọc lại giúp
+- xác nhận chi vậy
+- xác nhận chi hả
+- xác nhận cái chi
+- xác nhận cái chi hả
+- xác nhận gì vậy
+- xác nhận chi
+- xác nhận cái gì hả
+- xác nhận cái gì vậy
+- xác nhận cái chi vậy
+- xác nhận cái gì
+- xác nhận gì hả chị
+- xác nhận cái gì hả mày
+- xác nhận cái gì vậy em
+- xác nhận cái gì hả bạn
+- xác nhận chi hả mày
+- xác nhận cái chi cơ chị
+- xác nhận gì vậy mày
+- xác nhận cái chi cơ bạn
+- xác nhận cái gì vậy mày
+- xác nhận chi vậy bạn
+- xác nhận là sao
+- làm sao xác nhận
+- xác nhận sao cơ
+- xác nhận sao
+- em chưa hiểu
+- tao chưa hiểu rõ
+- tau chưa hiểu rõ
+- mình chưa hiểu
+- chị chưa hiểu lắm
+- anh chưa rõ
+- chú chưa hiểu
+- mình chưa hiểu rõ
+- tau chưa rõ
+- tôi chưa hiểu
+- bác chưa hiểu lắm
+- tôi chưa hiểu rõ
+- cô chưa hiểu lắm
+- tao chưa rõ
+- bác chưa rõ
+- chú chưa hiểu lắm
+- tôi chưa hiểu lắm
+- tao chưa hiểu lắm
+- chị chưa rõ
+- anh chưa hiểu
+- có việc gì
+- gọi làm gì
+- gọi để làm gì
+- có việc gì đấy
+- có việc gì vậy
+- gọi có việc gì
+- gọi làm gì thế
+- có việc gì thế
+- gọi làm chi thế
+- gọi làm chi
+- việc gì cơ
+- gọi làm gì cơ
+- có việc gì cơ
+- hả gì cơ
+- em nói gì cơ
+- chị bảo gì cơ
+- nghe lại
+- nghe lại ạ
+- nghe lại đi ạ
+- dạ nghe lại
+- vâng nghe lại
+- nghe lại ạ

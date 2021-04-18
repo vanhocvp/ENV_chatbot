@@ -1,0 +1,251 @@
+## intent:intent_dont_clear
+- anh hổng rõ
+- anh hông rõ lắm
+- cô hổng rõ
+- em chẳng rõ lắm
+- mình hông rõ lắm
+- tao không rõ lắm
+- tao hổng biết
+- tôi hông rõ lắm
+- cô hổng biết lắm
+- tôi không rõ
+- chị hông rõ lắm
+- anh không rõ
+- chú không rõ
+- anh hổng biết lắm
+- cô hông biết
+- tao hông rõ
+- chị chẳng rõ
+- mình hông biết lắm
+- chú chẳng biết
+- tôi hổng rõ lắm
+- tao hổng biết lắm
+- mình không rõ lắm
+- tao hổng rõ lắm
+- chị không biết
+- chị chẳng biết
+- em hổng rõ lắm
+- chú hổng biết
+- tao hông rõ lắm
+- anh không rõ lắm
+- em chẳng rõ
+- cô chẳng biết
+- anh hông biết lắm
+- em hông biết
+- chú không biết
+- tôi chẳng rõ lắm
+- chú hổng rõ
+- tôi hông biết lắm
+- tao chẳng biết
+- tao chẳng rõ
+- anh chẳng rõ
+- cô hông rõ
+- mình chẳng rõ
+- cô chẳng rõ lắm
+- mình không biết
+- chị chẳng biết lắm
+- tao không biết
+- mình hổng rõ lắm
+- anh hông rõ
+- cô chẳng biết lắm
+- anh chẳng biết lắm
+- tao hổng biết lắm thấy người nhà chú gọi đến bảo bị cắt điện
+- chú hổng rõ lắm thấy người nhà anh gọi điện bảo bị cắt điện
+- chị không biết lắm thấy người nhà tao gọi tới bảo không có điện
+- chị không biết lắm thấy người nhà em gọi điện bảo bị cắt điện
+- em không rõ thấy người nhà chú gọi bảo không có điện
+- tôi không rõ lắm thấy người nhà cô liên lạc bảo không có điện
+- cô hông rõ lắm thấy người nhà em gọi tới bảo bị cắt điện
+- tao hổng rõ lắm thấy người nhà tôi gọi tới bảo bị cắt điện
+- tôi hông biết thấy người nhà chú gọi bảo bị cắt điện
+- chị hổng rõ thấy người nhà tôi gọi đến bảo bị cắt điện
+- chú hổng biết lắm thấy người nhà tao gọi bảo bị cắt điện
+- chị hông biết lắm thấy người nhà mình liên lạc bảo bị cắt điện
+- anh không rõ thấy người nhà chú gọi điện bảo mất điện
+- tôi không biết thấy người nhà cô gọi bảo bị cắt điện
+- cô hông biết thấy người nhà chú gọi bảo bị cắt điện
+- tôi hổng rõ lắm thấy người nhà mình gọi tới bảo không có điện
+- chú hông rõ lắm thấy người nhà mình gọi đến bảo không có điện
+- em không biết lắm thấy người nhà chú gọi tới bảo mất điện
+- anh hông biết thấy người nhà mình gọi tới bảo bị cắt điện
+- em không rõ thấy người nhà tôi gọi đến bảo không có điện
+- mình hổng biết thấy người nhà tao gọi đến bảo không có điện
+- mình hổng biết thấy người nhà cô liên lạc bảo bị cắt điện
+- tôi chẳng rõ lắm thấy người nhà tôi liên lạc bảo không có điện
+- em hông biết lắm thấy người nhà cô gọi điện bảo mất điện
+- mình không biết thấy người nhà em gọi bảo bị cắt điện
+- chị không rõ thấy người nhà em liên lạc bảo không có điện
+- anh chẳng rõ lắm thấy người nhà tao liên lạc bảo mất điện
+- anh hông biết thấy người nhà mình gọi điện bảo bị cắt điện
+- chú hổng biết thấy người nhà chị gọi bảo bị cắt điện
+- chị không biết thấy người nhà chị gọi tới bảo mất điện
+- chú hông biết thấy người nhà chị gọi tới bảo không có điện
+- anh hổng rõ lắm thấy người nhà tôi gọi điện bảo không có điện
+- mình hông biết lắm thấy người nhà tôi gọi điện bảo không có điện
+- em không biết thấy người nhà cô gọi điện bảo không có điện
+- anh hổng biết lắm thấy người nhà mình liên lạc bảo mất điện
+- chị chẳng biết thấy người nhà mình gọi đến bảo bị cắt điện
+- mình hông rõ lắm thấy người nhà tôi gọi tới bảo bị cắt điện
+- anh hổng rõ thấy người nhà tao gọi tới bảo bị cắt điện
+- em chẳng rõ lắm thấy người nhà cô liên lạc bảo không có điện
+- em hổng biết thấy người nhà cô gọi tới bảo bị cắt điện
+- tao chẳng rõ thấy người nhà chị liên lạc bảo mất điện
+- tao chẳng biết thấy người nhà tao gọi đến bảo mất điện
+- tôi hổng biết lắm thấy người nhà anh liên lạc bảo không có điện
+- cô hông biết lắm thấy người nhà tao gọi điện bảo không có điện
+- tôi không biết lắm thấy người nhà tao gọi điện bảo bị cắt điện
+- anh không biết thấy người nhà cô gọi đến bảo mất điện
+- chú không rõ lắm thấy người nhà cô gọi tới bảo bị cắt điện
+- mình hông biết thấy người nhà anh gọi đến bảo không có điện
+- em không rõ lắm thấy người nhà chị liên lạc bảo bị cắt điện
+- anh hổng biết lắm thấy người nhà mình gọi tới bảo mất điện
+- chú không biết thấy người nhà em gọi điện bảo không có điện
+- tôi chẳng biết lắm thấy người nhà mình gọi tới bảo không có điện
+- cô hông rõ thấy người nhà mình gọi đến bảo mất điện
+- mình hổng rõ lắm thấy người nhà em gọi tới bảo mất điện
+- cô hông biết lắm thấy người nhà cô gọi đến bảo mất điện
+- anh hổng rõ thấy người nhà em gọi bảo bị cắt điện
+- cô chẳng rõ lắm thấy người nhà anh gọi tới bảo bị cắt điện
+- chú hông rõ lắm thấy người nhà cô gọi tới bảo mất điện
+- cô hổng biết lắm thấy người nhà chú gọi bảo không có điện
+- anh hổng biết lắm thấy người nhà tôi liên lạc bảo không có điện
+- em không biết lắm thấy người nhà mình liên lạc bảo bị cắt điện
+- mình hông biết thấy người nhà chú gọi đến bảo mất điện
+- chị chẳng rõ thấy người nhà mình gọi tới bảo không có điện
+- chị chẳng rõ thấy người nhà tôi gọi điện bảo mất điện
+- tôi hông rõ thấy người nhà tôi liên lạc bảo không có điện
+- em không biết lắm thấy người nhà tao gọi tới bảo không có điện
+- chị hông biết lắm thấy người nhà em gọi tới bảo không có điện
+- cô hông biết thấy người nhà tao gọi điện bảo bị cắt điện
+- tôi hổng rõ lắm thấy người nhà chị gọi tới bảo không có điện
+- cô hổng biết thấy người nhà tao liên lạc bảo mất điện
+- anh không rõ thấy người nhà chị gọi tới bảo mất điện
+- chị không biết thấy người nhà tao gọi tới bảo mất điện
+- mình hổng rõ thấy người nhà anh gọi đến bảo không có điện
+- em không biết lắm thấy người nhà anh gọi đến bảo bị cắt điện
+- em hổng biết lắm thấy người nhà cô gọi điện bảo mất điện
+- tao chẳng rõ lắm thấy người nhà mình gọi điện bảo bị cắt điện
+- anh hông biết lắm thấy người nhà tao gọi đến bảo không có điện
+- cô hông biết lắm thấy người nhà tao liên lạc bảo mất điện
+- tao hổng biết thấy người nhà chị liên lạc bảo không có điện
+- tao hổng biết lắm thấy người nhà tôi gọi đến bảo mất điện
+- anh hông rõ lắm thấy người nhà anh gọi bảo không có điện
+- tôi hông rõ lắm thấy người nhà chú gọi đến bảo bị cắt điện
+- tôi không rõ lắm thấy người nhà cô liên lạc bảo mất điện
+- mình chẳng biết thấy người nhà cô gọi tới bảo không có điện
+- em hổng rõ thấy người nhà anh liên lạc bảo mất điện
+- em chẳng rõ thấy người nhà chị gọi bảo bị cắt điện
+- tôi chẳng biết lắm thấy người nhà chú gọi bảo không có điện
+- anh chẳng biết thấy người nhà mình gọi bảo không có điện
+- tao chẳng biết lắm thấy người nhà tôi gọi bảo bị cắt điện
+- em hông rõ thấy người nhà mình gọi điện bảo không có điện
+- anh hông rõ thấy người nhà tao gọi tới bảo bị cắt điện
+- cô hông rõ lắm thấy người nhà anh liên lạc bảo không có điện
+- anh không biết thấy người nhà em gọi tới bảo không có điện
+- anh hổng rõ lắm thấy người nhà chú gọi bảo không có điện
+- mình hông rõ thấy người nhà mình gọi tới bảo không có điện
+- cô chẳng biết lắm thấy người nhà mình gọi bảo không có điện
+- chú hông rõ thấy người nhà em gọi bảo mất điện
+- anh chẳng biết lắm thấy người nhà mình liên lạc bảo bị cắt điện
+- anh hổng biết thấy người nhà anh gọi điện bảo mất điện
+- em không rõ lắm thấy người nhà mình gọi bảo không có điện
+- chú cũng không rõ nữa
+- tôi cũng không rõ nữa
+- tao cũng hông rõ nữa
+- tôi cũng hổng rõ nữa
+- cô cũng chẳng biết nữa
+- chị cũng chẳng rõ nữa
+- em cũng hổng rõ nữa
+- cô cũng không rõ nữa
+- tôi cũng hổng biết nữa
+- chú cũng hông rõ nữa
+- mình cũng hổng biết nữa
+- anh cũng hông rõ nữa
+- cô cũng hông rõ nữa
+- anh cũng không biết nữa
+- chị cũng hổng biết nữa
+- chị cũng không rõ nữa
+- anh cũng không rõ nữa
+- tao cũng chẳng rõ nữa
+- em cũng hông biết nữa
+- cô cũng không biết nữa
+- mình cũng không rõ nữa
+- chú cũng hổng rõ nữa
+- mình cũng không biết nữa
+- mình cũng hông rõ nữa
+- chú cũng hông biết nữa
+- tao cũng hổng biết nữa
+- tao cũng hông biết nữa
+- mình cũng chẳng biết nữa
+- cô cũng hông biết nữa
+- mình cũng hông biết nữa
+- anh cũng chẳng rõ nữa
+- chú cũng chẳng biết nữa
+- anh cũng hổng rõ nữa
+- em cũng không biết nữa
+- em cũng hổng biết nữa
+- anh cũng chẳng biết nữa
+- chú cũng chẳng rõ nữa
+- chú cũng không biết nữa
+- tao cũng không rõ nữa
+- cô cũng chẳng rõ nữa
+- chị cũng hông rõ nữa
+- tao cũng không biết nữa
+- mình cũng chẳng rõ nữa
+- tôi cũng hông rõ nữa
+- mình cũng hổng rõ nữa
+- cô cũng hổng rõ nữa
+- tao cũng hổng rõ nữa
+- em cũng hông rõ nữa
+- chị cũng hông biết nữa
+- em cũng không rõ nữa
+- cũng hông biết nữa chú
+- cũng hông biết nữa anh
+- cũng chẳng biết nữa mình
+- không biết nữa mày
+- cũng hổng rõ nữa em
+- không biết nữa mình
+- hông biết nữa cô
+- chẳng biết nữa mày
+- không rõ nữa cô
+- hông rõ nữa chú
+- hông rõ nữa cô
+- cũng không rõ nữa anh
+- cũng chẳng rõ nữa chú
+- chẳng biết nữa mình
+- hông biết nữa mày
+- chẳng rõ nữa em
+- cũng hổng biết nữa em
+- không rõ nữa chú
+- cũng không biết nữa cô
+- không rõ nữa anh
+- cũng hông rõ nữa mày
+- không biết nữa anh
+- cũng chẳng biết nữa cô
+- hổng biết nữa anh
+- hông rõ nữa mày
+- cũng không biết nữa mày
+- hông biết nữa anh
+- cũng hổng biết nữa anh
+- cũng hổng biết nữa chị
+- cũng chẳng rõ nữa em
+- chẳng rõ nữa chị
+- không rõ nữa chị
+- cũng hông rõ nữa anh
+- hông rõ nữa mày
+- cũng hông rõ nữa chị
+- cũng hổng biết nữa mình
+- chẳng rõ nữa cô
+- cũng hông rõ nữa mình
+- cũng hổng biết nữa cô
+- cũng không rõ nữa cô
+- hông biết nữa cô
+- không rõ nữa chú
+- hông biết nữa em
+- chẳng biết nữa chú
+- hông rõ nữa em
+- hổng rõ nữa mình
+- hổng rõ nữa chị
+- cũng không rõ nữa chị
+- cũng hổng rõ nữa mình
+- hổng rõ nữa cô

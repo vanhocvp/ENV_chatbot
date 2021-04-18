@@ -1,0 +1,1954 @@
+## intent:intent_all_field
+- cả khu đường 14 đường ông ích khiêm quận phúc lợi
+- trên cả khu vực đường 357 đường nam tràng huyện hàng đào
+- cả khu vực ngõ 12 đường mậu lương huyện đồng xuân
+- cả khu vực ngõ 1 đường nguyễn hữu huân quận bạch mai
+- cả khu ngõ ba đường lương ngọc quyến quận trung văn
+- cả khu vực đường 25 đường hàng điếu quận quỳnh lôi
+- trên cả khu vực đường 56 đường phùng hưng quận phương liệt
+- hình như toàn khu ngõ 56 đường bà triệu quận lý thái tổ
+- hình như toàn khu đường 20 đường hàng ngang quận trung văn
+- mất trên ngõ 20 đường 19 tháng 5 huyện xuân la
+- trên cả khu vực đường năm đường nguyễn khuyến quận gia thụy
+- có vẻ như cả khu ngõ bốn đường đồng xuân huyện thượng cát
+- trên cả khu vực đường 25 đường vũ ngọc phan huyện phú đô
+- có vẻ như trên cả khu vực ngõ 12c đường tôn thất thiệp huyện kiến hưng
+- mất trên đường 20 đường hàng vôi quận trần hưng đạo
+- có vẻ như cả khu ngõ 56 đường đặng thái thân quận vĩnh hưng
+- dường như cả khu vực đường bảy đường mười chín tháng năm quận phú đô
+- trên cả khu vực đường 35 đường nguyễn chí thanh quận kim giang
+- hình như toàn khu đường sáu đường trung phụng quận trung hòa
+- có vẻ như trên cả khu vực ngõ mười bảy đường ô quan chưởng quận phương liên
+- có vẻ như mất trên ngõ 56 đường la thành huyện trung phụng
+- dường như cả khu vực đường một đường tây sơn quận long biên
+- có vẻ như toàn khu đường bảy đường lương định của huyện lê đại hành
+- mất trên ngõ hai đường hàng đồng quận mỹ đình 2
+- cả khu ngõ 43 đường nguyễn công trứ quận sài đồng
+- trên cả khu vực ngõ 43 đường lê quý đôn huyện la khê
+- mất trên đường 25 đường chả cá quận dịch vọng hậu
+- trên cả khu vực đường 20 đường bát sứ huyện đồng mai
+- dường như mất trên ngõ 12 đường lương ngọc quyến huyện văn miếu
+- mất trên đường 5a đường cầu đất quận tân mai
+- hình như cả khu vực đường sáu đường la thành huyện xuân đỉnh
+- có vẻ như mất trên ngõ 56 đường nguyễn xí huyện quán thánh
+- dường như trên cả khu vực đường 1 đường nguyễn như đổ quận quốc tử giám
+- cả khu vực đường năm đường huỳnh thúc kháng quận việt hưng
+- dường như toàn khu ngõ năm đường văn khê quận hàng mã
+- hình như cả khu vực đường sáu đường bạch đằng quận hoàng liệt
+- cả khu ngõ 16a đường phạm ngũ lão quận hàng bồ
+- mất trên ngõ 25 đường thanh hà quận yên sở
+- trên cả khu vực ngõ 357 đường ngô thì nhậm huyện lý thái tổ
+- dường như trên cả khu vực đường 56 đường đào duy anh quận mai dịch
+- cả khu đường 12 đường lý thường kiệt quận trần phú
+- toàn khu đường 5a đường lạc nghiệp quận ngã tư sở
+- hình như toàn khu đường một đường nguyễn thái học quận mỹ đình 1
+- hình như cả khu ngõ 378 đường thái thịnh quận văn chương
+- toàn khu đường 25 đường 8-3 quận quỳnh mai
+- cả khu vực đường ba đường nguyễn khắc cần quận phú diễn
+- có vẻ như cả khu ngõ 56 đường nguyễn văn ngọc quận xuân tảo
+- trên cả khu vực đường sáu đường hàng than quận cống vị
+- cả khu ngõ 3 đường lê lợi huyện nguyễn trung trực
+- cả khu vực đường 378 đường chu văn an huyện khương thượng
+- cả khu vực đường 356 đường lý đạo thành quận hàng bông
+- có vẻ như trên cả khu vực đường 5 đường hàng da quận phú diễn
+- mất trên ngõ một đường hàng đậu quận ngọc lâm
+- cả khu ngõ 12c đường cát linh huyện tràng tiền
+- trên cả khu vực ngõ 5a đường trung liệt quận thanh xuân trung
+- trên cả khu vực ngõ bảy đường hương viên huyện chương dương
+- hình như mất trên ngõ 124 đường lê ngọc hân quận thụy phương
+- có vẻ như cả khu ngõ một đường phan đình phùng huyện trương định
+- cả khu ngõ mười chín đường nguyên khiết quận phú lãm
+- dường như toàn khu đường 12c đường vĩnh phúc quận kim mã
+- có vẻ như trên cả khu vực đường 357 đường nguyễn văn trác huyện hoàng liệt
+- hình như trên cả khu vực ngõ 12c đường bắc sơn quận thổ quan
+- toàn khu ngõ một đường tân ấp quận thụy khuê
+- có vẻ như mất trên ngõ 145 đường tản đà quận khương thượng
+- có vẻ như cả khu ngõ 5 đường đoàn thị điểm quận ngọc thụy
+- hình như trên cả khu vực đường hai đường khúc hạo quận láng thượng
+- cả khu ngõ 12 đường ngô thì sĩ huyện cầu diễn
+- có vẻ như trên cả khu vực ngõ mười tám đường giải phóng quận thượng thanh
+- mất trên ngõ sáu đường văn miếu quận cầu diễn
+- cả khu vực đường 14 đường võ văn dũng quận liễu giai
+- hình như mất trên đường bảy đường nguyễn phạm tuân quận cát linh
+- hình như mất trên đường năm đường hà cầu quận hàng bạc
+- dường như trên cả khu vực đường 1 đường ngô văn sở huyện yên hòa
+- cả khu vực đường 35 đường phú lương quận chương dương
+- hình như cả khu ngõ 20 đường phan huy chú quận phan chu trinh
+- mất trên ngõ 1 đường lương yên huyện trung hòa
+- cả khu đường 35 đường lê văn hưu quận lĩnh nam
+- toàn khu ngõ 14 đường ô đồng lầm quận phú thượng
+- cả khu vực đường 5a đường liên trì quận thạch bàn
+- dường như trên cả khu vực ngõ 12c đường đinh liệt huyện tứ liên
+- toàn khu đường 5 đường hàng nón quận phúc đồng
+- dường như mất trên ngõ 14 đường hà trung quận dịch vọng hậu
+- cả khu vực đường 5a đường tràng tiền huyện định công
+- toàn khu ngõ 3 đường văn yên huyện thành công
+- mất trên ngõ 16a đường nguyễn khoái huyện thanh xuân bắc
+- hình như cả khu đường 20 đường quốc tử giám huyện mai dịch
+- có vẻ như cả khu ngõ 16a đường nguyễn công trứ quận la khê
+- hình như cả khu vực đường 12 đường 8 tháng 3 quận giáp bát
+- hình như cả khu vực ngõ mười bảy đường điện biên phủ quận khương mai
+- cả khu ngõ 5 đường phan văn trị quận trúc bạch
+- cả khu vực đường 12c đường tạ hiện quận thành công
+- có vẻ như toàn khu đường 56 đường đỗ ngọc du huyện ngọc hà
+- cả khu đường mười bảy đường trần phú quận dương nội
+- cả khu vực ngõ 14 đường lê hồng phong huyện đại kim
+- có vẻ như trên cả khu vực đường một đường nguyễn văn tuyết quận chương dương
+- hình như mất trên đường 12c đường hàng tre quận đức thắng
+- cả khu vực đường 3 đường thành công quận liên mạc
+- có vẻ như toàn khu đường bảy đường ngô thì nhậm quận đồng mai
+- trên cả khu vực đường mười bảy đường đại cồ việt huyện mai động
+- mất trên ngõ bảy đường la dương quận hàng buồm
+- cả khu đường 20 đường sơn tây huyện ngọc khánh
+- dường như mất trên ngõ bốn đường cảm hội quận văn quán
+- có vẻ như trên cả khu vực ngõ mười tám đường thanh niên quận mễ trì
+- có vẻ như trên cả khu vực đường mười tám đường nguyễn tư giản huyện kim liên
+- toàn khu ngõ 378 đường ngô gia khảm quận yên sở
+- trên cả khu vực đường 56 đường ba la huyện láng thượng
+- toàn khu ngõ 43 đường giang văn minh huyện cổ nhuế
+- hình như mất trên ngõ 14 đường nguyễn thiện thuật quận gia thụy
+- cả khu vực đường 14 đường thợ nhuộm quận ngọc khánh
+- dường như cả khu đường bốn đường đoàn nhữ hài quận khâm thiên
+- dường như cả khu ngõ 25 đường nghĩa dũng huyện yên phụ
+- mất trên ngõ ba đường chùa một cột quận la khê
+- mất trên đường 5 đường phủ doãn huyện quan hoa
+- dường như trên cả khu vực đường 1 đường hàng đường quận mỹ đình 1
+- cả khu vực ngõ 20 đường yên bình quận mai động
+- mất trên ngõ một đường nguyễn trung trực quận tràng tiền
+- hình như cả khu vực đường hai đường đông các quận kim mã
+- mất trên ngõ mười tám đường nguyễn công hoan quận phúc diễn
+- trên cả khu vực ngõ bốn đường trần quang khải quận phương canh
+- cả khu ngõ mười tám đường nguyễn trãi quận cổ nhuế 1
+- cả khu vực ngõ 12 đường cầu gỗ huyện lĩnh nam
+- trên cả khu vực đường 20 đường nguyễn thiếp quận thanh xuân bắc
+- cả khu ngõ 35 đường trường chinh quận vĩnh tuy
+- có vẻ như trên cả khu vực đường 378 đường phó đức chính quận thượng thanh
+- cả khu ngõ 1 đường hàng cót quận trúc bạch
+- toàn khu đường mười bảy đường lê văn linh huyện liễu giai
+- dường như toàn khu đường 12c đường cao thắng quận thụy phương
+- cả khu vực ngõ 35 đường an trạch quận trần hưng đạo
+- cả khu vực đường 43 đường phan đình phùng quận khương mai
+- dường như toàn khu đường 12c đường lê trực quận đại mỗ
+- trên cả khu vực ngõ 124 đường an xá huyện ngã tư sở
+- trên cả khu vực đường 1 đường đoàn trần nghiệp quận ô chợ dừa
+- hình như trên cả khu vực ngõ 378 đường biên giang quận quang trung
+- có vẻ như mất trên ngõ mười chín đường cao thắng huyện hàng bạc
+- toàn khu đường 3 đường khâm thiên huyện phúc xá
+- hình như mất trên đường 56 đường ô chợ dừa quận cống vị
+- cả khu vực đường 16a đường trúc bạch quận giáp bát
+- toàn khu ngõ 126 đường liễu giai huyện thanh nhàn
+- trên cả khu vực đường bảy đường lạc trung huyện hàng buồm
+- toàn khu ngõ bốn đường hàng bông quận kiến hưng
+- trên cả khu vực đường năm đường ao sen huyện nguyễn du
+- có vẻ như cả khu đường 124 đường nguyễn viết xuân quận phạm đình hổ
+- dường như cả khu vực đường 12 đường ngô đình mẫn quận thịnh quang
+- cả khu đường năm đường hàng chiếu quận quan hoa
+- trên cả khu vực đường 356 đường cao đạt quận giang biên
+- trên cả khu vực đường bốn đường phan chu trinh quận biên giang
+- cả khu đường hai đường trần văn chuông quận đông ngạc
+- hình như mất trên ngõ 124 đường nguyễn ngọc doãn huyện bưởi
+- có vẻ như trên cả khu vực đường sáu đường lê quý đôn quận cổ nhuế 2
+- mất trên đường mười tám đường độc lập quận mỹ đình
+- toàn khu ngõ mười chín đường mùng tám tháng ba quận liễu giai
+- có vẻ như cả khu đường 35 đường hỏa lò huyện láng hạ
+- cả khu ngõ bốn đường ỷ la huyện yết kiêu
+- cả khu ngõ 5 đường xã đàn quận nguyễn du
+- trên cả khu vực ngõ sáu đường lê văn hưu quận văn chương
+- cả khu ngõ 3 đường lê duẩn huyện mỹ đình 2
+- cả khu vực ngõ 20 đường nguyễn thái học quận cầu dền
+- hình như mất trên ngõ mười chín đường phan chu trinh quận phúc đồng
+- có vẻ như toàn khu đường bốn đường láng hạ quận xuân đỉnh
+- cả khu ngõ mười bảy đường tố hữu huyện phú lương
+- hình như trên cả khu vực đường bảy đường hàng cá quận bưởi
+- dường như cả khu vực đường 16a đường phan đình phùng quận cửa nam
+- dường như toàn khu ngõ một đường vạn phúc quận thanh trì
+- dường như cả khu ngõ 126 đường hoàng diệu huyện bạch đằng
+- mất trên ngõ mười chín đường yên lộ huyện phú diễn
+- hình như mất trên đường năm đường bà huyện thanh quan quận mai dịch
+- mất trên đường 124 đường bạch thái bưởi quận hàng mã
+- dường như trên cả khu vực đường 5a đường minh khai huyện hàng mã
+- dường như trên cả khu vực ngõ mười tám đường hoàng tích trí quận thanh lương
+- hình như cả khu vực đường ba đường nhà thờ huyện phúc lợi
+- mất trên đường bảy đường hàng gai quận định công
+- trên cả khu vực ngõ sáu đường bùi bằng đoàn quận bạch đằng
+- mất trên ngõ 356 đường hào nam quận ngọc thụy
+- trên cả khu vực đường mười bảy đường hàng gà huyện quốc tử giám
+- hình như cả khu vực ngõ 378 đường phan kế bính huyện đội cấn
+- có vẻ như trên cả khu vực ngõ mười tám đường chu văn an quận tứ liên
+- trên cả khu vực ngõ hai đường thái hà huyện phương liệt
+- có vẻ như cả khu vực đường bốn đường vạn phúc huyện bách khoa
+- toàn khu đường 25 đường cầu mới huyện minh khai
+- dường như toàn khu ngõ một đường dương văn bé quận đức giang
+- cả khu vực ngõ hai đường vọng hà quận khương đình
+- hình như cả khu ngõ 3 đường nguyễn an ninh quận dương nội
+- có vẻ như toàn khu đường 145 đường hàng rươi quận phúc lợi
+- hình như toàn khu đường 5a đường hòe nhai quận thượng cát
+- dường như mất trên ngõ 14 đường trương công định huyện liên mạc
+- toàn khu đường 3 đường hàng đậu quận cầu diễn
+- hình như cả khu vực đường 5a đường văn quán huyện ngọc lâm
+- trên cả khu vực ngõ 5a đường hồng mai huyện bạch mai
+- cả khu vực ngõ bảy đường nguyễn thái học quận kim giang
+- mất trên đường 5 đường lê gia đỉnh quận đồng mai
+- mất trên đường ba đường châu long quận trương định
+- trên cả khu vực đường mười bảy đường hàng thùng quận ngọc hà
+- trên cả khu vực ngõ 12 đường hàng mành huyện cầu dền
+- dường như cả khu ngõ một đường vạn bảo huyện phúc tân
+- có vẻ như toàn khu ngõ 357 đường hàng bài quận quang trung
+- hình như cả khu vực ngõ mười chín đường hồ hoàn kiếm quận giảng võ
+- hình như mất trên ngõ 357 đường đào duy từ huyện giang biên
+- hình như mất trên ngõ 357 đường hàn thuyên quận phúc la
+- có vẻ như toàn khu ngõ 35 đường lê duẩn huyện phúc diễn
+- mất trên đường 378 đường trần phú quận thanh trì
+- mất trên đường 12c đường phương mai quận đồng tâm
+- hình như toàn khu ngõ năm đường lụa quận đại mỗ
+- có vẻ như cả khu vực đường bốn đường nguyễn đình chiểu quận phú lương
+- mất trên đường ba đường mai anh tuấn huyện thanh xuân trung
+- dường như cả khu ngõ 378 đường mộ lao quận đống mác
+- dường như mất trên ngõ 145 đường yết kiêu quận bạch mai
+- dường như mất trên đường 12 đường kim mã thượng quận phú đô
+- mất trên đường 145 đường đội cấn quận phú thượng
+- cả khu vực đường 3 đường trần tế xương huyện nhật tân
+- cả khu vực đường 357 đường dã tượng huyện khâm thiên
+- hình như cả khu ngõ 43 đường lê trọng tấn quận thành công
+- toàn khu ngõ 14 đường trúc khê huyện phú thượng
+- mất trên ngõ 12c đường vũ trọng khánh quận mễ trì
+- cả khu vực ngõ bốn đường nguyên hồng quận quỳnh lôi
+- có vẻ như mất trên đường 35 đường hàng cháo huyện vĩnh tuy
+- hình như cả khu vực ngõ 35 đường ngô quyền quận cự khối
+- toàn khu đường 35 đường giảng võ huyện thạch bàn
+- cả khu ngõ hai đường cửa nam huyện quỳnh lôi
+- trên cả khu vực đường 145 đường nam cao huyện nam đồng
+- có vẻ như cả khu vực ngõ hai đường đội nhân huyện đức giang
+- mất trên đường mười chín đường đặng văn ngữ huyện khương đình
+- dường như toàn khu ngõ 43 đường trần nhật duật huyện sài đồng
+- cả khu vực đường 20 đường lê đại hành huyện vạn phúc
+- hình như cả khu ngõ 16a đường vạn kiếp quận láng thượng
+- dường như cả khu vực ngõ 12c đường hồ xuân hương quận đông ngạc
+- dường như toàn khu đường ba đường huế quận phạm đình hổ
+- hình như cả khu vực ngõ 126 đường ngô tất tố quận thanh nhàn
+- cả khu vực đường 3 đường phúc xá quận xuân tảo
+- hình như cả khu ngõ 25 đường phan bội châu quận thịnh quang
+- dường như trên cả khu vực đường 5 đường lý quốc sư quận tây tựu
+- cả khu vực đường bốn đường gia ngư huyện phương liên
+- dường như toàn khu ngõ 357 đường quần ngựa quận thanh nhàn
+- cả khu đường 5a đường lê duẩn quận minh khai
+- cả khu ngõ 5 đường ngõ gạch quận tây tựu
+- toàn khu ngõ 12c đường hàng chĩnh quận sài đồng
+- cả khu vực đường 1 đường trần hưng đạo quận tràng tiền
+- có vẻ như mất trên đường 124 đường hàng khoai quận bưởi
+- dường như trên cả khu vực đường 35 đường quang trung huyện yên sở
+- cả khu đường 12 đường 19 12 huyện trung liệt
+- cả khu vực đường 126 đường bùi ngọc dương huyện nghĩa đô
+- cả khu vực đường 56 đường hồng hà quận nghĩa đô
+- dường như cả khu đường 12 đường bế văn đàn huyện dịch vọng hậu
+- mất trên đường 357 đường yên thế quận phú la
+- mất trên ngõ 5 đường thanh bình quận bạch đằng
+- có vẻ như mất trên ngõ hai đường nguyễn phúc lai huyện đồng nhân
+- mất trên ngõ 35 đường hàng mắm huyện quang trung
+- cả khu đường 56 đường hồng phúc quận ngọc khánh
+- dường như mất trên ngõ 5 đường văn cao quận vạn phúc
+- mất trên ngõ một đường trương hán siêu quận thịnh liệt
+- trên cả khu vực ngõ 20 đường hàng mã quận xuân la
+- toàn khu ngõ hai đường cổng đục quận trung liệt
+- cả khu đường 5 đường vĩnh hồ quận bách khoa
+- dường như cả khu đường 56 đường hồ giám quận phú la
+- cả khu vực ngõ 35 đường nguyễn biểu quận láng hạ
+- cả khu vực ngõ 20 đường đặng trần côn huyện thụy phương
+- hình như toàn khu ngõ 5 đường nguyễn văn lộc quận nguyễn trãi
+- có vẻ như cả khu ngõ 12 đường yên lãng huyện nghĩa tân
+- cả khu vực đường 43 đường yên phụ quận văn miếu
+- hình như mất trên ngõ mười tám đường mã mây quận mộ lao
+- có vẻ như cả khu ngõ mười tám đường nguyễn bỉnh khiêm quận văn quán
+- toàn khu đường 56 đường huỳnh thúc kháng quận minh khai
+- cả khu vực đường 357 đường đặng tiến đông huyện tân mai
+- cả khu ngõ mười tám đường đào tấn quận vĩnh phúc
+- hình như mất trên đường 356 đường trịnh hoài đức quận nguyễn du
+- cả khu ngõ 126 đường hoàng cầu quận lĩnh nam
+- hình như trên cả khu vực đường hai đường hồng hà huyện thụy khuê
+- toàn khu đường 12 đường núi trúc quận thanh lương
+- hình như toàn khu đường ba đường bùi thị xuân huyện quỳnh mai
+- có vẻ như toàn khu đường 25 đường phan huy chú huyện việt hưng
+- cả khu vực đường 356 đường hồ đắc di huyện điện biên
+- cả khu ngõ 356 đường nguyễn du quận tứ liên
+- có vẻ như mất trên ngõ 56 đường phạm sư mạnh huyện xuân phương
+- hình như toàn khu ngõ 1 đường chùa bộc quận nghĩa tân
+- cả khu đường 12 đường khương thượng huyện thanh xuân nam
+- mất trên ngõ 16a đường đinh công tráng quận nhật tân
+- có vẻ như cả khu vực đường 145 đường tây sơn quận nguyễn trung trực
+- dường như cả khu vực ngõ 124 đường ngô quyền quận quán thánh
+- hình như mất trên ngõ mười bảy đường bạch đằng quận nam đồng
+- toàn khu ngõ 1 đường quang trung quận điện biên
+- cả khu vực ngõ 16a đường vũ văn cẩn quận kim liên
+- có vẻ như trên cả khu vực đường mười bảy đường hàng hòm quận phương mai
+- trên cả khu vực ngõ 14 đường phan phù tiên huyện phúc la
+- dường như cả khu vực đường 43 đường linh lang huyện cổ nhuế 2
+- trên cả khu vực đường hai đường lý tự trọng quận phương liên
+- toàn khu đường mười tám đường nguyễn thanh bình quận quốc tử giám
+- cả khu vực ngõ mười tám đường nguyễn cao huyện cống vị
+- toàn khu đường 5a đường chùa láng quận hàng bồ
+- toàn khu đường mười chín đường lý nam đế quận bồ đề
+- hình như cả khu ngõ mười chín đường nam ngư huyện kim mã
+- mất trên đường 126 đường nhà hỏa quận phương canh
+- trên cả khu vực ngõ mười tám đường hàng giầy huyện long biên
+- cả khu ngõ 14 đường trần hưng đạo quận hạ đình
+- toàn khu đường hai đường huỳnh thúc kháng quận trung tự
+- mất trên đường ba đường hàng quạt quận trần phú
+- cả khu vực đường 43 đường y miếu huyện nguyễn trãi
+- dường như toàn khu ngõ ba đường tràng thi quận đức giang
+- cả khu ngõ 43 đường chùa vua huyện khương trung
+- cả khu ngõ 12 đường trần khánh dư quận dịch vọng
+- cả khu đường 12 đường kim hoa quận phan chu trinh
+- toàn khu ngõ mười chín đường hàng bồ quận hoàng văn thụ
+- mất trên đường 1 đường hàng buồm quận hàng đào
+- có vẻ như mất trên đường 357 đường vọng quận nhật tân
+- mất trên ngõ một đường tôn thất đàm huyện phương mai
+- toàn khu ngõ năm đường vọng đức quận cửa nam
+- cả khu vực đường năm đường cổ tân huyện đồng tâm
+- dường như toàn khu ngõ 145 đường giải phóng quận quỳnh mai
+- cả khu vực đường 126 đường đinh lễ quận hàng trống
+- cả khu ngõ 35 đường hàng bè quận đống mác
+- dường như trên cả khu vực ngõ 25 đường chiến thắng quận khương trung
+- cả khu vực ngõ 5a đường lê hồng phong quận yên hòa
+- mất trên đường 43 đường đồng nhân quận thượng cát
+- dường như cả khu vực đường bảy đường chợ khâm thiên huyện hàng trống
+- mất trên ngõ 356 đường hàng bút quận cổ nhuế 1
+- cả khu đường 124 đường thành công huyện đống mác
+- dường như cả khu đường mười chín đường tiểu công nghệ huyện hà cầu
+- toàn khu đường 5 đường mạc đĩnh chi quận đức thắng
+- dường như toàn khu đường ba đường đa sĩ huyện trúc bạch
+- dường như toàn khu ngõ 126 đường nguyễn siêu huyện văn quán
+- dường như toàn khu đường mười bảy đường giảng võ quận biên giang
+- hình như cả khu đường 12 đường lê lai quận phú lãm
+- có vẻ như trên cả khu vực ngõ 12 đường xa la quận trung tự
+- dường như trên cả khu vực đường mười bảy đường hàm long huyện hàng bồ
+- trên cả khu vực ngõ 5a đường hàng bạc quận yên nghĩa
+- cả khu đường 12c đường nguyễn văn tố huyện minh khai
+- dường như mất trên ngõ 16a đường lạc chính quận hạ đình
+- có vẻ như mất trên đường bốn đường ngõ trạm quận tây mỗ
+- trên cả khu vực đường năm đường bích câu huyện phương canh
+- hình như toàn khu ngõ 16a đường láng hạ quận quán thánh
+- mất trên ngõ năm đường nguyễn trãi quận bách khoa
+- mất trên ngõ 145 đường tam khương huyện cổ nhuế 1
+- hình như cả khu vực đường ba đường mai hắc đế huyện phan chu trinh
+- có vẻ như cả khu vực ngõ sáu đường chân cầm quận trung phụng
+- có vẻ như cả khu vực đường 1 đường la nội quận vĩnh hưng
+- có vẻ như cả khu vực đường 43 đường chùa quỳnh huyện văn chương
+- hình như cả khu đường 357 đường lãng yên quận minh khai
+- cả khu vực đường mười bảy đường nguyễn thiếp quận dịch vọng
+- toàn khu ngõ 56 đường chương dương độ quận nguyễn trung trực
+- hình như mất trên đường 124 đường xốm huyện cát linh
+- mất trên đường 1 đường dương lâm huyện phú lãm
+- trên cả khu vực ngõ 145 đường cầu am huyện phố huế
+- cả khu ngõ 14 đường hàng muối quận phúc xá
+- mất trên đường một đường hàng đào huyện giáp bát
+- trên cả khu vực ngõ sáu đường lê thanh nghị huyện hàng bột
+- toàn khu ngõ một đường trần quốc toản huyện biên giang
+- có vẻ như toàn khu ngõ 126 đường bảo linh quận thanh xuân trung
+- hình như trên cả khu vực đường sáu đường ấu triệu quận tây mỗ
+- có vẻ như trên cả khu vực ngõ 3 đường tô hiến thành quận đồng xuân
+- cả khu ngõ ba đường cầu đơ quận bồ đề
+- hình như toàn khu ngõ 1 đường đốc ngữ quận phúc xá
+- trên cả khu vực ngõ 25 đường hàm tử quan quận phúc diễn
+- hình như mất trên đường bốn đường hàng thiếc quận vĩnh tuy
+- có vẻ như mất trên ngõ 12 đường phạm huy thông quận hàng đào
+- có vẻ như toàn khu ngõ 3 đường trần bình trọng huyện trần hưng đạo
+- trên cả khu vực đường 3 đường hoa lư quận mai động
+- có vẻ như cả khu vực ngõ mười chín đường nguyên hồng quận ngã tư sở
+- cả khu đường 12 đường nhà chung huyện thượng thanh
+- cả khu ngõ 35 đường triệu quốc đạt quận hàng gai
+- dường như cả khu vực ngõ 378 đường hàng trống quận thanh xuân bắc
+- toàn khu đường 145 đường tám tháng ba quận yên phụ
+- trên cả khu vực ngõ hai đường văn phú quận minh khai
+- mất trên đường 3 đường ngô gia tự quận hàng bột
+- mất trên đường 12 đường mai anh tuấn quận đội cấn
+- toàn khu ngõ 1 đường ngũ xã huyện mỹ đình
+- mất trên đường 5 đường trưng nhị huyện phúc đồng
+- hình như cả khu vực ngõ 12 đường hoàng văn thụ quận điện biên
+- toàn khu đường 12c đường nhuệ giang quận lý thái tổ
+- hình như cả khu vực ngõ 12c đường 19 tháng 12 huyện đông ngạc
+- toàn khu đường 356 đường hòa mã quận hàng buồm
+- mất trên đường mười tám đường an hòa quận phương liệt
+- toàn khu ngõ một đường tô hiệu quận quảng an
+- trên cả khu vực đường 356 đường nguyễn du huyện hoàng văn thụ
+- có vẻ như mất trên đường sáu đường hoàng văn thụ huyện ô chợ dừa
+- cả khu ngõ 16a đường cửa đông quận mộ lao
+- mất trên ngõ 145 đường võ thị sáu quận phúc tân
+- có vẻ như cả khu ngõ 12 đường nguyễn khắc nhu huyện phạm đình hổ
+- dường như mất trên đường mười chín đường hàn thuyên quận láng hạ
+- cả khu ngõ năm đường trần quý cáp quận kiến hưng
+- dường như cả khu ngõ hai đường hoàng hoa thám huyện trung văn
+- hình như trên cả khu vực đường 43 đường phan bội châu quận quảng an
+- dường như toàn khu đường 356 đường hàng khay quận nhân chính
+- hình như trên cả khu vực ngõ 145 đường bát đàn quận kim liên
+- dường như trên cả khu vực ngõ mười tám đường lý văn phức quận quang trung
+- hình như cả khu đường 5a đường đặng dung quận hàng trống
+- cả khu vực đường 357 đường trấn vũ quận ngọc hà
+- cả khu vực ngõ 126 đường lương văn can quận thạch bàn
+- mất trên đường 124 đường nguyễn chế nghĩa quận quang trung
+- trên cả khu vực đường 145 đường nguyễn du quận nguyễn trãi
+- có vẻ như cả khu ngõ hai đường mùng 8 tháng 3 quận hàng bột
+- cả khu ngõ 12 đường đống mác quận tân mai
+- dường như cả khu vực đường 5 đường cù chính lan quận hàng bài
+- dường như trên cả khu vực ngõ năm đường 19 5 quận yết kiêu
+- cả khu vực đường 12 đường thuốc bắc quận tương mai
+- cả khu vực ngõ mười chín đường bưởi quận văn miếu
+- trên cả khu vực ngõ 12 đường tôn thất tùng huyện hạ đình
+- toàn khu ngõ 1 đường mạc thị bưởi quận cầu dền
+- cả khu đường 356 đường lê duẩn quận việt hưng
+- toàn khu ngõ mười bảy đường lãn ông huyện nhân chính
+- dường như toàn khu đường 126 đường nguyễn huy tự huyện cửa đông
+- có vẻ như toàn khu đường 14 đường hoàng diệu huyện trần phú
+- mất trên đường 16a đường quán thánh huyện thổ quan
+- cả khu ngõ bảy đường lê phụng hiểu huyện khương mai
+- hình như cả khu đường 126 đường hàng chuối quận xuân phương
+- trên cả khu vực ngõ 43 đường thành quận liên mạc
+- hình như trên cả khu vực ngõ 3 đường lò đúc quận phố huế
+- dường như trên cả khu vực ngõ 378 đường nguyễn gia thiều quận hàng bông
+- có vẻ như mất trên đường 145 đường lương văn can quận mỹ đình
+- cả khu vực ngõ ba đường lò rèn huyện kim giang
+- dường như cả khu đường bảy đường văn la quận đồng nhân
+- mất trên ngõ 3 đường dương nội quận vĩnh phúc
+- cả khu đường 25 đường lý thường kiệt quận đại kim
+- cả khu vực ngõ 14 đường nguyễn thượng hiền quận phúc la
+- có vẻ như trên cả khu vực ngõ bảy đường đại an quận trung phụng
+- cả khu vực ngõ 124 đường kim mã huyện dịch vọng
+- dường như toàn khu đường 16a đường đỗ hành huyện đại mỗ
+- mất trên ngõ 14 đường nguyễn thị minh khai quận yết kiêu
+- cả khu vực đường 3 đường điện biên phủ huyện xuân tảo
+- toàn khu đường 126 đường trần nguyên hãn quận thanh xuân nam
+- trên cả khu vực đường 357 đường bạch mai huyện trung tự
+- mất trên ngõ 12 đường phúc la huyện quảng an
+- trên cả khu vực ngõ 43 đường lê lai quận thổ quan
+- cả khu ngõ mười chín đường đông thái quận yên phụ
+- cả khu vực đường 124 đường đại la quận thịnh liệt
+- toàn khu đường 5a đường mười chín tháng mười hai quận thượng đình
+- dường như cả khu đường sáu đường đặng tất quận đại kim
+- toàn khu ngõ sáu đường nguyễn quang bích quận phúc tân
+- toàn khu đường 16a đường hoàng ngọc phách quận giang biên
+- hình như mất trên đường 378 đường lê thánh tông quận khương đình
+- có vẻ như toàn khu đường 126 đường trần huy liệu huyện hàng gai
+- cả khu đường 12 đường quán sứ huyện đức thắng
+- hình như cả khu vực đường 16a đường phạm ngọc thạch quận nhân chính
+- dường như cả khu vực đường sáu đường yên phúc quận ngọc lâm
+- dường như cả khu ngõ 5 đường lò sũ quận hà cầu
+- toàn khu đường mười bảy đường kim ngưu huyện thanh lương
+- cả khu vực ngõ 356 đường nguyễn trường tộ quận khương trung
+- có vẻ như mất trên đường 1 đường lý nam đế quận khương thượng
+- toàn khu ngõ 20 đường ngô sĩ liên huyện vĩnh hưng
+- toàn khu đường 20 đường trưng trắc huyện dương nội
+- hình như mất trên ngõ 356 đường trần hữu tước huyện tây tựu
+- trên cả khu vực đường mười bảy đường hùng vương quận hoàng văn thụ
+- mất trên ngõ năm đường hàng cân huyện thịnh quang
+- toàn khu đường 5a đường đinh tiên hoàng quận ô chợ dừa
+- dường như trên cả khu vực đường 12c đường phạm hồng thái quận cự khối
+- cả khu đường ba đường nguyễn tri phương quận phố huế
+- dường như trên cả khu vực ngõ bốn đường thanh yên quận lê đại hành
+- hình như trên cả khu vực đường 35 đường tô tịch quận cổ nhuế
+- dường như cả khu ngõ 357 đường đình ngang huyện cự khối
+- toàn khu ngõ bảy đường tống duy tân quận định công
+- trên cả khu vực đường sáu đường hàng giấy quận đồng xuân
+- dường như toàn khu đường 3 đường lê thái tổ quận cổ nhuế 2
+- hình như trên cả khu vực ngõ 14 đường nguyễn văn trỗi huyện tương mai
+- có vẻ như mất trên đường 126 đường ngọc hà huyện phú la
+- có vẻ như mất trên ngõ 12 đường pháo đài láng huyện thanh trì
+- toàn khu ngõ 124 đường trần nhật duật quận thụy khuê
+- có vẻ như trên cả khu vực đường 5a đường vũ thạnh quận hoàng liệt
+- trên cả khu vực ngõ 43 đường nam đồng huyện tây mỗ
+- dường như cả khu đường năm đường lê thạch huyện thịnh liệt
+- có vẻ như toàn khu ngõ 25 đường tôn thất thiệp huyện quang trung
+- dường như trên cả khu vực ngõ mười bảy đường đông tác huyện thượng đình
+- toàn khu ngõ 357 đường nguyễn khuyến quận hàng gai
+- có vẻ như trên cả khu vực đường bảy đường trần đăng ninh quận cát linh
+- toàn khu đường 124 đường ngọc khánh quận tương mai
+- cả khu vực ngõ 12 đường bà triệu quận trung liệt
+- có vẻ như cả khu đường 356 đường ngô thì nhậm huyện giảng võ
+- trên cả khu vực đường 145 đường nguyễn cảnh chân quận hàng bạc
+- có vẻ như toàn khu đường ba đường hàng bún quận thanh xuân nam
+- cả khu ngõ 12 đường phúc tân quận vạn phúc
+- hình như toàn khu ngõ 378 đường bà triệu huyện hàng bài
+- dường như cả khu vực đường 12 đường trần phú quận lê đại hành
+- cả khu đường 25 đường gầm cầu quận xuân phương
+- hình như toàn khu ngõ 56 đường thanh bảo quận hàng bài
+- có vẻ như cả khu ngõ 126 đường nguyễn chí thanh huyện yên nghĩa
+- cả khu vực ngõ hai đường nguyễn quyền quận long biên
+- trên cả khu vực ngõ 356 đường yên ninh quận mỹ đình 2
+- trên cả khu vực ngõ 356 đường hàng vải quận phú lương
+- trên cả khu vực đường mười tám đường cao bá quát quận xuân la
+- có vẻ như toàn khu ngõ 124 đường hoàng hoa thám quận đội cấn
+- hình như cả khu ngõ một đường lý thái tổ quận giảng võ
+- có vẻ như mất trên ngõ 25 đường hàng lược huyện ngọc thụy
+- dường như cả khu vực đường 124 đường nguyễn hiền huyện bồ đề
+- cả khu vực đường 25 đường lê hữu trác huyện hàng bông
+- cả khu vực ngõ một đường tôn đức thắng quận xuân đỉnh
+- cả khu vực đường 378 đường phan huy ích quận khâm thiên
+- cả khu đường bốn đường nguyễn thái học quận nam đồng
+- cả khu vực đường 35 đường tông đản quận hà cầu
+- có vẻ như cả khu ngõ 378 đường bảo khánh huyện mỹ đình 1
+- toàn khu ngõ 12 đường nguyễn khắc hiếu huyện mộ lao
+- cả khu ngõ sáu đường nguyễn trực quận thượng đình
+- toàn khu ngõ bốn đường chợ gạo huyện mễ trì
+- hình như cả khu ngõ mười chín đường phan đình giót quận đồng tâm
+- toàn khu ngõ ba đường phố huế quận đồng nhân
+- cả khu ngõ 43 đường phùng hưng quận yên nghĩa
+- mất trên ngõ bảy đường trần quang diệu huyện cửa nam
+- mất trên đường 378 đường cầu đông quận phương mai
+- trên cả khu vực đường 16a đường láng huyện gia thụy
+- cả khu vực đường 14 đường yết kiêu quận cửa đông
+- cả khu vực đường 20 đường nguyễn lương bằng huyện vĩnh phúc
+- dường như toàn khu đường năm đường cửa bắc quận cửa đông
+- cả khu vực ngõ 16a đường hàng chai quận trương định
+- hình như cả khu vực đường 145 đường đội cung quận cổ nhuế
+- trên cả khu vực đường 378 đường đinh tiên hoàng quận nghĩa đô
+- có vẻ như cả khu đường lạc long quân
+- cả khu vực phố hàng thiếc
+- hình như trên cả khu vực đường thúy lĩnh
+- dường như mất trên phố trung văn
+- cả khu phố hàng bút
+- trên cả khu vực đường trường chinh
+- có vẻ như mất trên đường hàng giầy
+- hình như cả khu phố trần tế xương
+- dường như cả khu vực phố trần nhật duật
+- dường như toàn khu đường thanh hà
+- dường như mất trên đường xuân phương
+- mất trên phố lê hồng phong
+- dường như cả khu vực phố la thành
+- toàn khu phố phúc lợi
+- mất trên phố phan phù tiên
+- mất trên đường trần văn cẩn
+- dường như mất trên phố trần vỹ
+- mất trên phố lãn ông
+- có vẻ như mất trên phố đỗ đình thiện
+- dường như cả khu đường nguyễn trãi
+- cả khu đường yên hoa
+- trên cả khu vực đường nhổn
+- mất trên đường nam dư
+- hình như toàn khu phố ngô thì nhậm
+- cả khu vực đường trích sài
+- trên cả khu vực đường yên lạc
+- có vẻ như cả khu vực đường phan kế bính
+- hình như cả khu vực phố nghiêm xuân yêm
+- mất trên đường đặng thùy trâm
+- trên cả khu vực phố minh khai
+- có vẻ như cả khu vực đường nguyễn văn giáp
+- dường như mất trên phố thành công
+- cả khu vực đường trương công giai
+- trên cả khu vực đường phương liệt
+- cả khu vực phố trần nguyên đán
+- cả khu vực đường tình quang
+- dường như trên cả khu vực đường hàng đào
+- dường như cả khu đường bạch đằng
+- trên cả khu vực đường phúc diễn
+- toàn khu đường ô đồng lầm
+- hình như trên cả khu vực phố đàm quang trung
+- cả khu phố gia thụy
+- dường như cả khu vực phố quan nhân
+- dường như cả khu vực đường trần cao vân
+- mất trên đường nguyễn khắc cần
+- cả khu phố cát linh
+- trên cả khu vực đường mai động
+- dường như cả khu vực đường lê thái tổ
+- mất trên đường ô cách
+- dường như toàn khu đường kim giang
+- mất trên đường yết kiêu
+- toàn khu phố thụy phương
+- cả khu vực phố bạch mai
+- cả khu phố đội cấn
+- có vẻ như mất trên đường tô ngọc vân
+- có vẻ như trên cả khu vực phố hạ đình
+- có vẻ như trên cả khu vực đường tư đình
+- hình như mất trên đường điện biên phủ
+- mất trên đường văn cao
+- trên cả khu vực phố phúc la
+- hình như mất trên đường cù chính lan
+- mất trên phố thịnh liệt
+- cả khu đường văn quán
+- cả khu phố giải phóng
+- hình như mất trên đường thi sách
+- mất trên đường vạn kiếp
+- có vẻ như cả khu vực đường tam đa
+- cả khu phố triệu quốc đạt
+- trên cả khu vực phố hội xá
+- mất trên phố lê quang đạo
+- có vẻ như toàn khu phố mỹ đình
+- cả khu vực đường nguyễn văn tuyết
+- trên cả khu vực phố vạn phúc
+- toàn khu đường yên phụ
+- dường như cả khu đường nguyễn văn trác
+- mất trên đường điện biên phủ
+- hình như cả khu đường lương thế vinh
+- dường như mất trên phố hoàng đạo thúy
+- cả khu đường lê văn hưu
+- cả khu vực đường nam cao
+- mất trên đường phương mai
+- có vẻ như mất trên đường nguyễn xiển
+- mất trên phố thanh lâm
+- dường như cả khu đường tân nhuệ
+- cả khu đường ngô đình mẫn
+- cả khu vực phố tây kết
+- dường như mất trên đường 8-3
+- hình như cả khu vực phố hàng ngang
+- dường như mất trên phố 19 tháng 5
+- dường như cả khu đường doãn kế thiện
+- hình như cả khu đường nguyễn phạm tuân
+- dường như cả khu vực phố nguyễn viết xuân
+- cả khu phố cù chính lan
+- cả khu phố định công
+- cả khu đường hồng hà
+- mất trên đường nguyễn trực
+- có vẻ như mất trên đường hàng bạc
+- mất trên đường phạm tuấn tài
+- có vẻ như toàn khu phố vũ tông phan
+- có vẻ như trên cả khu vực phố thanh bảo
+- có vẻ như trên cả khu vực phố nguyễn thiếp
+- trên cả khu vực đường định công thượng
+- dường như trên cả khu vực phố bùi xương trạch
+- trên cả khu vực phố lê hồng phong
+- dường như cả khu vực phố lê trọng tấn
+- toàn khu phố nguyễn thượng hiền
+- cả khu vực phố đoàn trần nghiệp
+- trên cả khu vực phố hồng mai
+- dường như toàn khu phố tăng bạt hổ
+- trên cả khu vực đường vọng
+- hình như cả khu vực phố hưng phúc
+- cả khu phố nguyên hồng
+- cả khu vực phố đặng tiến đông
+- trên cả khu vực đường yên phúc
+- hình như trên cả khu vực phố bạch đằng
+- cả khu phố nhổn
+- trên cả khu vực đường nguyễn hiền
+- toàn khu đường định công
+- có vẻ như cả khu đường lương ngọc quyến
+- toàn khu đường giang văn minh
+- dường như trên cả khu vực phố trần quốc hoàn
+- dường như mất trên đường hoàng văn thụ
+- hình như cả khu vực phố nguyễn chính
+- trên cả khu vực đường phùng hưng
+- cả khu vực đường đinh tiên hoàng
+- dường như cả khu vực phố trúc bạch
+- cả khu vực phố hàng buồm
+- cả khu đường nguyễn lam
+- cả khu vực đường la thành
+- trên cả khu vực phố trần nguyên hãn
+- dường như mất trên đường hàng hòm
+- dường như trên cả khu vực đường trương định
+- hình như toàn khu phố lê duẩn
+- trên cả khu vực phố dã tượng
+- trên cả khu vực phố tôn thất thuyết
+- hình như toàn khu đường láng hạ
+- hình như cả khu phố ngõ trạm
+- dường như cả khu phố bắc cầu
+- có vẻ như cả khu vực phố cầu bây
+- trên cả khu vực đường đốc ngữ
+- dường như cả khu vực đường trần cung
+- dường như mất trên đường triều khúc
+- mất trên phố cầu noi
+- dường như toàn khu đường lò đúc
+- dường như mất trên phố y miếu
+- cả khu đường đỗ quang
+- mất trên đường lệ mật
+- toàn khu đường khương đình
+- có vẻ như mất trên đường trần quốc hoàn
+- mất trên phố lê duẩn
+- hình như cả khu phố đức giang
+- cả khu vực phố tông đản
+- mất trên phố hoa lư
+- có vẻ như cả khu vực đường lê lợi
+- toàn khu phố tú mỡ
+- có vẻ như toàn khu phố nguyễn văn trác
+- hình như cả khu đường huỳnh thúc kháng
+- có vẻ như mất trên đường đông thái
+- dường như cả khu vực phố hưng thịnh
+- cả khu đường nguyễn trãi
+- cả khu vực phố quan hoa
+- mất trên phố sơn tây
+- cả khu đường đình ngang
+- có vẻ như cả khu vực phố nguyễn thái học
+- có vẻ như toàn khu phố phan chu trinh
+- cả khu phố hàng phố
+- dường như cả khu đường tương mai
+- trên cả khu vực đường trần hữu tước
+- có vẻ như cả khu vực đường gia ngư
+- mất trên phố tây kết
+- trên cả khu vực phố nguyễn như đổ
+- mất trên đường đoàn trần nghiệp
+- cả khu phố duy tân
+- mất trên đường nghĩa dũng
+- hình như mất trên phố nguyễn thị định
+- có vẻ như trên cả khu vực phố bằng liệt
+- toàn khu phố trần đại nghĩa
+- mất trên phố cự lộc
+- mất trên đường đông ngạc
+- cả khu phố trần quý cáp
+- có vẻ như cả khu đường phúc tân
+- dường như cả khu vực phố thái hà
+- hình như toàn khu đường trần phú
+- hình như cả khu vực phố nguyễn khắc nhu
+- trên cả khu vực đường bùi thiện ngộ
+- mất trên đường yên phụ
+- dường như cả khu phố định công hạ
+- trên cả khu vực đường lý thái tổ
+- hình như mất trên đường ngũ nhạc
+- có vẻ như trên cả khu vực đường quỳnh mai
+- cả khu vực phố linh phố
+- dường như cả khu phố chu văn an
+- trên cả khu vực đường cầu đất
+- dường như cả khu phố hà cầu
+- mất trên phố thanh đàm
+- trên cả khu vực đường nguyễn du
+- mất trên đường nam đuống
+- cả khu phố thịnh yên
+- hình như mất trên đường 19 12
+- có vẻ như toàn khu đường bùi huy bích
+- toàn khu nhé bạn
+- có vẻ như trên cả khu vực nhá chị
+- cả khu vực nhớ cô
+- cả khu vực nhớ chị
+- dường như cả khu vực nhé chị
+- có vẻ như toàn khu nhớ em
+- cả khu vực nhớ bạn
+- mất trên nhá bạn
+- cả khu vực nhớ chị
+- hình như trên cả khu vực nhớ anh
+- toàn khu nhá chú
+- hình như cả khu nhá anh
+- mất trên nhớ em
+- mất trên nhớ chị
+- cả khu nhé bạn
+- hình như toàn khu nhớ chị
+- hình như cả khu nhá chị
+- dường như trên cả khu vực nhé em
+- cả khu vực nhá mày
+- dường như mất trên nhé chú
+- dường như cả khu nhé mày
+- cả khu vực nhá cô
+- mất trên nhé cô
+- trên cả khu vực nhá cô
+- có vẻ như mất trên nhé mày
+- dường như cả khu vực nhớ em
+- cả khu vực nhớ mày
+- có vẻ như toàn khu nhá mày
+- toàn khu nhé mày
+- mất trên nhé chị
+- trên cả khu vực nhá mày
+- dường như cả khu nhé em
+- cả khu vực nhớ anh
+- trên cả khu vực nhá mày
+- mất trên nhớ chú
+- trên cả khu vực nhớ bạn
+- có vẻ như mất trên nhá anh
+- mất trên nhớ mày
+- cả khu vực nhá bạn
+- cả khu vực nhớ mày
+- dường như toàn khu nhé cô
+- cả khu nhớ bạn
+- trên cả khu vực nhá cô
+- cả khu vực nhớ cô
+- có vẻ như mất trên nhé anh
+- cả khu vực nhá mày
+- cả khu nhé chú
+- cả khu vực nhá chú
+- trên cả khu vực nhá em
+- có vẻ như mất trên nhớ chị
+- bây giờ bị cắt điện cả khu vực
+- hiện tại đang bị mất điện trên cả khu vực
+- bây giờ bị cắt điện hết khu xung quanh đây
+- hiện giờ đang bị mất điện toàn khu
+- hiện bị cắt điện cả khu
+- bây giờ cắt điện hết khu xung quanh đây
+- hiện tại bị cắt điện toàn khu
+- hiện bị cắt điện khu xung quanh
+- hiện giờ bị cắt điện cả khu vực
+- hiện tại cắt điện hết khu xung quanh đây
+- hiện bị cắt điện toàn khu
+- hiện giờ cắt điện khu xung quanh
+- hiện bị cắt điện hết khu xung quanh đây
+- hiện đang bị mất điện cả khu vực
+- hiện giờ đang bị mất điện cả khu
+- bây giờ cắt điện khu xung quanh
+- hiện giờ cắt điện hết khu xung quanh đây
+- hiện giờ bị cắt điện cả khu
+- bây giờ đang bị mất điện trên cả khu vực
+- lúc này cắt điện cả khu
+- hiện tại đang bị mất điện khu xung quanh
+- bây giờ đang bị mất điện khu xung quanh
+- hiện giờ đang bị mất điện khu xung quanh
+- hiện giờ bị cắt điện trên cả khu vực
+- lúc này bị cắt điện khu xung quanh
+- hiện đang bị mất điện cả khu
+- bây giờ bị cắt điện toàn khu
+- hiện đang bị mất điện trên cả khu vực
+- hiện giờ cắt điện trên cả khu vực
+- lúc này cắt điện hết khu xung quanh đây
+- bây giờ đang bị mất điện toàn khu
+- lúc này đang bị mất điện khu xung quanh
+- hiện giờ đang bị mất điện hết khu xung quanh đây
+- hiện tại đang bị mất điện cả khu
+- lúc này bị cắt điện toàn khu
+- lúc này đang bị mất điện cả khu
+- hiện cắt điện cả khu
+- bây giờ bị cắt điện cả khu
+- lúc này bị cắt điện trên cả khu vực
+- lúc này đang bị mất điện trên cả khu vực
+- hiện tại đang bị mất điện hết khu xung quanh đây
+- bây giờ cắt điện trên cả khu vực
+- hiện giờ đang bị mất điện trên cả khu vực
+- bây giờ đang bị mất điện hết khu xung quanh đây
+- hiện tại bị cắt điện cả khu vực
+- bây giờ cắt điện cả khu
+- bây giờ cắt điện toàn khu
+- hiện giờ bị cắt điện hết khu xung quanh đây
+- hiện giờ cắt điện toàn khu
+- hiện cắt điện khu xung quanh
+- quanh đây đều toàn mất điện cô
+- xung quanh đều mất hết điện nhớ mày
+- xung quanh đây đều toàn mất điện nhá anh
+- quanh nhà đều mất hết điện nhá cô
+- quanh nhà đều không có điện nha em
+- quanh nhà đều không có điện nhé em
+- các khu đều mất điện nha anh
+- quanh các khu đây đều mất hết điện mình
+- quanh nhà đều mất hết điện nhé em
+- quanh đây đều toàn mất điện cô
+- xung quanh đều mất hết điện nhớ em
+- xung quanh đều không có điện mày
+- quanh đây đều không có điện nhé mày
+- xung quanh đây đều mất hết điện anh
+- xung quanh đây đều không có điện nhớ mày
+- quanh đây đều toàn mất điện nhớ mày
+- quanh các khu đây đều không có điện nhá mình
+- các khu đều không có điện em
+- xung quanh đây đều mất hết điện nha cô
+- quanh các khu đây đều mất hết điện nha cô
+- xung quanh đều mất hết điện cô
+- quanh đây đều mất điện nhá em
+- quanh nhà đều mất điện nhớ cô
+- quanh nhà đều toàn mất điện nha chị
+- xung quanh đây đều toàn mất điện nhá chị
+- xung quanh đây đều mất hết điện nhé mình
+- xung quanh đều mất điện nhớ chị
+- các khu đều mất điện nhá anh
+- xung quanh đều mất hết điện nhá mày
+- các khu đều không có điện mình
+- quanh các khu đây đều mất điện nhé em
+- quanh nhà đều không có điện nhá em
+- quanh nhà đều mất điện nhé mày
+- xung quanh đều không có điện anh
+- quanh đây đều toàn mất điện anh
+- quanh nhà đều mất hết điện nhé chú
+- xung quanh đây đều mất hết điện nhớ chị
+- quanh các khu đây đều mất hết điện nha chị
+- xung quanh đây đều toàn mất điện chị
+- quanh đây đều không có điện nhớ cô
+- các khu đều không có điện em
+- xung quanh đều không có điện cô
+- xung quanh đều mất hết điện anh
+- quanh đây đều toàn mất điện mày
+- quanh nhà đều mất điện nhớ anh
+- quanh đây đều mất hết điện nhá mày
+- xung quanh đây đều mất điện nhớ chú
+- xung quanh đều toàn mất điện nha anh
+- xung quanh đều không có điện nhá mày
+- các khu đều mất điện nhé chú
+<!-- update 11/12/2020 -->
+- bị mất toàn bộ khu luôn
+- có vẻ cắt tất cả khu luôn
+- gần như cắt tất cả xóm luôn
+- mất tất khu luôn
+- có vẻ bị cắt tất cả xóm luôn
+- cắt tất xóm luôn
+- mất toàn ngõ luôn
+- gần như bị mất tất cả thôn luôn
+- có vẻ mất toàn bộ xóm luôn
+- cắt toàn khu luôn
+- hầu như cắt toàn ngõ luôn
+- hầu như mất toàn bộ khu luôn
+- cắt toàn khu luôn
+- bị mất toàn bộ xóm luôn
+- cắt tất ngõ luôn
+- cắt toàn bộ xóm luôn
+- gần như cắt tất cả thôn luôn
+- gần như cắt tất thôn luôn
+- mất tất cả khu luôn
+- bị cắt toàn bộ khu luôn
+- gần như bị cắt toàn xóm luôn
+- bị mất toàn xóm luôn
+- hầu như bị mất tất thôn luôn
+- bị cắt tất cả ngõ luôn
+- có vẻ cắt tất cả thôn luôn
+- mất tất cả xóm luôn
+- gần như bị mất toàn bộ ngõ luôn
+- bị cắt tất cả xóm luôn
+- gần như bị cắt toàn thôn luôn
+- có vẻ bị cắt tất cả ngõ luôn
+- bị cắt tất xóm luôn
+- cắt tất cả ngõ luôn
+- cắt tất ngõ luôn
+- bị cắt toàn khu luôn
+- bị cắt toàn bộ khu luôn
+- có vẻ bị mất tất cả xóm luôn
+- gần như bị cắt tất cả xóm luôn
+- hầu như mất tất cả khu luôn
+- bị cắt toàn bộ thôn luôn
+- hầu như bị mất toàn bộ ngõ luôn
+- mất tất thôn luôn
+- hầu như bị cắt tất cả ngõ luôn
+- hầu như bị cắt tất thôn luôn
+- mất toàn bộ thôn luôn
+- hầu như bị cắt toàn thôn luôn
+- bị mất tất cả khu luôn
+- có vẻ bị cắt toàn bộ xóm luôn
+- bị cắt tất cả thôn luôn
+- có vẻ mất toàn bộ ngõ luôn
+- có vẻ mất toàn khu luôn
+- bị cắt toàn thôn lê trực
+- mất tất cả huyện la thành
+- gần như bị mất tất khu y miếu
+- gần như bị cắt tất cả ngõ phùng hưng
+- có vẻ bị mất toàn bộ khu ô đồng lầm
+- có vẻ bị mất tất cả xóm tam khương
+- mất tất thôn hàng đào
+- có vẻ bị mất tất quận nguyễn chí thanh
+- gần như mất tất cả thôn nguyễn trực
+- gần như bị mất tất xóm nguyễn hữu huân
+- gần như bị mất tất cả xóm đào duy anh
+- có vẻ bị cắt tất cả thôn ngô thì nhậm
+- có vẻ bị mất toàn phố chợ gạo
+- cắt toàn bộ khu hàng muối
+- mất tất đường nguyễn thiếp
+- có vẻ mất toàn ngõ nhà hỏa
+- bị mất toàn ngõ ô quan chưởng
+- hầu như bị cắt toàn bộ đường văn la
+- cắt tất huyện đào tấn
+- hầu như mất tất quận bà triệu
+- có vẻ bị cắt toàn bộ xóm văn khê
+- mất tất cả khu huỳnh thúc kháng
+- gần như mất tất phố trần văn chuông
+- hầu như cắt tất ngõ nhà chung
+- mất toàn quận bích câu
+- mất tất cả khu đặng tiến đông
+- gần như mất toàn xóm lụa
+- có vẻ bị cắt tất cả xóm lê hữu trác
+- bị mất toàn bộ đường la dương
+- gần như cắt toàn bộ đường thanh bình
+- gần như mất toàn bộ ngõ cát linh
+- gần như bị cắt tất cả phố yết kiêu
+- mất tất thôn đặng trần côn
+- cắt tất xóm phan bội châu
+- hầu như mất toàn bộ thôn cầu am
+- gần như mất toàn bộ khu hàng vôi
+- hầu như bị cắt toàn khu phạm ngũ lão
+- bị cắt tất thôn hàng cót
+- có vẻ cắt tất cả đường cầu mới
+- gần như mất tất xóm lý thường kiệt
+- cắt toàn khu lý thái tổ
+- hầu như mất tất cả quận nguyễn thiện thuật
+- gần như mất tất cả huyện văn quán
+- gần như bị cắt tất khu nguyễn văn trác
+- hầu như mất toàn xóm hàng gà
+- có vẻ bị mất tất huyện tràng tiền
+- mất toàn bộ đường trần phú
+- bị mất tất cả huyện khâm thiên
+- gần như bị mất toàn bộ xóm hào nam
+- cắt toàn quận bảo khánh
+- bị cắt tất cả quận yên lãng
+- hầu như mất toàn bộ xóm trúc khê
+- gần như bị cắt toàn bộ khu giải phóng
+- mất toàn huyện khương thượng
+- có vẻ mất toàn đường ngọc hà
+- mất tất cả thôn an trạch
+- mất toàn xóm lê lai
+- bị cắt toàn thôn hàng đậu
+- gần như mất tất quận hàng quạt
+- có vẻ bị mất toàn quận mã mây
+- có vẻ bị mất tất cả thôn lê lợi
+- bị mất toàn bộ huyện hàng bài
+- có vẻ cắt toàn huyện ngô đình mẫn
+- gần như cắt toàn đường hàng nón
+- hầu như bị cắt tất cả huyện phúc tân
+- hầu như cắt toàn bộ khu phủ doãn
+- mất tất khu hàng cháo
+- mất tất xóm nguyễn du
+- hầu như mất tất cả khu nguyễn thái học
+- có vẻ cắt tất quận phan văn trị
+- gần như bị cắt tất cả ngõ vĩnh hồ
+- mất toàn đường chợ khâm thiên
+- bị cắt toàn bộ thôn tiểu công nghệ
+- bị cắt tất cả thôn trương hán siêu
+- mất toàn bộ phố yết kiêu
+- hầu như bị cắt tất cả ngõ yên bình
+- mất toàn bộ xóm liên trì
+- mất toàn bộ đường hàng gai
+- hầu như cắt toàn bộ thôn tôn thất thiệp
+- bị mất tất cả thôn đinh công tráng
+- gần như bị mất tất cả xóm pháo đài láng
+- bị cắt tất ngõ đồng xuân
+- cắt toàn bộ ngõ bế văn đàn
+- hầu như mất tất xóm đội cấn
+- cắt toàn đường dã tượng
+- bị cắt tất cả huyện chân cầm
+- bị cắt toàn xóm linh lang
+- gần như mất toàn ngõ thợ nhuộm
+- cắt tất thôn giảng võ
+- hầu như bị mất toàn huyện nguyễn văn trỗi
+- có vẻ bị mất toàn huyện tây sơn
+- hầu như bị mất tất cả quận đặng tất
+- có vẻ mất toàn bộ huyện lò sũ
+- bị mất tất cả đường hoàng văn thụ
+- cắt toàn phố nguyễn văn tố
+- mất toàn quận nguyễn thái học
+- gần như cắt toàn bộ khu cổ tân
+- gần như mất toàn bộ đường độc lập
+- cắt tất cả xóm phúc la
+- bị cắt toàn bộ khu ngô quyền
+- có vẻ bị cắt toàn bộ đường tống duy tân
+- hầu như mất tất thôn lê văn hưu
+- bị mất toàn quận đa sĩ
+- bị cắt toàn huyện hoàng hoa thám
+- hầu như bị cắt toàn thôn ngô gia khảm
+- hầu như cắt tất đường hàm long
+- cắt toàn bộ huyện chu văn an
+- gần như cắt toàn thôn lãn ông
+- cắt toàn xóm hà trung
+- có vẻ bị mất toàn ngõ hàng chĩnh
+- có vẻ cắt tất cả khu hàng than
+- cắt toàn khu nguyễn ngọc doãn
+- cắt tất thôn nguyễn gia thiều
+- có vẻ bị cắt toàn bộ quận cổng đục
+- gần như cắt toàn đường bà huyện thanh quan
+- hầu như bị cắt tất phố quang trung
+- hầu như bị cắt tất cả khu đoàn thị điểm
+- hầu như bị cắt toàn bộ khu bát đàn
+- gần như cắt tất cả thôn nguyễn phúc lai
+- gần như bị mất toàn bộ huyện vạn kiếp
+- hầu như bị mất toàn bộ khu bát sứ
+- cắt toàn bộ đường hàng đậu
+- cắt tất huyện an xá
+- gần như cắt tất thôn tràng thi
+- hầu như cắt toàn quận tạ hiện
+- gần như bị mất tất cả đường phan phù tiên
+- mất toàn quận nam cao
+- có vẻ bị cắt tất cả huyện cù chính lan
+- gần như mất tất đường tô hiến thành
+- gần như bị mất tất ngõ hàng đường
+- bị mất toàn phố trần nhật duật
+- bị cắt toàn bộ ngõ bắc sơn
+- hầu như cắt toàn phố bà triệu
+- hầu như cắt tất cả xóm tông đản
+- mất tất cả quận yên phúc
+- gần như bị cắt toàn xóm vũ thạnh
+- hầu như cắt toàn bộ khu tố hữu
+- mất tất cả khu hoàng diệu
+- bị cắt toàn phố chùa một cột
+- bị mất toàn bộ quận huỳnh thúc kháng
+- gần như mất tất cả quận tản đà
+- cắt tất thôn văn phú
+- có vẻ mất tất quận hàn thuyên
+- gần như mất toàn huyện điện biên phủ
+- hầu như bị mất toàn bộ ngõ đình ngang
+- hầu như bị mất tất cả ngõ nhuệ giang
+- có vẻ cắt toàn bộ thôn thái hà
+- bị cắt toàn xóm trần hữu tước
+- mất toàn ngõ lý tự trọng
+- có vẻ cắt tất cả thôn hàng mã
+- bị mất tất cả phố hoàng ngọc phách
+- bị cắt tất huyện hàng giầy
+- gần như bị cắt toàn bộ quận ngõ trạm
+- có vẻ bị mất tất cả xóm hàng cá
+- bị cắt tất khu huế
+- có vẻ bị cắt toàn khu lê thánh tông
+- có vẻ bị mất toàn khu văn miếu
+- có vẻ bị mất tất ngõ dương nội
+- gần như cắt toàn thôn hàng điếu
+- bị cắt tất khu đông các
+- có vẻ cắt toàn đường lương văn can
+- hầu như bị mất toàn phố hàng rươi
+- có vẻ bị mất toàn bộ đường hỏa lò
+- gần như bị cắt toàn bộ đường trưng nhị
+- mất tất cả huyện hàng bồ
+- có vẻ cắt toàn bộ phố lê văn linh
+- có vẻ bị mất tất đường bùi bằng đoàn
+- bị mất tất khu trần quý cáp
+- mất tất cả ngõ lương định của
+- có vẻ bị cắt toàn phố ngô sĩ liên
+- bị mất toàn bộ thôn nguyễn thanh bình
+- mất toàn huyện nguyễn chí thanh
+- hầu như bị cắt tất xóm cầu đơ
+- gần như cắt toàn bộ quận thanh yên
+- mất toàn bộ đường đông thái
+- hầu như bị cắt toàn ngõ phú lương
+- có vẻ bị cắt toàn khu lê hồng phong
+- gần như cắt toàn bộ xóm nguyễn thái học
+- hầu như mất toàn phố đinh liệt
+- bị cắt toàn bộ đường lý nam đế
+- cắt tất đường hàng giấy
+- bị mất toàn bộ đường nguyên hồng
+- cắt toàn phố cửa đông
+- có vẻ bị cắt toàn bộ thôn hàng mắm
+- cắt tất phố trương công định
+- mất toàn bộ thôn mai anh tuấn
+- hầu như mất tất đường cao thắng
+- gần như bị cắt tất cả xóm trần phú
+- gần như mất tất cả khu phùng hưng
+- có vẻ bị mất tất huyện tôn thất tùng
+- hầu như bị mất toàn bộ thôn lạc chính
+- mất tất cả thôn hồ đắc di
+- bị mất tất xóm đoàn nhữ hài
+- gần như bị mất tất cả xóm biên giang
+- bị mất tất cả ngõ đào duy từ
+- gần như cắt tất cả huyện giảng võ
+- hầu như bị cắt toàn phố trần hưng đạo
+- hầu như mất tất cả ngõ kim mã thượng
+- bị cắt tất thôn thành công
+- gần như bị mất tất quận cầu đất
+- gần như cắt toàn bộ khu đặng dung
+- gần như cắt tất phố hàng bún
+- bị mất tất cả huyện chùa bộc
+- hầu như bị cắt toàn khu nguyễn viết xuân
+- bị cắt toàn bộ đường mậu lương
+- gần như cắt tất thôn lý quốc sư
+- hầu như bị mất tất cả ngõ xa la
+- có vẻ bị mất tất phố nguyễn du
+- hầu như bị cắt tất phố hoàng cầu
+- hầu như bị mất tất cả đường phan chu trinh
+- có vẻ cắt toàn bộ quận ngô tất tố
+- có vẻ bị mất tất thôn hàng trống
+- bị cắt toàn quận hà cầu
+- gần như mất tất cả xóm cửa nam
+- có vẻ cắt toàn ngõ ba la
+- hầu như mất tất huyện nguyễn chế nghĩa
+- gần như bị cắt toàn quận hòe nhai
+- hầu như mất toàn bộ huyện chiến thắng
+- bị cắt toàn thôn nguyễn thị minh khai
+- cắt toàn bộ thôn võ văn dũng
+- gần như mất toàn bộ xóm tôn đức thắng
+- hầu như bị cắt toàn bộ ngõ tô tịch
+- hầu như cắt toàn bộ đường phan chu trinh
+- mất toàn bộ quận hàng hòm
+- mất tất quận lê quý đôn
+- bị mất tất khu lương ngọc quyến
+- hầu như bị cắt toàn huyện gia ngư
+- hầu như bị cắt tất huyện ngô gia tự
+- bị cắt tất cả khu trường chinh
+- có vẻ mất tất cả đường thuốc bắc
+- có vẻ mất toàn bộ huyện phan huy chú
+- hầu như cắt toàn bộ đường nguyễn trãi
+- có vẻ bị cắt tất phố nguyễn siêu
+- gần như mất toàn xóm nam tràng
+- bị cắt toàn bộ xóm văn yên
+- gần như mất tất phố vạn phúc
+- hầu như bị mất tất khu phạm sư mạnh
+- có vẻ cắt tất cả ngõ ngô thì sĩ
+- mất tất cả quận lê phụng hiểu
+- hầu như bị cắt toàn bộ phố thanh hà
+- có vẻ cắt tất phố hàng vải
+- gần như mất tất cả huyện bạch thái bưởi
+- bị cắt tất huyện trần bình trọng
+- hầu như bị cắt tất quận thái thịnh
+- có vẻ bị mất tất cả quận vọng hà
+- có vẻ bị cắt tất cả phố yên lộ
+- có vẻ bị cắt tất quận mộ lao
+- có vẻ mất toàn bộ ngõ nguyên khiết
+- gần như bị mất toàn bộ quận trần quốc toản
+- bị cắt toàn xóm phạm ngọc thạch
+- bị mất toàn thôn trần quang khải
+- bị cắt toàn bộ phố tô hiệu
+- có vẻ cắt toàn bộ phố triệu quốc đạt
+- bị mất tất xóm ngọc khánh
+- mất tất cả thôn phan đình giót
+- gần như mất tất phố lý đạo thành
+- hầu như bị cắt toàn bộ ngõ cầu đông
+- hầu như cắt tất xóm hàng đồng
+- bị mất toàn huyện ao sen
+- mất toàn phố cửa bắc
+- gần như bị mất toàn ngõ gầm cầu
+- mất toàn thôn tây sơn
+- bị cắt toàn bộ huyện hàng mành
+- gần như cắt toàn bộ quận nguyễn biểu
+- cắt toàn bộ phố trần nguyên hãn
+- gần như bị mất toàn ngõ hồ giám
+- có vẻ cắt tất cả phố lê thái tổ
+- gần như mất toàn xóm ngõ gạch
+- hầu như bị cắt tất cả xóm nguyễn thượng hiền
+- có vẻ mất tất khu láng
+- cắt toàn thôn vũ văn cẩn
+- hầu như cắt toàn ngõ láng hạ
+- bị mất toàn bộ xóm xốm
+- bị cắt tất cả đường huỳnh thúc kháng
+- cắt tất quận nam ngư
+- bị cắt toàn bộ ngõ trưng trắc
+- hầu như cắt tất đường hàm tử quan
+- hầu như cắt toàn bộ phố nguyễn cảnh chân
+- cắt tất cả đường phan đình phùng
+- có vẻ cắt tất cả huyện phan huy chú
+- có vẻ bị cắt toàn phố hàng bạc
+- hầu như bị cắt toàn phố lương ngọc quyến
+- mất toàn bộ quận lê lai
+- cắt toàn bộ huyện lý thường kiệt
+- gần như bị mất toàn ngõ vũ ngọc phan
+- hầu như mất tất phố la nội
+- gần như mất toàn bộ phố đinh tiên hoàng
+- gần như mất tất cả xóm trung phụng
+- gần như mất tất cả khu hàng bút
+- hầu như bị cắt toàn bộ huyện điện biên phủ
+- cắt tất ngõ khúc hạo
+- gần như bị mất toàn quận quang trung
+- bị cắt tất khu hồng phúc
+- gần như cắt toàn bộ quận đặng thái thân
+- gần như cắt tất cả xóm trần nhật duật
+- gần như mất toàn quận nam đồng
+- gần như bị cắt toàn bộ ngõ chu văn an
+- bị mất tất ngõ dương lâm
+- bị mất tất khu lý văn phức
+- hầu như bị mất toàn bộ quận hoàng tích trí
+- có vẻ bị cắt toàn bộ khu hàng da
+- gần như bị cắt toàn bộ ngõ nguyễn như đổ
+- có vẻ bị mất toàn ngõ bảo linh
+- cắt tất cả thôn vọng đức
+- có vẻ cắt toàn khu lê trọng tấn
+- hầu như cắt tất cả đường 19 tháng 5
+- gần như cắt toàn bộ xóm đội nhân
+- hầu như bị mất tất cả ngõ bưởi
+- bị mất tất cả quận hàng ngang
+- bị cắt toàn đường phương mai
+- có vẻ cắt toàn khu quốc tử giám
+- bị cắt tất cả khu nghĩa dũng
+- gần như bị mất tất cả ngõ lương văn can
+- có vẻ bị mất tất cả phố hoàng hoa thám
+- hầu như mất toàn phố đông tác
+- mất toàn bộ xóm hồng hà
+- mất toàn phố cao bá quát
+- có vẻ cắt toàn khu lý nam đế
+- hầu như bị mất toàn bộ đường trần khánh dư
+- có vẻ bị cắt tất quận kim mã
+- có vẻ cắt tất xóm trần hưng đạo
+- hầu như bị cắt tất đường phan bội châu
+- bị mất tất đường an hòa
+- bị mất toàn bộ khu hồng hà
+- hầu như bị mất tất cả huyện hàng tre
+- hầu như cắt toàn bộ thôn giang văn minh
+- hầu như cắt toàn bộ thôn trung liệt
+- mất toàn bộ xóm nguyễn trãi
+- cắt tất cả đường lò rèn
+- mất tất quận hàng thiếc
+- hầu như bị cắt toàn bộ xóm lê thạch
+- có vẻ bị mất tất phố cao thắng
+- có vẻ cắt tất cả phố la thành
+- bị mất toàn bộ huyện bạch đằng
+- có vẻ cắt tất cả thôn trần đăng ninh
+- có vẻ mất toàn bộ đường nguyễn khắc cần
+- có vẻ bị mất tất khu ngô thì nhậm
+- bị mất tất đường láng hạ
+- mất tất đường chương dương độ
+- bị cắt tất quận ấu triệu
+- bị mất toàn bộ đường hàng khoai
+- bị mất toàn ngõ hàng bông
+- bị mất tất cả xóm đặng văn ngữ
+- gần như bị mất tất cả huyện 19 5
+- có vẻ bị cắt tất cả thôn hàng khay
+- có vẻ bị cắt tất huyện hàng lược
+- gần như bị mất toàn thôn ngô quyền
+- cắt tất phố nguyễn xí
+- cắt tất phố võ thị sáu
+- có vẻ bị cắt toàn bộ xóm quán sứ
+- bị mất toàn đường thành
+- hầu như cắt tất xóm ngô văn sở
+- có vẻ cắt tất cả đường hoàng văn thụ
+- có vẻ bị cắt tất cả huyện lê duẩn
+- gần như bị mất toàn đường hàng cân
+- mất tất ngõ nguyễn lương bằng
+- bị mất tất cả phố cầu gỗ
+- mất tất cả khu mai anh tuấn
+- bị mất tất cả khu nguyễn văn lộc
+- mất tất phố 19 tháng 12
+- gần như cắt toàn huyện nguyễn khuyến
+- mất tất ngõ lê hồng phong
+- hầu như bị mất tất cả quận mạc đĩnh chi
+- có vẻ mất tất ngõ trịnh hoài đức
+- bị mất toàn ngõ ỷ la
+- bị cắt tất cả huyện nguyễn tư giản
+- cắt tất cả đường kim hoa
+- có vẻ bị mất toàn quận phan đình phùng
+- bị mất tất quận nguyễn công trứ
+- hầu như cắt tất ngõ hoàng diệu
+- cắt toàn huyện lê duẩn
+- gần như mất tất cả phố nguyễn văn tuyết
+- có vẻ bị cắt toàn phố nguyễn khuyến
+- mất toàn quận đại an
+- hầu như mất toàn bộ thôn vũ trọng khánh
+- hầu như bị cắt tất cả quận chả cá
+- hầu như bị cắt tất quận châu long
+- có vẻ bị mất toàn huyện hồ hoàn kiếm
+- có vẻ bị cắt tất cả khu hàng buồm
+- hầu như bị cắt toàn ngõ đinh tiên hoàng
+- bị mất tất cả thôn trần quang diệu
+- bị mất tất xóm vọng
+- hầu như bị cắt tất cả ngõ nhà thờ
+- bị cắt toàn xóm hàng chai
+- bị mất tất thôn mười chín tháng mười hai
+- cắt toàn huyện lê duẩn
+- mất tất cả ngõ ô chợ dừa
+- hầu như cắt toàn thôn ngũ xã
+- mất tất cả huyện chùa láng
+- gần như mất toàn bộ phố 19 12
+- gần như bị mất toàn bộ thôn mười chín tháng năm
+- cắt tất ngõ đốc ngữ
+- gần như cắt tất cả huyện liễu giai
+- bị mất tất khu hàng thùng
+- hầu như bị mất toàn phố hàng chiếu
+- có vẻ cắt toàn bộ quận hùng vương
+- bị cắt tất ngõ nguyễn quang bích
+- gần như cắt tất phố hàng bè
+- có vẻ cắt toàn huyện đinh lễ
+- bị cắt toàn bộ khu xã đàn
+- bị cắt toàn bộ khu phúc la
+- có vẻ cắt tất cả ngõ đồng xuân
+- bị mất toàn bộ huyện phúc la
+- gần như mất toàn đường tây mỗ
+- cắt tất phố mộ lao
+- gần như bị cắt tất cả xóm phương liệt
+- hầu như bị mất tất huyện thanh lương
+- có vẻ mất toàn quận phạm đình hổ
+- hầu như mất toàn bộ quận yên sở
+- gần như cắt toàn phố lý thái tổ
+- hầu như bị cắt tất cả khu tây tựu
+- có vẻ cắt toàn bộ ngõ đồng xuân
+- hầu như cắt toàn bộ đường đông ngạc
+- gần như bị mất tất xóm văn miếu
+- hầu như bị mất toàn bộ phố trần phú
+- mất toàn bộ huyện đại mỗ
+- cắt tất cả xóm hàng bông
+- cắt tất cả ngõ phú lãm
+- gần như mất toàn bộ phố tràng tiền
+- bị cắt toàn bộ đường vĩnh phúc
+- có vẻ cắt toàn ngõ ô chợ dừa
+- cắt toàn xóm phan chu trinh
+- hầu như bị mất toàn bộ thôn hàng gai
+- bị cắt tất ngõ ngọc thụy
+- bị cắt toàn đường thanh xuân bắc
+- hầu như mất toàn bộ ngõ hàng trống
+- gần như bị cắt toàn xóm phú lương
+- bị cắt tất phố bưởi
+- cắt tất ngõ phúc diễn
+- gần như bị mất tất thôn tương mai
+- có vẻ bị cắt tất phố thành công
+- bị cắt tất huyện kiến hưng
+- có vẻ bị cắt tất ngõ cổ nhuế
+- có vẻ cắt tất cả huyện thịnh liệt
+- gần như bị mất toàn ngõ mai dịch
+- bị mất toàn khu bạch mai
+- hầu như cắt tất thôn dương nội
+- gần như cắt tất cả xóm hàng đào
+- gần như mất toàn phố khương thượng
+- hầu như bị mất tất đường vĩnh tuy
+- bị cắt toàn bộ xóm kim mã
+- hầu như mất toàn khu nguyễn du
+- mất tất cả phố xuân đỉnh
+- gần như cắt tất quận phương mai
+- có vẻ bị cắt toàn bộ phố kim liên
+- có vẻ mất toàn quận hàng gai
+- có vẻ bị mất toàn bộ khu trần hưng đạo
+- bị cắt tất cả quận phúc đồng
+- hầu như mất tất cả phố yên nghĩa
+- bị mất tất cả khu thượng cát
+- bị cắt toàn bộ đường hàng buồm
+- hầu như cắt toàn bộ khu phú đô
+- mất tất huyện quang trung
+- hầu như cắt tất cả huyện mễ trì
+- có vẻ mất tất cả huyện đại kim
+- gần như bị cắt toàn bộ quận bách khoa
+- bị cắt tất cả thôn đồng mai
+- gần như bị cắt toàn phố thụy phương
+- bị mất tất khu khương mai
+- mất toàn bộ quận phúc tân
+- gần như bị cắt toàn thôn đức giang
+- gần như bị mất tất đường liễu giai
+- hầu như bị mất tất phố hàng bồ
+- có vẻ cắt tất cả ngõ la khê
+- có vẻ bị mất tất thôn đội cấn
+- bị mất toàn phố mỹ đình 2
+- mất toàn thôn sài đồng
+- bị mất tất đường kim giang
+- có vẻ cắt tất khu khương trung
+- có vẻ bị mất toàn bộ thôn việt hưng
+- hầu như bị cắt toàn bộ ngõ yên nghĩa
+- hầu như bị mất tất cả huyện văn quán
+- có vẻ mất tất cả phố láng hạ
+- cắt toàn khu gia thụy
+- mất toàn quận nguyễn trãi
+- gần như cắt toàn bộ ngõ trung hòa
+- gần như bị cắt tất đường trung văn
+- gần như bị cắt toàn xóm đồng tâm
+- mất tất đường tân mai
+- cắt toàn bộ khu vạn phúc
+- hầu như mất tất cả xóm tứ liên
+- có vẻ bị mất toàn ngõ quỳnh lôi
+- có vẻ bị mất tất cả đường dịch vọng
+- gần như mất toàn huyện trung tự
+- cắt tất thôn hàng bạc
+- bị cắt tất thôn thanh xuân trung
+- bị mất tất cả đường phú thượng
+- bị cắt toàn thôn phú diễn
+- hầu như bị mất tất xóm phố huế
+- cắt tất cả đường yên hòa
+- cắt toàn bộ thôn phú lương
+- bị cắt tất cả ngõ trúc bạch
+- có vẻ bị mất toàn khu kiến hưng
+- mất toàn thôn cửa đông
+- có vẻ bị cắt tất phố khương đình
+- cắt tất huyện trương định
+- có vẻ cắt tất cả huyện đồng nhân
+- bị cắt tất khu hàng bột
+- mất toàn bộ xóm hàng bồ
+- gần như mất toàn đường xuân la
+- có vẻ bị cắt tất ngõ văn quán
+- hầu như cắt tất phố quang trung
+- có vẻ mất tất cả đường yết kiêu
+- gần như cắt toàn bộ quận yết kiêu
+- bị cắt toàn bộ quận hoàng văn thụ
+- cắt toàn quận mai động
+- hầu như bị cắt toàn thôn hàng trống
+- gần như bị mất tất quận vạn phúc
+- bị cắt toàn bộ phố khâm thiên
+- hầu như cắt toàn khu ngọc hà
+- hầu như bị cắt toàn ngõ thanh xuân nam
+- mất tất khu mỹ đình
+- có vẻ cắt toàn bộ xóm phú la
+- bị cắt toàn bộ quận thanh trì
+- gần như cắt toàn bộ phố quỳnh mai
+- gần như cắt tất cả huyện hoàng liệt
+- mất toàn bộ khu xuân tảo
+- bị mất toàn bộ khu long biên
+- bị cắt tất cả thôn ngọc lâm
+- gần như cắt tất cả xóm thượng thanh
+- bị mất toàn bộ phố nguyễn trãi
+- có vẻ bị mất toàn khu hàng bài
+- có vẻ bị mất toàn bộ đường liên mạc
+- bị mất tất cả huyện hàng đào
+- có vẻ cắt toàn xóm quốc tử giám
+- có vẻ bị cắt tất cả thôn xuân phương
+- mất toàn bộ ngõ hàng bài
+- gần như cắt toàn bộ thôn minh khai
+- bị mất toàn bộ quận hà cầu
+- có vẻ cắt tất cả ngõ vĩnh hưng
+- hầu như mất tất cả phố hàng bạc
+- bị mất tất cả xóm quán thánh
+- hầu như bị cắt toàn bộ thôn lý thái tổ
+- mất toàn thôn bạch đằng
+- có vẻ mất tất cả đường thổ quan
+- hầu như mất tất thôn bồ đề
+- gần như mất toàn bộ huyện nghĩa đô
+- bị mất tất quận lĩnh nam
+- gần như mất tất quận hà cầu
+- bị cắt tất cả thôn la khê
+- hầu như mất tất thôn thượng đình
+- cắt tất cả ngõ đống mác
+- gần như bị cắt toàn bộ huyện quang trung
+- bị cắt tất cả huyện hàng bông
+- gần như cắt toàn khu chương dương
+- hầu như mất tất cả xóm hàng buồm
+- gần như bị cắt tất cả thôn cầu diễn
+- có vẻ bị mất toàn bộ huyện đồng mai
+- có vẻ bị mất toàn bộ khu thụy khuê
+- cắt toàn ngõ phú lãm
+- hầu như mất toàn đường cổ nhuế 2
+- bị mất toàn bộ huyện hàng mã
+- hầu như cắt toàn quận giang biên
+- hầu như bị mất toàn khu ngã tư sở
+- hầu như mất tất cả xóm dịch vọng hậu
+- mất toàn quận thạch bàn
+- gần như mất tất huyện hạ đình
+- hầu như bị mất tất cả đường nam đồng
+- mất tất cả xóm hàng mã
+- có vẻ cắt toàn thôn mộ lao
+- có vẻ bị mất toàn xóm thịnh quang
+- hầu như cắt toàn đường mỹ đình 1
+- bị cắt toàn huyện biên giang
+- có vẻ bị mất toàn bộ quận phú la
+- gần như mất tất cả quận cự khối
+- hầu như mất toàn phố nhật tân
+- gần như bị cắt tất ngõ cầu dền
+- hầu như mất toàn xóm phan chu trinh
+- gần như bị cắt tất huyện cống vị
+- bị cắt tất đường trung liệt
+- gần như cắt toàn bộ huyện điện biên
+- bị cắt tất đường dương nội
+- có vẻ bị mất toàn phố giáp bát
+- hầu như bị cắt toàn ngõ đức thắng
+- cắt tất ngõ lê đại hành
+- gần như bị mất toàn bộ đường cửa nam
+- hầu như bị mất tất phố chương dương
+- bị mất toàn ngõ cát linh
+- hầu như bị mất tất cả quận biên giang
+- mất tất cả khu phương canh
+- hầu như mất tất cả huyện thanh nhàn
+- mất tất cả xóm cửa đông
+- mất tất cả khu ngọc khánh
+- gần như bị mất toàn bộ quận quan hoa
+- bị cắt toàn phố cửa nam
+- bị mất tất quận yên phụ
+- hầu như mất toàn khu định công
+- cắt tất xóm phúc lợi
+- bị mất toàn bộ xóm phương liên
+- bị cắt tất xóm cổ nhuế 1
+- có vẻ bị cắt tất quận phúc xá
+- cắt tất thôn quảng an
+- gần như mất tất phố trung phụng
+- có vẻ cắt tất cả khu láng thượng
+- gần như cắt tất cả quận nguyễn trung trực
+- có vẻ bị cắt toàn đường văn chương
+- có vẻ bị mất toàn bộ ngõ minh khai
+- bị mất tất huyện nghĩa tân
+- cắt toàn bộ đường nhân chính
+- mất tất cả xóm giảng võ
+- mất tất luôn chị ơi
+- bị bắt điện tất khu luôn cô ơi
+- mất điện toàn khu luôn cháu ơi
+- bị bắt điện tất khu vực luôn cháu
+- mất điện tất khu luôn cháu ơi
+- mất toàn khu luôn cháu ạ
+- cắt điện tất khu vực luôn chú ạ
+- mất điện toàn bộ luôn cháu ơi
+- bị bắt điện toàn bộ luôn cô
+- mất điện tất khu luôn chú ơi
+- bị bắt điện toàn khu luôn mày
+- bị bắt điện toàn khu luôn chú
+- mất tất luôn em ạ
+- cắt điện tất luôn mày
+- cắt điện tất khu vực luôn em ơi
+- mất toàn bộ luôn cháu
+- cắt điện tất khu luôn chị ơi
+- mất tất khu vực luôn anh ạ
+- mất điện toàn khu luôn mày ơi
+- cắt điện toàn khu luôn chú ạ
+- cắt điện tất luôn cô
+- cắt điện tất khu luôn em
+- cắt điện tất luôn chị ơi
+- mất toàn bộ luôn chị ạ
+- cắt điện toàn khu luôn cháu
+- cắt điện tất khu vực luôn cô ơi
+- mất tất khu luôn mày
+- mất điện tất khu vực luôn mày ơi
+- bị bắt điện tất luôn mày
+- mất tất khu vực luôn cháu ạ
+- mất điện toàn khu luôn cô
+- cắt điện toàn khu luôn cháu
+- cắt điện tất khu vực luôn cô ạ
+- cắt điện tất khu vực luôn cháu
+- bị bắt điện toàn bộ luôn em ạ
+- bị bắt điện tất khu vực luôn chú ơi
+- mất tất luôn em
+- cắt điện tất luôn cô ơi
+- bị bắt điện toàn khu luôn em
+- mất tất khu luôn chú ơi
+- bị bắt điện tất khu luôn cô
+- cắt điện toàn bộ luôn cô ơi
+- mất điện toàn khu luôn em
+- cắt điện tất khu vực luôn em ạ
+- cắt điện tất khu luôn chú
+- bị bắt điện toàn bộ luôn anh ơi
+- cắt điện toàn bộ luôn anh
+- mất điện toàn khu luôn chị
+- cắt điện tất khu vực luôn mày ơi
+- mất điện tất khu luôn chị ạ
+- tôi thấy ngoài đường vẫn có điện chỉ khu vực tôi không có điện
+- anh nhín thấy khu vực bên có điện chỉ xóm anh chẳng có điện
+- tôi nhìn bên khu khác vẫn còn điện chỉ xóm tôi bị mất
+- chị thấy khu vực bên vẫn có điện độc thôn chị chẳng có điện
+- chú thấy khu bên có điện chỉ thôn chú không có điện
+- chú nhìn khu vực bên có đèn sáng độc thôn chú bị cắt
+- cô nhín thấy ngoài đường có đèn sáng độc thôn cô không có điện
+- cô thấy hàng xóm vẫn có điện mỗi khu vực cô bị cắt
+- thím nhín thấy ngoài đường có đèn sáng độc khu thím không có điện
+- anh nhìn hàng xóm có đèn sáng chỉ khu anh hổng có điện
+- mình nhìn nhà bên cạnh có đèn sáng độc khu mình chẳng có điện
+- chú thấy khu bên có đèn sáng độc xóm chú không có điện
+- thím nhín thấy khu vực bên có đèn sáng chỉ ngõ thím chẳng có điện
+- em nhìn nhà bên cạnh vẫn còn điện chỉ xóm em hổng có điện
+- chị nhín thấy khu bên có điện độc khu chị bị cắt
+- mình thấy bên khu khác có điện độc ngõ mình bị mất
+- bạn nhín thấy khu vực bên có điện chỉ thôn bạn bị mất
+- tôi nhín thấy khu bên vẫn có điện độc ngõ tôi mất điện
+- chị nhìn bên khu khác vẫn còn điện mỗi xóm chị chẳng có điện
+- bạn nhín thấy nhà bên cạnh có đèn sáng mỗi xóm bạn bị cắt
+- cô nhín thấy khu vực bên vẫn có điện độc khu cô bị cắt
+- bạn nhín thấy khu bên có đèn sáng độc khu bạn mất điện
+- chú nhìn ngoài đường có đèn sáng mỗi ngõ chú chẳng có điện
+- mình nhìn nhà bên cạnh vẫn còn điện chỉ thôn mình mất điện
+- bạn thấy ngoài đường có đèn sáng chỉ thôn bạn bị cắt
+- tôi thấy ngoài đường vẫn có điện độc ngõ tôi bị mất
+- anh nhín thấy ngoài đường có đèn sáng mỗi thôn anh bị mất
+- bạn nhìn nhà bên có đèn sáng độc xóm bạn không có điện
+- anh nhín thấy nhà bên cạnh vẫn có điện độc xóm anh bị cắt
+- cô thấy ngoài đường vẫn có điện độc xóm cô hổng có điện
+- chị nhín thấy ngoài đường vẫn còn điện mỗi thôn chị chẳng có điện
+- cô nhín thấy hàng xóm vẫn còn điện độc xóm cô mất điện
+- chị nhìn hàng xóm vẫn có điện mỗi xóm chị không có điện
+- chú nhìn ngoài đường vẫn có điện độc xóm chú mất điện
+- chị nhín thấy nhà bên có đèn sáng mỗi xóm chị mất điện
+- cô nhín thấy nhà bên cạnh vẫn còn điện mỗi thôn cô bị cắt
+- bạn nhín thấy khu bên có điện mỗi thôn bạn hổng có điện
+- thím nhìn nhà bên vẫn có điện độc thôn thím mất điện
+- em nhìn ngoài đường vẫn có điện mỗi ngõ em chẳng có điện
+- em nhín thấy khu bên có điện mỗi ngõ em bị mất
+- chú thấy khu vực bên vẫn có điện mỗi thôn chú bị cắt
+- em thấy khu vực bên vẫn có điện chỉ khu em chẳng có điện
+- tôi nhín thấy hàng xóm có điện độc khu tôi bị cắt
+- cô thấy khu bên vẫn có điện mỗi xóm cô bị mất
+- thím nhín thấy khu vực bên có điện độc xóm thím mất điện
+- cô thấy ngoài đường có điện chỉ thôn cô không có điện
+- em thấy nhà bên có đèn sáng độc xóm em hổng có điện
+- mình nhín thấy khu bên vẫn còn điện độc ngõ mình hổng có điện
+- chị nhìn nhà bên cạnh có điện độc xóm chị không có điện
+- tôi nhín thấy khu vực bên có điện độc khu vực tôi chẳng có điện
+- khu vực mộ lao nhớ chị ở an dương vương
+- ở nơi khu ngọc lâm nhé chú ở yên phụ
+- ở chỗ khu vực cát linh nhá chị ở hồng hà
+- khu vực đức thắng nhé anh ở đức thắng
+- khu vĩnh phúc nhé chị ở phúc hoa
+- ở cái khu vực phú la nhá chú ở âu cơ
+- khu vực kim mã nhá anh ở doãn kế thiện
+- khu ô chợ dừa nhớ anh ở văn cao
+- ở chỗ khu trần hưng đạo nhớ chị ở nguyễn ngọc vũ
+- ở khu dương nội nhớ cô ở phùng chí kiên
+- ở nơi khu vực mai động nhé chú ở quảng an
+- ở nơi khu trần hưng đạo nhá em ở nguyễn đình thi
+- ở nơi khu vực điện biên nhớ anh ở an dương vương
+- ở nơi khu phú lương nhá em ở tô ngọc vân
+- ở cái khu vực cầu diễn nhá cô ở nghĩa tân
+- ở cái khu vực đức giang nhá anh ở trung văn
+- khu vực cửa đông nhá anh ở mạc thái tông
+- khu vực giáp bát nhớ mình ở quảng an
+- khu vực khâm thiên nhá em ở nguyễn khánh toàn
+- ở chỗ khu vực khương mai nhá anh ở quảng khánh
+- ở khu vực đồng tâm nhá mình ở hoàng ngân
+- khu vực phú la nhé anh ở vũ quỳnh
+- ở chỗ khu quỳnh lôi nhá mình ở nguyễn hoàng tôn
+- khu vực phan chu trinh nhớ chú ở xuân diệu
+- ở khu hà cầu nhớ anh ở phạm văn đồng
+- khu vực khương đình nhá mình ở xuân la
+- ở nơi khu lý thái tổ nhá cô ở nghĩa đô
+- khu vực tân mai nhé chú ở đồng cổ
+- ở khu dịch vọng nhớ chú ở vũ miên
+- khu vực ngọc khánh nhớ em ở trần văn cẩn
+- ở chỗ khu nguyễn trãi nhá chị ở lê đức thọ
+- ở cái khu vực cửa đông nhớ mình ở lê văn lương
+- ở cái khu thanh xuân nam nhớ em ở đỗ quang
+- ở cái khu vực hàng bông nhé mình ở lê văn lương
+- khu khương trung nhé chú ở trung kính
+- ở nơi khu phú lãm nhé cô ở nguyễn chánh
+- ở cái khu vực chương dương nhớ cô ở hoàng quốc việt
+- khu vực kiến hưng nhá cô ở phan bá vành
+- ở khu vực cổ nhuế 1 nhé mình ở mai dịch
+- khu tây mỗ nhớ cô ở xuân thủy
+- khu vực nguyễn trung trực nhé mình ở bùi trang chước
+- khu vực liễu giai nhớ em ở trương công giai
+- ở cái khu vực yên sở nhớ mình ở nhật chiêu
+- khu vực phúc tân nhé chị ở an dương
+- ở chỗ khu vực thụy khuê nhé mình ở khuất duy tiến
+- ở nơi khu khương thượng nhớ anh ở mai xuân thưởng
+- ở khu láng hạ nhé anh ở đức diễn
+- ở chỗ khu nguyễn trung trực nhớ mình ở dương đình nghệ
+- ở cái khu vực phan chu trinh nhá em ở dịch vọng
+- khu vực cống vị nhá em ở dịch vọng hậu
+- khu vực liễu giai nhá em ở trần vỹ
+- ở nơi khu vực kim liên nhé chị ở xuân phương
+- ở cái khu la khê nhé anh ở thành thái
+- ở khu vực hàng bột nhá chú ở thanh niên
+- ở nơi khu vực vĩnh tuy nhớ mình ở kỳ vũ
+- khu trung tự nhá chị ở võng thị
+- khu phố huế nhé chị ở phúc diễn
+- ở cái khu yên nghĩa nhá chị ở phúc hoa
+- ở khu tràng tiền nhá cô ở đại lộ thăng long
+- khu nguyễn du nhé chú ở phú gia
+- ở khu ngọc thụy nhá mình ở dương quảng hàm
+- khu vực đống mác nhá chú ở vũ trọng khánh
+- khu cửa nam nhớ mình ở đặng thùy trâm
+- khu vực phúc la nhá cô ở nghi tàm
+- ở cái khu phúc lợi nhá em ở mai xuân thưởng
+- ở khu vực cống vị nhớ anh ở đinh núp
+- ở chỗ khu đồng mai nhớ chú ở dương đình nghệ
+- khu hàng mã nhá em ở doãn kế thiện
+- ở chỗ khu vạn phúc nhớ mình ở nhật chiêu
+- ở cái khu vực gia thụy nhớ anh ở nguyễn phong sắc
+- khu phương mai nhé chú ở duy tân
+- ở cái khu tương mai nhá em ở trịnh công sơn
+- ở chỗ khu vực phạm đình hổ nhớ chú ở xuân la
+- ở khu vực hàng bột nhá mình ở vũ trọng khánh
+- khu vực thạch bàn nhớ em ở nguyễn quốc trị
+- ở nơi khu vực quảng an nhớ chú ở hoa bằng
+- ở nơi khu vực quán thánh nhé cô ở phạm hùng
+- khu quốc tử giám nhá anh ở đặng thùy trâm
+- ở cái khu vực hoàng liệt nhé cô ở hoàng đạo thúy
+- ở nơi khu vực nhân chính nhá cô ở mai dịch
+- ở nơi khu giảng võ nhé cô ở vũ phạm hàm
+- ở nơi khu thịnh liệt nhé mình ở đồng cổ
+- khu đồng mai nhớ chị ở đỗ quang
+- ở cái khu vực long biên nhé chú ở phạm văn bạch
+- ở cái khu vực ngọc hà nhá chú ở nhổn
+- ở cái khu hàng bài nhé cô ở hoàng minh giám
+- ở khu vực nhật tân nhớ mình ở kiều mai
+- khu vực liên mạc nhá em ở nguyễn đình tứ
+- ở khu vực lê đại hành nhé anh ở xuân phương
+- khu vực dương nội nhớ chú ở hoàng quốc việt
+- khu vực lý thái tổ nhé cô ở nguyễn đình hoàn
+- ở chỗ khu trúc bạch nhá anh ở đăm
+- ở chỗ khu vực thành công nhớ anh ở thọ tháp
+- ở khu vực mỹ đình 1 nhé anh ở đặng thùy trâm
+- ở chỗ khu vực cửa nam nhé cô ở đình quán
+- khu phương liệt nhớ cô ở cầu diễn
+- khu vực sài đồng nhớ chị ở tô hiệu
+- khu vực văn chương nhá em ở khúc thừa dụ
+- khu la khê nhé cô ở trần tử bình
+- khu quan hoa nhớ chú ở đông thắng
+- khu vực đồng tâm nhớ chú ở châu đài
+- khu vực yên hòa nhớ cô ở hoàng quốc việt
+- ở chỗ khu vực bồ đề nhớ mình ở lê đức thọ
+- ở khu trung liệt nhé anh ở liên mạc
+- khu vực mỹ đình nhớ anh ở ngọa long
+- khu vực minh khai nhá mình ở trần bình
+- khu nguyễn trãi nhá cô ở dịch vọng hậu
+- khu vực ngọc khánh nhé em ở võ chí công
+- ở cái khu kim giang nhé chú ở nguyễn đỗ cung
+- khu phúc diễn nhé em ở võng thị
+- khu văn quán nhé mình ở lộc
+- khu phố huế nhé mình ở hoàng liên
+- khu thanh xuân bắc nhá anh ở võ chí công
+- ở nơi khu ngọc hà nhá chị ở yên hoa
+- ở cái khu hàng gai nhá chú ở dương khuê
+- khu hàng bồ nhé cô ở văn cao
+- ở khu vĩnh hưng nhá anh ở lạc long quân
+- ở chỗ khu phú lương nhá chị ở trần quý kiên
+- khu xuân đỉnh nhớ em ở nguyễn khả trạc
+- ở cái khu vĩnh phúc nhá mình ở phạm văn đồng
+- khu cát linh nhé chú ở đỗ nhuận
+- ở nơi khu vực hàng gai nhé chị ở phú kiều
+- ở khu hàng trống nhớ cô ở lạc long quân
+- khu hàng mã nhé chú ở hoàng minh giám
+- ở nơi khu vực thổ quan nhá em ở thụy khuê
+- khu điện biên nhé mình ở an dương
+- ở nơi khu cổ nhuế 2 nhớ chị ở tứ liên
+- khu vực phạm đình hổ nhá anh ở trần quốc hoàn
+- khu đại mỗ nhé mình ở hoa bằng
+- ở chỗ khu vực lĩnh nam nhé anh ở mạc thái tổ
+- ở nơi khu vực quán thánh nhớ cô ở trịnh văn bô
+- ở khu quang trung nhá chú ở hùng vương
+- khu hà cầu nhé mình ở đặng thai mai
+- khu vực bưởi nhé chú ở trần văn lai
+- khu hàng buồm nhớ chị ở vệ hồ
+- khu vực hàng trống nhá chị ở bùi trang chước
+- khu vực kim mã nhớ mình ở khúc thừa dụ
+- ở chỗ khu vực mỹ đình 2 nhé em ở hồ tùng mậu
+- ở cái khu tứ liên nhé em ở nguyễn khang
+- ở khu vực phúc tân nhé anh ở dương quảng hàm
+- khu thành công nhá mình ở dịch vọng
+- ở nơi khu ô chợ dừa nhé chị ở phạm tuấn tài
+- ở khu thượng thanh nhé em ở nguyễn hoàng tôn
+- ở chỗ khu văn miếu nhé mình ở quảng bá
+- ở chỗ khu biên giang nhá em ở tú mỡ
+- ở cái khu vực thượng đình nhá cô ở nhật tảo
+- ở chỗ khu vực nguyễn du nhớ anh ở đặng thai mai
+- ở nơi khu vực quỳnh mai nhá em ở phan đình phùng
+- khu vực xuân phương nhớ em ở trịnh văn bô
+- ở nơi khu thịnh quang nhá chú ở chùa hà
+- ở cái khu vực phúc đồng nhớ em ở hoàng ngân
+- ở chỗ khu láng hạ nhớ cô ở nguyễn xuân linh
+- khu quang trung nhé mình ở phạm thận duật
+- khu vực hàng đào nhé em ở hoàng sâm
+- ở khu phú diễn nhá chú ở mạc thái tổ
+- khu trúc bạch nhé mình ở nguyễn xuân khoát
+- khu trung phụng nhá mình ở sùng khang
+- khu vực khương thượng nhé cô ở trịnh công sơn
+- ở chỗ khu nghĩa tân nhé chú ở chùa hà
+- khu vực mộ lao nhớ cô ở dương khuê
+- khu vực chương dương nhá cô ở lê văn hiến
+- khu vực văn quán nhé cô ở mạc xá
+- ở nơi khu đồng nhân nhá mình ở đại lộ thăng long
+- khu yên nghĩa nhớ chị ở quan hoa
+- ở cái khu hàng bạc nhá cô ở vũ hữu
+- khu vực trương định nhá em ở thượng thụy
+- ở chỗ khu vực hàng bài nhá chị ở từ hoa
+- khu trung phụng nhá chị ở hồ tùng mậu
+- ở chỗ khu bạch đằng nhé chú ở trần văn cẩn
+- khu đồng xuân nhá chú ở vệ hồ
+- ở nơi khu giang biên nhá em ở vũ tuấn chiêu
+- khu vực thịnh quang nhé em ở hoàng hoa thám
+- ở khu vực mai dịch nhớ anh ở hoàng đạo thúy
+- ở chỗ khu vực bạch mai nhá chị ở vũ quỳnh
+- ở khu vực văn chương nhớ em ở phúc minh
+- ở cái khu thụy phương nhớ mình ở trần hữu dực
+- ở khu bách khoa nhé mình ở trích sài
+- khu minh khai nhé cô ở tu hoàng
+- ở chỗ khu trung tự nhá chị ở hồng hà
+- khu vực bạch đằng nhớ chị ở trần đăng ninh
+- khu phương canh nhớ chị ở đinh núp
+- ở chỗ khu giảng võ nhớ chị ở nguyễn hoàng tôn
+- khu quang trung nhớ mình ở hoàng sâm
+- ở cái khu đồng nhân nhớ chị ở trích sài
+- ở cái khu nam đồng nhé chị ở phan văn trường
+- khu trần phú nhá anh ở bưởi
+- khu vực trung văn nhớ chú ở hoàng công chất
+- khu vực ngã tư sở nhá chị ở hoàng tăng bí
+- ở khu hoàng văn thụ nhớ chú ở thượng thụy
+- ở nơi khu vực cổ nhuế nhớ mình ở phan đình phùng
+- ở khu đại kim nhớ em ở tam đa
+- ở nơi khu nam đồng nhớ em ở nguyễn đình thi
+- khu yên phụ nhé chị ở bưởi
+- khu lê đại hành nhớ anh ở an dương vương
+- ở chỗ khu kim liên nhé em ở nguyên xá
+- khu vực thanh xuân trung nhé mình ở nguyễn thị thập
+- ở chỗ khu vực cự khối nhá em ở yên phụ
+- ở cái khu ngã tư sở nhé anh ở duy tân
+- khu vực đông ngạc nhá em ở hoàng hoa thám
+- ở chỗ khu vực trung hòa nhé chú ở trần quốc vượng
+- ở khu vực láng thượng nhé anh ở xuân diệu
+- ở nơi khu vực phúc la nhớ cô ở tam đa
+- ở khu đống mác nhớ chú ở trung văn
+- khu vực trung liệt nhớ em ở trung hòa
+- khu vực cầu dền nhé anh ở nghi tàm
+- khu vực thanh lương nhé mình ở nguyễn văn huyên
+- ở cái khu vực quốc tử giám nhá chú ở tú mỡ
+- ở khu hạ đình nhá mình ở quảng bá
+- ở khu vực tràng tiền nhé chú ở khuất duy tiến
+- khu vực hàng buồm nhé anh ở vũ miên
+- ở cái khu phú lãm nhé chị ở từ hoa
+- khu vực phú thượng nhá chú ở lạc long quân
+- ở khu đội cấn nhớ anh ở trần hữu dực
+- khu vực mễ trì nhá cô ở trần văn lai
+- ở cái khu vực đội cấn nhé chị ở trần cung
+- ở khu vực nghĩa đô nhá cô ở nguyễn thị định
+- khu vực việt hưng nhớ chị ở hùng vương
+- khu biên giang nhé chị ở lạc long quân
+- khu phương liên nhá anh ở tu hoàng
+- khu hàng bông nhé chú ở vũ hữu
+- khu thổ quan nhé mình ở trần duy hưng
+- ở nơi khu vực quang trung nhớ cô ở phú xá
+- ở cái khu láng thượng nhé chị ở đông ngạc
+- ở chỗ khu vực hàng bồ nhớ em ở phú gia
+- khu thanh trì nhớ chú ở phú xá
+- khu vực cầu dền nhá chú ở tôn thất thuyết
+- ở khu phương liên nhớ chị ở quảng khánh
+- ở chỗ khu vực văn miếu nhé cô ở thụy khuê
+- ở chỗ khu hàng đào nhớ cô ở phú thượng
+- khu vực khâm thiên nhớ chị ở trần kim xuyến
+- ở khu tây tựu nhớ em ở yên hòa
+- ở cái khu phú đô nhớ chú ở tú mỡ
+- ở nơi khu bạch mai nhé em ở mạc thái tông
+- ở nơi khu vực phương mai nhá chị ở quan nhân
+- ở nơi khu vực vạn phúc nhé em ở cổ nhuế
+- khu vực thượng cát nhá anh ở phú minh
+- khu phúc xá nhá chị ở võ chí công
+- khu yết kiêu nhớ anh ở cầu noi
+- ở nơi khu vực xuân tảo nhé anh ở trần thái tông
+- ở khu dịch vọng hậu nhá cô ở âu cơ
+- ở chỗ khu đồng xuân nhớ chị ở phạm tuấn tài
+- ở cái khu hàng bạc nhá cô ở kẻ vẽ
+- ở khu vực phúc xá nhé anh ở phú diễn
+- ở nơi khu vực bách khoa nhớ anh ở phú thượng
+- ở nơi khu minh khai nhá cô ở hồ tùng mậu
+- khu vực định công nhé anh ở tô ngọc vân
+- ở cái khu vực kiến hưng nhớ cô ở yên hoa
+- ở chỗ khu vực thanh nhàn nhớ cô ở tứ liên
+- khu xuân la nhá em ở vũ tuấn chiêu
+- khu yết kiêu nhớ chị ở thanh niên
+<!-- update 13/12/2020 -->
+- mất tất khu vực nào cũng mất không nhà nào có cả nhá anh
+- mất hêt nhà nào cũng mất không nhà nào có hết nhá anh
+- mất hêt hộ nào cũng mất không nhà nào có hết nhé chú
+- mất tất xóm nào cũng mất không nhà nào có cả nhá anh
+- mất hêt khu nào cũng mất không nhà nào có hết nhớ bạn
+- mất hêt khu vực nào cũng mất không nhà nào có cả nhá chú
+- mất tất nhà nào cũng mất không nhà nào có hết nhớ bạn
+- mất hêt khu nào cũng mất không nhà nào có cả nhá chú
+- mất tất nhà nào cũng mất không nhà nào có hết nhé cô
+- mất tất hộ nào cũng mất không nhà nào có cả nhá chú
+- mất tất hộ nào cũng mất không nhà nào có cả nhớ bạn
+- mất hêt xóm nào cũng mất không nhà nào có cả nhớ chị
+- mất hêt nhà nào cũng mất không nhà nào có cả nhớ em
+- mất tất khu nào cũng mất không nhà nào có cả nhá cô
+- mất tất nhà nào cũng mất không nhà nào có hết nhé em
+- mất tất khu vực nào cũng mất không nhà nào có cả nhé bạn
+- mất hêt khu vực nào cũng mất không nhà nào có cả nhá anh
+- mất tất khu vực nào cũng mất không nhà nào có cả nhé anh
+- mất tất nhà nào cũng mất không nhà nào có hết nhá bạn
+- mất hêt khu nào cũng mất không nhà nào có cả nhé chị
+- mất tất hộ nào cũng mất không nhà nào có cả nhé em
+- mất tất khu vực nào cũng mất không nhà nào có hết nhớ bạn
+- mất hêt khu vực nào cũng mất không nhà nào có cả nhé em
+- mất hêt xóm nào cũng mất không nhà nào có cả nhé chị
+- mất tất nhà nào cũng mất không nhà nào có cả nhớ bạn
+- mất hêt xóm nào cũng mất không nhà nào có hết nhá chị
+- mất hêt hộ nào cũng mất không nhà nào có cả nhá chị
+- mất hêt khu vực nào cũng mất không nhà nào có hết nhớ chú
+- mất tất hộ nào cũng mất không nhà nào có cả nhé chú
+- mất tất nhà nào cũng mất không nhà nào có cả nhé em
+- mất hêt hộ nào cũng mất không nhà nào có cả nhé cô
+- mất hêt khu vực nào cũng mất không nhà nào có cả nhé cô
+- mất hêt xóm nào cũng mất không nhà nào có cả nhớ cô
+- mất tất khu vực nào cũng mất không nhà nào có cả nhớ chú
+- mất hêt xóm nào cũng mất không nhà nào có cả nhá chú
+- mất tất khu nào cũng mất không nhà nào có cả nhé anh
+- mất tất khu vực nào cũng mất không nhà nào có hết nhớ chú
+- mất hêt nhà nào cũng mất không nhà nào có hết nhớ chú
+- mất tất khu nào cũng mất không nhà nào có hết nhá chị
+- mất tất xóm nào cũng mất không nhà nào có hết nhớ chị
+- mất tất nhà nào cũng mất không nhà nào có cả nhớ anh
+- mất tất khu nào cũng mất không nhà nào có hết nhá chú
+- mất tất hộ nào cũng mất không nhà nào có hết nhớ anh
+- mất tất khu nào cũng mất không nhà nào có cả nhớ chú
+- mất hêt xóm nào cũng mất không nhà nào có hết nhớ chú
+- mất tất xóm nào cũng mất không nhà nào có cả nhá bạn
+- mất tất khu vực nào cũng mất không nhà nào có hết nhá em
+- mất hêt hộ nào cũng mất không nhà nào có cả nhớ em
+- mất hêt xóm nào cũng mất không nhà nào có cả nhá em
+- mất tất khu nào cũng mất không nhà nào có cả nhá em
+<!-- update 13/12/2020 -->
+- cả dãy dân phố nhà anh mất tất không dãy nào có điện cả
+- cả cái dãy nhà anh cắt điện tất không nhà nào có điện cả
+- cả cái tổ dân phố nhà cô mất hết không dãy nào có điện cả
+- cả cái tổ dân phố nhà tôi mất hết không dãy nào có điện cả
+- cả dãy nhà tôi cắt điện tất không nhà nào có điện cả
+- cả dãy dân phố nhà anh cắt điện tất không nhà nào có điện cả
+- cả tổ dân phố nhà cô mất hết không tổ nào có điện cả
+- cả dãy dân phố nhà tôi mất điện không dãy nào có điện cả
+- cả tổ dân phố nhà chị cắt điện tất không nhà nào có điện cả
+- cả cái dãy nhà mình mất tất không dãy nào có điện cả
+- cả cái tổ dân phố nhà chị mất tất không nhà nào có điện cả
+- cả cái tổ dân phố nhà cô cắt điện tất không dãy nào có điện cả
+- cả cái dãy dân phố nhà anh mất hết không tổ nào có điện cả
+- cả cái tổ dân phố nhà anh mất tất không dãy nào có điện cả
+- cả dãy nhà tao cắt điện tất không tổ nào có điện cả
+- cả tổ nhà anh mất điện không dãy nào có điện cả
+- cả dãy dân phố nhà anh mất hết không nhà nào có điện cả
+- cả dãy nhà tôi mất hết không nhà nào có điện cả
+- cả cái dãy nhà tôi mất hết không tổ nào có điện cả
+- cả tổ dân phố nhà tao mất tất không dãy nào có điện cả
+- cả dãy dân phố nhà mình mất hết không dãy nào có điện cả
+- cả cái tổ nhà mình mất điện không nhà nào có điện cả
+- cả tổ dân phố nhà tôi mất hết không dãy nào có điện cả
+- cả tổ nhà anh cắt điện tất không tổ nào có điện cả
+- cả cái tổ nhà chị mất tất không tổ nào có điện cả
+- cả tổ nhà chị cắt điện tất không nhà nào có điện cả
+- cả cái dãy nhà cô cắt điện tất không tổ nào có điện cả
+- cả dãy nhà anh cắt điện tất không dãy nào có điện cả
+- cả cái tổ nhà anh mất điện không tổ nào có điện cả
+- cả tổ dân phố nhà anh mất tất không nhà nào có điện cả
+- cả dãy nhà anh mất hết không tổ nào có điện cả
+- cả dãy nhà chị mất tất không dãy nào có điện cả
+- cả cái tổ nhà tôi mất tất không tổ nào có điện cả
+- cả dãy nhà chị mất tất không tổ nào có điện cả
+- cả cái dãy nhà chú mất hết không dãy nào có điện cả
+- cả cái tổ nhà chị cắt điện tất không tổ nào có điện cả
+- cả cái dãy dân phố nhà anh mất tất không nhà nào có điện cả
+- cả tổ nhà anh cắt điện tất không dãy nào có điện cả
+- cả cái dãy nhà tao mất điện không tổ nào có điện cả
+- cả cái tổ nhà mình mất điện không tổ nào có điện cả
+- cả cái tổ nhà tôi mất điện không dãy nào có điện cả
+- cả tổ nhà tao mất hết không nhà nào có điện cả
+- cả dãy nhà tao mất hết không nhà nào có điện cả
+- cả cái dãy dân phố nhà mình cắt điện tất không tổ nào có điện cả
+- cả cái tổ dân phố nhà chú mất hết không nhà nào có điện cả
+- cả tổ nhà tao cắt điện tất không tổ nào có điện cả
+- cả tổ nhà cô mất điện không tổ nào có điện cả
+- cả tổ nhà tôi mất điện không nhà nào có điện cả
+- cả dãy dân phố nhà tao mất hết không nhà nào có điện cả
+- cả dãy dân phố nhà tôi cắt điện tất không nhà nào có điện cả

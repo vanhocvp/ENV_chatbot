@@ -1,0 +1,116 @@
+{
+	"info": {
+		"_postman_id": "dd5ede4f-7d3a-4672-84d1-530f3d193ebe",
+		"name": "conver_1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "start",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/apis/init",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"apis",
+						"init"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "send_distric",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"sender_id\":3,\n\"message\": \"xin chào\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/apis/conver",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"apis",
+						"conver"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "send_distric Copy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"sender_id\":3,\n\"message\": \"anh không biết nữa\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/apis/conver",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"apis",
+						"conver"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "send_dont_clear",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"sender_id\":3,\n\"message\": \"anh không biết nữa\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/apis/conver",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"apis",
+						"conver"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
